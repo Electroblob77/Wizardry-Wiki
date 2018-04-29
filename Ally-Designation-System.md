@@ -13,8 +13,9 @@ Designating a player as an ally has the following effects:
 * Allies are affected by group spells such as invigorating presence
 * Allies will not trigger magical traps such as snare
 * Allies are not damaged by spells that have an area of effect
-* However, spells aimed directly at allies will still affect them as normal
-* If enabled, the friendly fire config option makes allies immune to all damage and negative effects from spells you cast. (Personally, I think this is unbalanced in regular survival, but it's there if you want it - it could also be useful for some sort of minigame...)
+* _However, spells aimed directly at allies will still affect them as normal_
+
+If enabled, the friendly fire config option makes allies immune to all damage and negative effects from spells you cast. (Personally, I think this is unbalanced in regular survival, but it's there if you want it - it could also be useful for some sort of minigame...)
 
 You can also interact with the ADS using the /ally and /allies commands; see [Commands](https://github.com/Electroblob77/Wizardry/wiki/Commands) for details.
 
