@@ -1,4 +1,4 @@
-[![](https://media.forgecdn.net/attachments/thumbnails/203/629/310/172/banner6.png)](https://github.com/Electroblob77/Wizardry/wiki)
+[![](https://media.forgecdn.net/attachments/228/493/logo_shadow.png)](https://github.com/Electroblob77/Wizardry/wiki)
 ### Gameplay
 Getting Started  
 Blocks  
