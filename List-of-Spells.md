@@ -19,7 +19,7 @@ This page is a list of all the spells currently in Wizardry, along with their de
 
 | #   | Name                    | Tier       | Element    | Type       | Mana      | Continuous? | Wizards? | ID  | Version |
 |-----|-------------------------|------------|------------|------------|-----------|-------------|----------|-----|---------|
-| 1   | Magic Missile           | Novice     | Magic      | Attack     | 5         | No          | Yes      | 1   | 1.0     |
+| 1   | [Magic Missile](https://github.com/Electroblob77/Wizardry/wiki/Magic-Missile)           | Novice     | Magic      | Attack     | 5         | No          | Yes      | 1   | 1.0     |
 | 2   | Ignite                  | Novice     | Fire       | Attack     | 5         | No          | Yes      | 2   | 1.0     |
 | 3   | Smoke Bomb              | Novice     | Fire       | Attack     | 5         | No          | Yes      | 111 | 1.1     |
 | 4   | Freeze                  | Novice     | Ice        | Alteration | 5         | No          | Yes      | 3   | 1.0     |
@@ -32,7 +32,7 @@ This page is a list of all the spells currently in Wizardry, along with their de
 | 11  | Snare                   | Novice     | Earth      | Construct  | 5         | No          | No       | 9   | 1.0     |
 | 12  | Leap                    | Novice     | Earth      | Utility    | 5         | No          | No       | 113 | 1.1     |
 | 13  | Light                   | Novice     | Sorcery    | Utility    | 5         | No          | No       | 10  | 1.0     |
-| 14  | Telekinesis             | Novice     | Sorcery    | Utility    | 5         | No          | Yes*     | 11  | 1.0     |
+| 14  | Telekinesis             | Novice     | Sorcery    | Utility    | 5         | No          | Yes[*](https://github.com/Electroblob77/Wizardry/wiki/List-of-Spells/_edit#-telekinesis-can-only-be-used-by-wizards-to-disarm-players)     | 11  | 1.0     |
 | 15  | Heal                    | Novice     | Healing    | Defence    | 5         | No          | Yes**    | 12  | 1.0     |
 | 16  | Fireball                | Apprentice | Fire       | Attack     | 10        | No          | Yes      | 13  | 1.0     |
 | 17  | Flame Ray               | Apprentice | Fire       | Attack     | 5/second  | Yes         | Yes      | 14  | 1.0     |
@@ -160,6 +160,6 @@ This page is a list of all the spells currently in Wizardry, along with their de
 | 139 | Font of Vitality        | Master     | Healing    | Buff       | 75        | No          | No       | 110 | 1.0     |
 | 140 | Font of Mana            | Master     | Healing    | Buff       | 100       | No          | No       | 140 | 1.1     |
 
-\* Telekinesis can only be used by wizards to disarm players.
+#### \* Telekinesis can only be used by wizards to disarm players.
 
-** All wizards know heal and use it independently of the rest of their spells, except for healers, who know greater heal instead.
+#### ** All wizards know heal and use it independently of the rest of their spells, except for healers, who know greater heal instead.
