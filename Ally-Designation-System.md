@@ -6,7 +6,7 @@ To designate a player as your ally, **sneak-right-click on them whilst holding a
 
 Designating a player as an ally has the following effects:
 
-* Allies are not targeted by any minions you summon, unless you use the minion targeting mechanic to target them manually
+* Allies are not targeted by any minions you summon, unless you use the [minion targeting](https://github.com/Electroblob77/Wizardry/wiki/Minion-Targeting) mechanic to target them manually
 * Allies are not targeted by any creatures you mind control
 * Lightning from your spells does not chain to allies
 * Spells which seek targets do not seek your allies
@@ -16,6 +16,6 @@ Designating a player as an ally has the following effects:
 * However, spells aimed directly at allies will still affect them as normal
 * If enabled, the friendly fire config option makes allies immune to all damage and negative effects from spells you cast. (Personally, I think this is unbalanced in regular survival, but it's there if you want it - it could also be useful for some sort of minigame...)
 
-You can also interact with the ADS using the /ally and /allies commands; see Commands for details.
+You can also interact with the ADS using the /ally and /allies commands; see [Commands](https://github.com/Electroblob77/Wizardry/wiki/Commands) for details.
 
 The ADS supports the scoreboard team system in vanilla minecraft - players on the same team are automatically allies of each other. This feature overrides the normal behaviour.
