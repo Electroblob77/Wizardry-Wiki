@@ -7,11 +7,11 @@
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/wizard_hat.png) Mobs  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/scroll.png) Crafting Recipes  
 ### Technical
-`>` Commands  
-![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/entity/pointer.png) Ally Designation System  
+`>` [Commands](https://github.com/Electroblob77/Wizardry/wiki/Commands)  
+![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/entity/pointer.png) [Ally Designation System](https://github.com/Electroblob77/Wizardry/wiki/Ally-Designation-System)  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/entity/target_pointer.png) 
-Minion Targeting  
-![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/identification_scroll.png) Loot Functions  
+[Minion Targeting](https://github.com/Electroblob77/Wizardry/wiki/Minion-Targeting)  
+![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/identification_scroll.png) [Loot Functions](https://github.com/Electroblob77/Wizardry/wiki/Loot-Functions)  
 ### Development
 `#` Changelog  
 `%` Developing Add-ons  
