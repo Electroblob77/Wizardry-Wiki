@@ -32,8 +32,8 @@ This page is a list of all the spells currently in Wizardry, along with their de
 | 11  | Snare                   | Novice     | Earth      | Construct  | 5         | No          | No       | 9   | 1.0     |
 | 12  | Leap                    | Novice     | Earth      | Utility    | 5         | No          | No       | 113 | 1.1     |
 | 13  | Light                   | Novice     | Sorcery    | Utility    | 5         | No          | No       | 10  | 1.0     |
-| 14  | Telekinesis             | Novice     | Sorcery    | Utility    | 5         | No          | Yes[*](https://github.com/Electroblob77/Wizardry/wiki/List-of-Spells/_edit#-telekinesis-can-only-be-used-by-wizards-to-disarm-players)     | 11  | 1.0     |
-| 15  | Heal                    | Novice     | Healing    | Defence    | 5         | No          | Yes**    | 12  | 1.0     |
+| 14  | Telekinesis             | Novice     | Sorcery    | Utility    | 5         | No          | Yes[*](https://github.com/Electroblob77/Wizardry/wiki/List-of-Spells#-telekinesis-can-only-be-used-by-wizards-to-disarm-players)     | 11  | 1.0     |
+| 15  | Heal                    | Novice     | Healing    | Defence    | 5         | No          | Yes[**](https://github.com/Electroblob77/Wizardry/wiki/List-of-Spells#-all-wizards-know-heal-and-use-it-independently-of-the-rest-of-their-spells-except-for-healers-who-know-greater-heal-instead)    | 12  | 1.0     |
 | 16  | Fireball                | Apprentice | Fire       | Attack     | 10        | No          | Yes      | 13  | 1.0     |
 | 17  | Flame Ray               | Apprentice | Fire       | Attack     | 5/second  | Yes         | Yes      | 14  | 1.0     |
 | 18  | Firebomb                | Apprentice | Fire       | Attack     | 15        | No          | Yes      | 15  | 1.0     |
@@ -126,7 +126,7 @@ This page is a list of all the spells currently in Wizardry, along with their de
 | 105 | Phase Step              | Advanced   | Sorcery    | Utility    | 35        | No          | No       | 84  | 1.0     |
 | 106 | Vanishing Box           | Advanced   | Sorcery    | Utility    | 45        | No          | No       | 85  | 1.0     |
 | 107 | Decoy                   | Advanced   | Sorcery    | Construct  | 40        | No          | Yes      | 132 | 1.1     |
-| 108 | Greater Heal            | Advanced   | Healing    | Defence    | 15        | No          | Yes**    | 86  | 1.0     |
+| 108 | Greater Heal            | Advanced   | Healing    | Defence    | 15        | No          | Yes[**](https://github.com/Electroblob77/Wizardry/wiki/List-of-Spells#-all-wizards-know-heal-and-use-it-independently-of-the-rest-of-their-spells-except-for-healers-who-know-greater-heal-instead)    | 86  | 1.0     |
 | 109 | Healing Aura            | Advanced   | Healing    | Construct  | 35        | No          | Yes      | 87  | 1.0     |
 | 110 | Forcefield              | Advanced   | Healing    | Defence    | 45        | No          | Yes      | 88  | 1.0     |
 | 111 | Ironflesh               | Advanced   | Healing    | Defence    | 30        | No          | Yes      | 89  | 1.0     |
