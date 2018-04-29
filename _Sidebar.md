@@ -17,4 +17,5 @@
 ### Development
 `#` Changelog  
 `%` Developing Add-ons  
-![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/spell_book.png) Adding Spells  
+`+` Adding Spells  
+`*` API Features
