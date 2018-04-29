@@ -2,7 +2,7 @@ _Since: Wizardry 1.1_
 
 Wizardry has four inbuilt commands: /cast, /discoverspell, /ally and /allies. This page explains what they do and how to use them.
 
-Note that angle brackets <> denote required arguments, whereas square brackets [] denote optional arguments. All commands support tab-completion where applicable. Spell names used in commands are unlocalised, meaning they are in English, all in lowercase and spell names with more than one word have underscores _ between words.
+> Note that angle brackets <> denote required arguments, whereas square brackets [] denote optional arguments. All commands support tab-completion where applicable. Spell names used in commands are unlocalised, meaning they are in English, all in lowercase and spell names with more than one word have underscores _ between words.
 
 ## /cast
 
