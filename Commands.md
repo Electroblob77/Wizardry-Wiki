@@ -6,7 +6,7 @@ _Note that angle brackets <> denote required arguments, whereas square brackets 
 
 ## /cast
 
-**Syntax: /cast <spell> [player] [damage multiplier] [range multiplier] [duration multiplier] [blast multiplier]**
+**Syntax: /cast \<spell\> [player] [damage multiplier] [range multiplier] [duration multiplier] [blast multiplier]**
 
 Casts the specified spell. If a player is specified, casts the spell as if it were being cast by that player, otherwise casts the spell as the player who typed the command. If this command is executed by a command block, the player argument is _required_ and accepts @p, @a, etc. as well as specific player names. If the spell is a continuous spell (i.e. one where the use item button must be held when casting with a wand), the spell will continue to be cast until the command is repeated (though the optional arguments need not be specified again).
 
@@ -16,7 +16,7 @@ Requires operator permissions (multiplayer) or cheats enabled (singleplayer/LAN)
 
 ## /discoverspell
 
-**Syntax: /discoverspell <spell> [player]**
+**Syntax: /discoverspell \<spell\> [player]**
 
 Adds the specified spell to the given player's discovered spells, or removes it if they have already discovered it. If no player is specified, defaults to the player who typed the command. If this command is executed by a command block, the player argument is _required_ and accepts @p, @a, etc. as well as specific player names. Type 'all' (without quotes) in place of a spell name to discover all spells, or 'clear' to remove all discovered spells.
 
@@ -24,7 +24,7 @@ Requires operator permissions (multiplayer) or cheats enabled (singleplayer/LAN)
 
 ## /ally
 
-**Syntax: /ally <player> [player]**
+**Syntax: /ally \<player\> [player]**
 
 Adds the first player to the second player's list of allies, or removes them if they are already an ally (see Ally Designation System for details on allies). If the second player is unspecified, it defaults to the player who typed the command. If this command is executed by a command block, _both_ player arguments are required and accept @p, @a, etc. as well as specific player names.
 
