@@ -26,7 +26,7 @@ _Requires operator permissions (multiplayer) or cheats enabled (singleplayer/LAN
 
 **Syntax: /ally \<player\> [player]**
 
-Adds the first player to the second player's list of allies, or removes them if they are already an ally (see Ally Designation System for details on allies). If the second player is unspecified, it defaults to the player who typed the command. If this command is executed by a command block, _both_ player arguments are required and accept @p, @a, etc. as well as specific player names.
+Adds the first player to the second player's list of allies, or removes them if they are already an ally (see [Ally Designation System](https://github.com/Electroblob77/Wizardry/wiki/Ally-Designation-System) for details on allies). If the second player is unspecified, it defaults to the player who typed the command. If this command is executed by a command block, _both_ player arguments are required and accept @p, @a, etc. as well as specific player names.
 
 _All players can use this command on themselves, but changing another player's allies requires operator permissions (multiplayer) or cheats enabled (singleplayer/LAN)._
 
@@ -34,6 +34,6 @@ _All players can use this command on themselves, but changing another player's a
 
 **Syntax: /allies [player]**
 
-Displays a list of the given player's allies, including those not currently logged in (see Ally Designation System for details on allies). If the player is unspecified, it defaults to the player who typed the command. If this command is executed by a command block, the player argument is _required_ and accepts @p, @a, etc. as well as specific player names.
+Displays a list of the given player's allies, including those not currently logged in (see [Ally Designation System](https://github.com/Electroblob77/Wizardry/wiki/Ally-Designation-System) for details on allies). If the player is unspecified, it defaults to the player who typed the command. If this command is executed by a command block, the player argument is _required_ and accepts @p, @a, etc. as well as specific player names.
 
 _All players can use this command on themselves, but viewing another player's allies requires operator permissions (multiplayer) or cheats enabled (singleplayer/LAN)._
