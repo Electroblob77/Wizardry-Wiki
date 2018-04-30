@@ -1,4 +1,4 @@
-This is a list of all the items in wizardry. Click on the links to the pages for each block for more information.
+This is a list of all the items in wizardry. Click on the links to the pages for each item for more information.
 
 ## Pages in this category
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/armour_upgrade.png) Arcane Seal of Protection  
