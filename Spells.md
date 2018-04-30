@@ -17,6 +17,8 @@ This page is a list of all the spells currently in Wizardry, along with their de
 1. **ID** The spell's ID, which corresponds to the metadata of its book or scroll
 1. **Version** The major version of Wizardry in which the spell was first introduced
 
+> Pro tip! Use shift + scroll wheel to see more columns.
+
 | #   | Name                    | Tier       | Element    | Type       | Mana      | Continuous? | Wizards? | ID  | Version |
 |-----|-------------------------|------------|------------|------------|-----------|-------------|----------|-----|---------|
 | 1   | [Magic Missile](https://github.com/Electroblob77/Wizardry/wiki/Magic-Missile)           | Novice     | Magic      | Attack     | 5         | No          | Yes      | 1   | 1.0     |
