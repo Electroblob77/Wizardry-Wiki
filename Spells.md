@@ -7,6 +7,7 @@ This page is a list of all the spells currently in Wizardry, along with their de
 ### Key to headings
 
 1. **#** The order of the spells as shown in the creative tab
+1. **Icon** The spell's icon, as shown in its spell book and the spell HUD
 1. **Name** The name of the spell in English
 1. **Tier** The tier that the spell belongs to
 1. **Element** The element that the spell belongs to
@@ -19,7 +20,7 @@ This page is a list of all the spells currently in Wizardry, along with their de
 
 > Pro tip! Use shift + scroll wheel to see more columns.
 
-| #   |                                                                                                                                             | Name                                                                          | Tier       | Element    | Type       | Mana      | Continuous? | Wizards?                                                                                                                                                                                            | ID  | Version |
+| #   | Icon                                                                                                                                        | Name                                                                          | Tier       | Element    | Type       | Mana      | Continuous? | Wizards?                                                                                                                                                                                            | ID  | Version |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|------------|------------|------------|-----------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|---------|
 | 1   | ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/magic_missile.png)           | [Magic Missile](https://github.com/Electroblob77/Wizardry/wiki/Magic-Missile) | Novice     | Magic      | Attack     | 5         | No          | Yes                                                                                                                                                                                                 | 1   | 1.0     |
 | 2   | ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ignite.png)                  | Ignite                                                                        | Novice     | Fire       | Attack     | 5         | No          | Yes                                                                                                                                                                                                 | 2   | 1.0     |
