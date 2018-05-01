@@ -2,7 +2,7 @@
 
 _This wiki is currently under construction. Please check back for updates!_
 
-This wiki explains everything there is to know about wizardry, including gameplay mechanics, blocks and items, every single spell, configuring the mod, and information for developers. Click on the links below or on the menu to the right to get started!
+This wiki explains everything there is to know about wizardry, including gameplay mechanics, blocks and items, every single spell, configuring the mod, and information for developers. Click on the images below or on the menu to the right to navigate!
 
 | [![](https://media.forgecdn.net/attachments/202/409/2016-10-14_16.png)](https://github.com/Electroblob77/Wizardry/wiki/Getting-Started) | [![](https://media.forgecdn.net/attachments/202/396/2016-10-14_16.png)](https://github.com/Electroblob77/Wizardry/wiki/Spells) |
 |---|---|
