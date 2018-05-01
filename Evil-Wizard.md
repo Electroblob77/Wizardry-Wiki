@@ -25,7 +25,7 @@ Evil wizards spawn with a random tier of wand, but it is always powerful enough 
 Evil wizards are hostile towards players and regular wizards and will attack them on sight using magic. They are passive towards mobs and animals. When in combat, wizards will select different spells at random to use against their opponent, incurring that spell's cooldown each time. These are usually attack spells, but can also be defensive or utility spells such as blink or forcefield. When on less than full health, wizards will heal themselves periodically. When severely injured, they will heal themselves more often.
 
 ## Trivia
-- Evil wizards currently use the same sounds as witches
+- Evil wizards currently use the same sounds as witches, but at a lower pitch
 - Not all spells can be cast by wizards; see [Spells](https://github.com/Electroblob77/Wizardry/wiki/Spells) for more information
 - Evil wizards will fight each other if they accidentally hurt one another
 - Right-clicking an evil wizard with a spell book in creative mode will randomly change a one of the wizard's spells for that spell - this was a debug feature, but it's fun to play around with so it was left in
