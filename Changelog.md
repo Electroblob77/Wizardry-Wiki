@@ -72,9 +72,9 @@ This is a master changelog covering all released versions of wizardry. Individua
 \# Fixed issue #25, where some continuous spells would keep resetting on the client side, causing them to be ineffective  
 \# Fixed issue #26, a crash related to the mind control spell
 
-Version 1.10.2 Beta 3
-# Fixed issue #15, a server crash related to projectiles
-# Fixed a bug where the game would crash during loot table loading, when the random_spell loot function was used with criteria which did not match any enabled spells; this now prints a warning to the console instead
+### Version 1.10.2 Beta 3
+\# Fixed issue #15, a server crash related to projectiles  
+\# Fixed a bug where the game would crash during loot table loading, when the random_spell loot function was used with criteria which did not match any enabled spells; this now prints a warning to the console instead
 
 ### Version 1.10.2 Beta 2
 \# Fixed issues #13, #16 and #17, crashes for various lightning spells when charging creepers
