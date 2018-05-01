@@ -5,13 +5,13 @@ _Not to be confused with [evil wizards](https://github.com/Electroblob77/Wizardr
 | Health | 20 (![](https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/a/a7/Heart.svg?version=bda6b1af2e973a710a075d05b9cba7fc) x 10)|
 | Attack Damage | Varies |
 | Size | Height 1.95, Width 0.6 |
-| Spawns | Only in [wizard towers](https://github.com/Electroblob77/Wizardry/wiki/Wizard-Tower) |
+| Spawns | Only in wizard towers |
 | Drops | None |
 | Experience | None |
 | Entity ID | `ebwizardry:wizard` |
 | First appeared in | Wizardry 1.0 |
 
-Wizards are friendly NPCs who can cast spells. They can be found only in [wizard towers](https://github.com/Electroblob77/Wizardry/wiki/Wizard-Tower), which generate naturally throughout the world. Wizards are an important part of wizardry's gameplay due to their trading mechanic, which is a reliable way to obtain spell books and other magical items.
+Wizards are friendly NPCs who can cast spells. They can be found only in [wizard towers](https://github.com/Electroblob77/Wizardry/wiki/Wizard-Tower), which generate naturally throughout the world. Wizards are an important part of wizardry's gameplay due to their trading mechanic, which is a reliable way to obtain [spell books](https://github.com/Electroblob77/Wizardry/wiki/Spell-Book) and other magical items.
 
 ![](https://media.forgecdn.net/attachments/202/398/2017-01-16_20.png)
 _An ice mage chilling in his tower_
@@ -53,4 +53,4 @@ When generating a trade for a wand, spell book or wizard armour, there is an 80%
 - Not all spells can be cast by wizards; see [Spells](https://github.com/Electroblob77/Wizardry/wiki/Spells) for more information
 - Zombies (and their variants) will seek out and attack wizards the same way as they do for NPC villagers, making them the only mob that actively attacks wizards without being provoked
 - Wizards will fight each other if they accidentally hurt one another; combined with the zombie pigmen-style group mechanics this makes for some interesting fights between two groups of wizards
-- Right-clicking a wizard with a [spell book](https://github.com/Electroblob77/Wizardry/wiki/Spell-Book) in creative mode will randomly change a one of the wizard's spells for that spell - this was a debug feature, but it's fun to play around with so it was left in
+- Right-clicking a wizard with a spell book in creative mode will randomly change a one of the wizard's spells for that spell - this was a debug feature, but it's fun to play around with so it was left in
