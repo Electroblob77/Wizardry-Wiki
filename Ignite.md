@@ -1,4 +1,4 @@
-| Ignite |![](https://github.com/Electroblob77/Wizardry/blob/master/src/main/resources/assets/wizardry/textures/spells/ignite.png)|
+| Ignite |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ignite.png)|
 |---|---|
 | Tier | Novice |
 | Element | Fire |

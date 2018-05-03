@@ -11,7 +11,7 @@ Once you've got all that, take a book and a magic crystal and craft yourself a c
 ## The Arcane Workbench
 Take your new arcane workbench and place it down somewhere (it doesn't matter where you put it for now, you can always pick it back up again with a stone pickaxe or better). Now right-click on it and you should see a GUI appear which looks something like this:
 
-![](https://github.com/Electroblob77/Wizardry/blob/master/src/main/resources/assets/wizardry/textures/gui/arcane_workbench.png)
+![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/arcane_workbench.png)
 
 The central slot is where you can place wands, wizard armour and scrolls. Place your new magic wand in there - you should see five more slots appear in a circle around the central slot. These slots are for spell books, and each one corresponds to one of the spell slots on your wand. Unless you were lucky enough to find a spell book on your travels, you'll only have one - the magic missile spell book you crafted earlier - so place it in one of the five spell book slots.
 
