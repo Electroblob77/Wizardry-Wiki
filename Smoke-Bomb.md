@@ -6,7 +6,8 @@
 | Mana Cost | 10 |
 | Continuous | No |
 | Cast by wizards | Yes |
-| ID | 1 |
+| ID | `ebwizardry:smoke_bomb` |
+| Metadata | 111 |
 | First appeared in | Wizardry 1.1 |
 ## Description
 _Launches a smoke bomb in the direction you are pointing which explodes on impact, releasing smoke and blinding nearby creatures for a short time._
