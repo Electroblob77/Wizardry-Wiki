@@ -8,10 +8,10 @@ This is a master changelog covering all released versions of wizardry. Individua
 \- Removed features  
 
 ## Jump to...
-[1.12.2 Versions](https://github.com/Electroblob77/Wizardry/wiki/Changelog#1122-versions)  
-[1.11.2 Versions](https://github.com/Electroblob77/Wizardry/wiki/Changelog#1112-versions)  
-[1.10.2 Versions](https://github.com/Electroblob77/Wizardry/wiki/Changelog#1102-versions)  
-[1.7.10 Versions](https://github.com/Electroblob77/Wizardry/wiki/Changelog#1710-versions)  
+[[1.12.2 Versions|Changelog#1122-versions]]  
+[[1.11.2 Versions|Changelog#1112-versions]]  
+[[1.10.2 Versions|Changelog#1102-versions]]  
+[[1.7.10 Versions|Changelog#1710-versions]]  
 
 ---
 

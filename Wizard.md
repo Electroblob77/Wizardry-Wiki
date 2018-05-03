@@ -1,4 +1,4 @@
-_Not to be confused with [evil wizards](https://github.com/Electroblob77/Wizardry/wiki/Evil-Wizard)._
+_Not to be confused with [[evil wizards|Evil-Wizard]]._
 
 | Wizard | _NPC, friendly, spell caster_ |
 |--------|-------|
@@ -11,21 +11,21 @@ _Not to be confused with [evil wizards](https://github.com/Electroblob77/Wizardr
 | Entity ID | `ebwizardry:wizard` |
 | First appeared in | Wizardry 1.0 |
 
-Wizards are friendly NPCs who can cast spells. They can be found only in [wizard towers](https://github.com/Electroblob77/Wizardry/wiki/Wizard-Tower), which generate naturally throughout the world. Wizards are an important part of wizardry's gameplay due to their trading mechanic, which is a reliable way to obtain [spell books](https://github.com/Electroblob77/Wizardry/wiki/Spell-Book) and other magical items.
+Wizards are friendly NPCs who can cast spells. They can be found only in [[wizard towers|Wizard-Tower]], which generate naturally throughout the world. Wizards are an important part of wizardry's gameplay due to their trading mechanic, which is a reliable way to obtain [[spell books|Spell-Book]] and other magical items.
 
 ![](https://media.forgecdn.net/attachments/202/398/2017-01-16_20.png)
 _An ice mage chilling in his tower_
 
 ## Spawning
-Wizards naturally spawn only in wizard towers, which generate throughout the overworld (or whichever dimensions are specified in the config - see [Configuration](https://github.com/Electroblob77/Wizardry/wiki/Configuration) for details). They can also be spawned using a wizard spawn egg, available in the creative mode inventory, or using the /summon command.
+Wizards naturally spawn only in wizard towers, which generate throughout the overworld (or whichever dimensions are specified in the config - see [[Configuration|Configuration]] for details). They can also be spawned using a wizard spawn egg, available in the creative mode inventory, or using the /summon command.
 
 ## Attributes and Equipment
-Wizards have a 50% chance to spawn as specialists in one of the seven [elements](https://github.com/Electroblob77/Wizardry/wiki/Elements) (about a 7% chance for each element), and a 50% chance of having no element. Wizards with an element wear the corresponding elemental armour and carry an elemental wand of that element, whereas wizards without an element wear regular wizard armour and carry a non-elemental wand. A wizard's element affects the types of spells they cast and the trades they offer, though it does not currently give a potency bonus to their attacks. Wizards with an element also have special names such as 'Pyromancer' and 'Earth Mage'.
+Wizards have a 50% chance to spawn as specialists in one of the seven [[elements|Elements]] (about a 7% chance for each element), and a 50% chance of having no element. Wizards with an element wear the corresponding elemental armour and carry an elemental wand of that element, whereas wizards without an element wear regular wizard armour and carry a non-elemental wand. A wizard's element affects the types of spells they cast and the trades they offer, though it does not currently give a potency bonus to their attacks. Wizards with an element also have special names such as 'Pyromancer' and 'Earth Mage'.
 
-Wizards spawn with a random tier of wand, but it is always powerful enough for the spells they cast. All wizards spawn with [magic missile](https://github.com/Electroblob77/Wizardry/wiki/Magic-Missile) and three other spells chosen at random, with a high weighting on their element if they have one. In addition, all wizards know [heal](https://github.com/Electroblob77/Wizardry/wiki/Heal) and use it independently from the rest of their spells, except healers, who know [greater heal](https://github.com/Electroblob77/Wizardry/wiki/Greater-Heal) instead. They never drop their equipment, regardless of looting enchantments. Wizards also spawn with one of six randomly chosen skins, which have different hair and eye colours.
+Wizards spawn with a random tier of wand, but it is always powerful enough for the spells they cast. All wizards spawn with [[magic missile|Magic-Missile]] and three other spells chosen at random, with a high weighting on their element if they have one. In addition, all wizards know [[heal|Heal]] and use it independently from the rest of their spells, except healers, who know [[greater heal|Greater-Heal]] instead. They never drop their equipment, regardless of looting enchantments. Wizards also spawn with one of six randomly chosen skins, which have different hair and eye colours.
 
 ## Behaviour
-Wizards are normally friendly towards players and passive animals, but are hostile towards mobs and will attack them on sight using magic. Wizards will show interest in nearby players and watch them when they are within a certain range. Right-clicking on a wizard will display a trade GUI, similar to that of NPC villagers, allowing the player to trade with the wizard - see [Trading](https://github.com/Electroblob77/Wizardry/wiki/Wizard#trading) for more details.
+Wizards are normally friendly towards players and passive animals, but are hostile towards mobs and will attack them on sight using magic. Wizards will show interest in nearby players and watch them when they are within a certain range. Right-clicking on a wizard will display a trade GUI, similar to that of NPC villagers, allowing the player to trade with the wizard - see [[Trading|Wizard#trading]] for more details.
 
 If a player angers a wizard, either by hurting them or by breaking a block in their tower, the wizard will become hostile towards that player and start attacking them. This behaviour is similar to that of zombie pigmen, and like zombie pigmen, nearby wizards will also become hostile towards the player in question. If any of the wizards succeeds in killing the player, the wizards will no longer be hostile towards that player. Wizards will not trade with a player that has angered them. However, if a hostile mob attacks the wizard while the wizard is angry at a player, the wizard will stop attacking the player and attack the mob instead.
 
@@ -52,7 +52,7 @@ When generating a trade for a wand, spell book or wizard armour, there is an 80%
 
 ## Trivia
 - Wizards currently use the same sounds as NPC villagers
-- Not all spells can be cast by wizards; see [Spells](https://github.com/Electroblob77/Wizardry/wiki/Spells) for more information
+- Not all spells can be cast by wizards; see [[Spells|Spells]] for more information
 - Zombies (and their variants) will seek out and attack wizards the same way as they do for NPC villagers, making them the only mob that actively attacks wizards without being provoked
 - Wizards will fight each other if they accidentally hurt one another; combined with the zombie pigmen-style group mechanics this makes for some interesting fights between two groups of wizards
 - Right-clicking a wizard with a spell book in creative mode will randomly change a one of the wizard's spells for that spell - this was a debug feature, but it's fun to play around with so it was left in

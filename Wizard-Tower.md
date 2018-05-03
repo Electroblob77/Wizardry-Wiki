@@ -1,6 +1,6 @@
 _Since: Wizardry 1.0_
 
-Wizard towers are structures which generate at the surface throughout the overworld, or whichever dimensions are specified in the config (see [Configuration](https://github.com/Electroblob77/Wizardry/wiki/Configuration) for more details). Wizard towers are round in shape, with pointed roofs and small windows, and can be found in a variety of shapes and sizes. Wizard towers contain an [arcane workbench](https://github.com/Electroblob77/Wizardry/wiki/Arcane-Workbench), a number of bookshelves, torches and a [wizard](https://github.com/Electroblob77/Wizardry/wiki/Wizard). Sometimes, they contain an [evil wizard](https://github.com/Electroblob77/Wizardry/wiki/Evil-Wizard) and a chest with magical loot instead of a regular wizard.
+Wizard towers are structures which generate at the surface throughout the overworld, or whichever dimensions are specified in the config (see [[Configuration|Configuration]] for more details). Wizard towers are round in shape, with pointed roofs and small windows, and can be found in a variety of shapes and sizes. Wizard towers contain an [[arcane workbench|Arcane-Workbench]], a number of bookshelves, torches and a [[wizard|Wizard]]. Sometimes, they contain an [[evil wizard|Evil-Wizard]] and a chest with magical loot instead of a regular wizard.
 
 ![](https://media.forgecdn.net/attachments/202/397/2017-01-16_20.png)
 _A wizard tower in a forest_
