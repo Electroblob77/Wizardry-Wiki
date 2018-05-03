@@ -3,7 +3,7 @@ This is a list of all the items in wizardry. Click on the links to the pages for
 ## Pages in this category
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/armour_upgrade.png) [Arcane Seal of Protection](https://github.com/Electroblob77/Wizardry/wiki/Arcane-Seal-of-Protection)  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/firebomb.png) [Firebomb](https://github.com/Electroblob77/Wizardry/wiki/Firebomb)   
-![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/wiki_resources/images/flaming_axe_still.png) [Flaming Axe](https://github.com/Electroblob77/Wizardry/wiki/Flaming-Axe)  
+[[images/icons/flaming_axe_still.png]] [[Flaming Axe|Flaming-Axe]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/frost_axe.png) [Frost Axe](https://github.com/Electroblob77/Wizardry/wiki/Frost-Axe)  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/magic_crystal.png) [Magic Crystal](https://github.com/Electroblob77/Wizardry/wiki/Magic-Crystal)  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/magic_silk.png) [Magical Silk](https://github.com/Electroblob77/Wizardry/wiki/Magical-Silk)  
