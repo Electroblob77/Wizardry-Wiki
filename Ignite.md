@@ -6,7 +6,8 @@
 | Mana Cost | 5 |
 | Continuous | No |
 | Cast by wizards | Yes |
-| ID | 2 |
+| ID | `ebwizardry:ignite` |
+| Metadata | 2 |
 | First appeared in | Wizardry 1.0 |
 ## Description
 _Sets the target on fire for 10 seconds. Also works like a flint and steel._
