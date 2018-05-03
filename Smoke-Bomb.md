@@ -1,4 +1,4 @@
-| Smoke Bomb |![](https://github.com/Electroblob77/Wizardry/blob/master/src/main/resources/assets/wizardry/textures/spells/smoke_bomb.png)|
+| Smoke Bomb |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/smoke_bomb.png)|
 |---|---|
 | Tier | Novice |
 | Element | Magic |
