@@ -6,7 +6,7 @@ The very first thing you'll want to do is collect [[magic crystals|Magic-Crystal
 You should also gather a few other resources: some smooth stone, a handful of lapis lazuli pieces, some wool, a gold nugget and a couple of books.
 
 ## Setting Up
-Once you've got all that, take a book and a magic crystal and craft yourself a copy of _The Wizard's Handbook_. This handy guide will tell you everything you need to know about becoming a wizard, including all of the crafting recipes in wizardry. Turn to that section and use the recipes there to craft yourself a [[magic wand|Wands]], an [[arcane workbench|Arcane-Workbench]] and a [[magic missile|Magic-Missile]] [[spell book|Spell-Book]].
+Once you've got all that, take a book and a magic crystal and craft yourself a copy of _[[The Wizard's Handbook|The-Wizard's-Handbook]]_. This handy guide will tell you everything you need to know about becoming a wizard, including all of the crafting recipes in wizardry. Turn to that section and use the recipes there to craft yourself a [[magic wand|Wands]], an [[arcane workbench|Arcane-Workbench]] and a [[magic missile|Magic-Missile]] [[spell book|Spell-Book]].
 
 ## The Arcane Workbench
 Take your new arcane workbench and place it down somewhere (it doesn't matter where you put it for now, you can always pick it back up again with a stone pickaxe or better). Now right-click on it and you should see a GUI appear which looks something like this:
