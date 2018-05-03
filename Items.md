@@ -19,5 +19,5 @@ This is a list of all the items in wizardry. Click on the links to the pages for
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/spell_book.png) [Spell Book](https://github.com/Electroblob77/Wizardry/wiki/Spell-Book)  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/arcane_tome.png) [Tome of Arcana](https://github.com/Electroblob77/Wizardry/wiki/Tome-of-Arcana)  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/upgrade_condenser.png) [Special Wand Upgrades](https://github.com/Electroblob77/Wizardry/wiki/Special-Wand-Upgrades)  
-![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/wand_master.png) [Wands](https://github.com/Electroblob77/Wizardry/wiki/Wands)
+![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/wand_master.png) [Wands](https://github.com/Electroblob77/Wizardry/wiki/Wands)  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/wizard_hat.png) [Wizard Armour](https://github.com/Electroblob77/Wizardry/wiki/Wizard-Armour)  
