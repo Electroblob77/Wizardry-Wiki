@@ -1,12 +1,12 @@
 This page is a quick guide/walkthrough to help beginners get to grips with the basics of the mod. If this is your first time playing with wizardry, this is the place to start!
 
 ## First Steps
-The very first thing you'll want to do is collect **magic crystals**. These small items are a central part of wizardry - they'll supply your wands with mana and you'll need them in various crafting recipes. To start with, you'll need at least 15 or so. You'll find most crystals underground in the form of **crystal ore**, but there is another, quicker way to get them in early-game - I'll leave that for you to work out!
+The very first thing you'll want to do is collect [[magic crystals|Magic-Crystal]]. These small items are a central part of wizardry - they'll supply your wands with mana and you'll need them in various crafting recipes. To start with, you'll need at least 15 or so. You'll find most crystals underground in the form of [[crystal ore|Crystal-Ore]], but there is another, quicker way to get them in early-game - I'll leave that for you to work out!
 
 You should also gather a few other resources: some smooth stone, a handful of lapis lazuli pieces, some wool, a gold nugget and a couple of books.
 
 ## Setting Up
-Once you've got all that, take a book and a magic crystal and craft yourself a copy of _The Wizard's Handbook_. This handy guide will tell you everything you need to know about becoming a wizard, including all of the crafting recipes in wizardry. Turn to that section and use the recipes there to craft yourself a **magic wand**, an **arcane workbench** and a **magic missile spell book**.
+Once you've got all that, take a book and a magic crystal and craft yourself a copy of _The Wizard's Handbook_. This handy guide will tell you everything you need to know about becoming a wizard, including all of the crafting recipes in wizardry. Turn to that section and use the recipes there to craft yourself a [[magic wand|Wands]], an [[arcane workbench|Arcane-Workbench]] and a [[magic missile|Magic-Missile]] [[spell book|Spell-Book]].
 
 ## The Arcane Workbench
 Take your new arcane workbench and place it down somewhere (it doesn't matter where you put it for now, you can always pick it back up again with a stone pickaxe or better). Now right-click on it and you should see a GUI appear which looks something like this:
