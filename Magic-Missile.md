@@ -6,7 +6,8 @@
 | Mana Cost | 5 |
 | Continuous | No |
 | Cast by wizards | Yes |
-| ID | 1 |
+| ID | `ebwizardry:magic_missile` |
+| Metadata | 1 |
 | First appeared in | Wizardry 1.0 |
 ## Description
 _Fires a bolt of magical energy in the direction you are pointing._
