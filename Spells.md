@@ -7,6 +7,7 @@ This page is a list of all the spells currently in Wizardry, along with their de
 ### Key to headings
 
 1. **#** The order of the spells as shown in the creative tab
+1. **Icon** The spell's icon as displayed in its spell book and on the spell HUD
 1. **Name** The name of the spell in English
 1. **Tier** The tier that the spell belongs to
 1. **Element** The element that the spell belongs to
