@@ -19,4 +19,5 @@ _A stone circle_
 
 ## Trivia
 - Transportation is probably the most frequently asked-about spell in wizardry.
-> Now you can see **exactly** how to make a stone circle **right here**, so **please** stop asking me! ~ Electroblob
+> Now you can see **exactly** how to make a stone circle **^ right there ^**, so **please** stop asking me!  
+~ Electroblob
