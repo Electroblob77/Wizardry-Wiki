@@ -11,11 +11,15 @@ Once you've got all that, take a book and a magic crystal and craft yourself a c
 ## The Arcane Workbench
 Take your new arcane workbench and place it down somewhere (it doesn't matter where you put it for now, you can always pick it back up again with a stone pickaxe or better). Now right-click on it and you should see a GUI appear which looks something like this:
 
-![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/arcane_workbench.png)
+[[images/screenshots/arcane_workbench_empty.png]]  
+_The arcane workbench GUI_
 
 The central slot is where you can place wands, wizard armour and scrolls. Place your new magic wand in there - you should see five more slots appear in a circle around the central slot. These slots are for spell books, and each one corresponds to one of the spell slots on your wand. Unless you were lucky enough to find a spell book on your travels, you'll only have one - the magic missile spell book you crafted earlier - so place it in one of the five spell book slots.
 
 The other thing you probably noticed when you placed your wand in the arcane workbench was the tooltip that appears to the right. If you take a look at that, you'll see that your wand currently holds no mana. **Mana** is the magical energy used to cast spells, and without it your wand isn't much use, so let's fix that! Take some magic crystals and place them in the upper of the two slots on the left hand side. Now click the big shiny button that says 'Apply', and the crystals should vanish! Don't worry though, they've been turned in to mana, which is now stored within your wand.
+
+[[images/screenshots/arcane_workbench_full.png]]  
+_The arcane workbench GUI with wand_
 
 You'll notice that the tooltip has changed in two ways: firstly, your wand will now have some mana - 100 times the number of crystals that were in the workbench, to be exact - and secondly, there should now be a list of five spells that are bound to your wand. One of these will be magic missile, but the rest will probably say '[Empty slot]'. You can fill those up later once you get some more spells, but for now you're done with the arcane workbench, so take your wand and let's cast some spells!
 
