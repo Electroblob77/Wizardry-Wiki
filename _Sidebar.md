@@ -17,4 +17,4 @@
 ### Development
 `#` [[Changelog|Changelog]]  
 `%` [[Developing Addons|Developing-Addons]]  
-`&` [[About & Credits|About-&-Credits]]  
+`&` [[About and Credits|About-and-Credits]]  
