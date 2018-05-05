@@ -18,3 +18,5 @@
 `#` [[Changelog|Changelog]]  
 `%` [[Developing Addons|Developing-Addons]]  
 `&` [[About and Credits|About-and-Credits]]  
+
+_[Legacy Documentation](https://minecraft.curseforge.com/projects/electroblobs-wizardry/pages/index)_
