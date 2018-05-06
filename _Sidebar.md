@@ -5,18 +5,17 @@
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/wand_master.png) [[Items|Items]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/spell_book.png) [[Spells|Spells]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/wizard_hat.png) [[Mobs|Mobs]]  
-![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/wizard_boots_sorcery.png) [[Structures|Structures]]  
+[[images/icons/wizard_tower.png]] [[Structures|Structures]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/scroll.png) [[Crafting Recipes|Crafting-Recipes]]  
 ### Technical
-`>` [[Commands|Commands]]  
-![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/entity/pointer.png) [[Ally Designation System|Ally-Designation-System]]  
-![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/entity/target_pointer.png) 
-[[Minion Targeting|Minion-Targeting]]  
-`$` [[Configuration|Configuration]]  
-![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/identification_scroll.png) [[Loot Functions|Loot-Functions]]  
+[[images/icons/commands.png]] [[Commands|Commands]]  
+[[images/icons/pointer.png]] [[Ally Designation System|Ally-Designation-System]]  
+[[images/icons/target_pointer.png]] [[Minion Targeting|Minion-Targeting]]  
+[[images/icons/configuration.png]] [[Configuration|Configuration]]  
+[[images/icons/loot_functions.png]] [[Loot Functions|Loot-Functions]]  
 ### Development
-`#` [[Changelog|Changelog]]  
-`%` [[Developing Addons|Developing-Addons]]  
-`&` [[About and Credits|About-and-Credits]]  
+[[images/icons/parchment.png]] [[Changelog|Changelog]]  
+[[images/icons/addon_development.png]] [[Developing Addons|Developing-Addons]]  
+[[images/icons/about.png]] [[About and Credits|About-and-Credits]]  
 
 _[>> Legacy Documentation](https://minecraft.curseforge.com/projects/electroblobs-wizardry/pages/index)_
