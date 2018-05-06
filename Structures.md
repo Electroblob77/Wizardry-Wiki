@@ -2,4 +2,4 @@ This is a list of all the generated structures in wizardry. Click on the links t
 
 ## Pages in this category
 
-[[Wizard Tower|Wizard-Tower]]
+[[images/icons/wizard_tower.png]] [[Wizard Tower|Wizard-Tower]]
