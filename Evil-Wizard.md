@@ -6,7 +6,7 @@ _Not to be confused with regular [[wizards|Wizard]]._
 | Attack Damage | Varies |
 | Size | Height 1.95, Width 0.6 |
 | Spawns | Wizard towers, rarely in dark areas |
-| Drops | 3-5 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/magic_crystal.png) [[magic crystals|Magic_Crystal]], 0-1 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/spell_book.png) [[spell books|Magic_Crystal]] (rare)|
+| Drops | 3-5 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/magic_crystal.png) [magic crystals](https://github.com/Electroblob77/Wizardry/wiki/Magic-Crystal), 0-1 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/spell_book.png) [spell books](https://github.com/Electroblob77/Wizardry/wiki/Spell-Book) (rare)|
 | Experience | None |
 | Entity ID | `ebwizardry:evil_wizard` |
 | First appeared in | Wizardry 1.1 |
