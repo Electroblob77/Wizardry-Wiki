@@ -2,7 +2,7 @@
 |---|---|
 | Craftable | Some |
 | Creative Tab | Wizardry |
-| ID | `ebwizardry:wizard_[hat\|robe\|leggings\|boots]_[element]` |
+| Item ID | `ebwizardry:wizard_[hat\|robe\|leggings\|boots]_[element]` |
 | First appeared in | Wizardry 1.0 |
 
 Wizard armour is a form of magical armour which uses mana to shield its wearer from incoming damage. Both regular and elemental wizard armour sets are available, though only the former can be crafted. Each set consists of a hat, robes, leggings and boots. Wizard armour may also be found in loot chests or purchased from [[wizards|Wizard]].
