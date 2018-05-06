@@ -16,6 +16,6 @@
 ### Development
 [[images/icons/parchment.png]] [[Changelog|Changelog]]  
 [[images/icons/addon_development.png]] [[Developing Addons|Developing-Addons]]  
-![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/crystal.png) [[About and Credits|About-and-Credits]]  
+![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/magic_crystal.png) [[About and Credits|About-and-Credits]]  
 
 _[>> Legacy Documentation](https://minecraft.curseforge.com/projects/electroblobs-wizardry/pages/index)_
