@@ -2,7 +2,7 @@
 |---|---|
 | Craftable | Only novice magic wands |
 | Creative Tab | Wizardry |
-| ID | `ebwizardry:[tier]_[element]_wand`, `ebwizardry:magic_wand` |
+| Item ID | `ebwizardry:[tier]_[element]_wand`, `ebwizardry:magic_wand` |
 | First appeared in | Wizardry 1.0 |
 
 Wands are the implements used to cast spells. Each wand holds a certain number of spells and a certain quantity of mana, which depend on its tier and any [[special wand upgrades|Special-Wand-Upgrades]] that have been applied. The novice magic wand can be crafted, and higher-tier wands may be obtained by upgrading other wands using [[tomes of arcana|Tome-of-Arcana]]. Wands may also be found in loot chests or purchased from [[wizards|Wizard]].
