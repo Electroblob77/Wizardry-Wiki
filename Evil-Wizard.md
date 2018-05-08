@@ -28,4 +28,4 @@ Evil wizards are hostile towards players and regular wizards and will attack the
 - Evil wizards currently use the same sounds as witches, but at a lower pitch
 - Not all spells can be cast by wizards; see [[Spells|Spells]] for more information
 - Evil wizards will fight each other if they accidentally hurt one another
-- Right-clicking an evil wizard with a spell book in creative mode will randomly change a one of the wizard's spells for that spell - this was a debug feature, but it's fun to play around with so it was left in
+- Right-clicking an evil wizard with a spell book in creative mode will randomly change one of the wizard's spells for that spell - this was a debug feature, but it's fun to play around with so it was left in
