@@ -55,4 +55,4 @@ When generating a trade for a wand, spell book or wizard armour, there is an 80%
 - Not all spells can be cast by wizards; see [[Spells|Spells]] for more information
 - Zombies (and their variants) will seek out and attack wizards the same way as they do for NPC villagers, making them the only mob that actively attacks wizards without being provoked
 - Wizards will fight each other if they accidentally hurt one another; combined with the zombie pigmen-style group mechanics this makes for some interesting fights between two groups of wizards
-- Right-clicking a wizard with a spell book in creative mode will randomly change a one of the wizard's spells for that spell - this was a debug feature, but it's fun to play around with so it was left in
+- Right-clicking a wizard with a spell book in creative mode will randomly change one of the wizard's spells for that spell - this was a debug feature, but it's fun to play around with so it was left in
