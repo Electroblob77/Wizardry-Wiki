@@ -1,6 +1,7 @@
 | Wizard Armour |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/wizard_hat.png)![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/wizard_robe.png)![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/wizard_leggings.png)![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/wizard_boots.png)|
 |---|---|
 | Craftable | Some |
+| Stackable | No |
 | Creative Tab | Wizardry |
 | Item ID | `ebwizardry:wizard_[hat\|robe\|leggings\|boots]_[element]` |
 | First appeared in | Wizardry 1.0 |
