@@ -1,6 +1,11 @@
 This page is a list of all the spells currently in Wizardry, along with their descriptions and various statistics. Click on the links to the pages for each spell for more details.
 
-> **Spoiler alert!** The information on this page may spoil your enjoyment of the mod, as it contains details of spells you may not have discovered. I recommend playing the mod for a while before reading about all the spells; discovering spells you have never seen before is a big part of the gameplay. If you have played the mod, or don't really mind spoilers, then read on...
+> **Spoiler alert!** The information in the table below may spoil your enjoyment of the mod, as it contains details of spells you may not have discovered. I recommend playing the mod for a while before reading about all the spells; discovering spells you have never seen before is a big part of the gameplay. If you have played the mod, or don't really mind spoilers, then read on...
+
+## Other pages in this category
+[[images/icons/elements.png]] [[Elements]]  
+![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/arcane_tome.png) [[Tiers]]  
+[[images/icons/spell_types.png]] [[Spell Types]]  
 
 ---
 
