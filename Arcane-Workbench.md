@@ -33,6 +33,5 @@ Spell books are not consumed during spell binding, but magic crystals and upgrad
 When a wand is placed in the central slot, a tooltip is shown to the right of the main GUI which displays the name of the wand, the mana currently stored within it, the spells that are currently bound to it and any upgrades that have been applied to it. Hovering over one of these upgrade icons displays the name of the upgrade.
 
 ## Trivia
-- The arcane workbench is different to an enchantment table in that it drops itself when mined with a pickaxe.
 - The rotation of the item floating above the arcane workbench is done client-side, so in multiplayer, each player looking at the workbench sees the item facing towards them, even if they are standing on opposite sides of the workbench.
 - The arcane workbench was re-textured in wizardry 1.1 to look more like the items from which it is crafted.
