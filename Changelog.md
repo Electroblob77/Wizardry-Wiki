@@ -7,7 +7,7 @@ This is a master changelog covering all released versions of wizardry. Individua
 \# Bugfixes  
 \- Removed features  
 
-## Contents
+## Jump to...
 [[1.12.2 Versions|Changelog#1122-versions]]  
 [[1.11.2 Versions|Changelog#1112-versions]]  
 [[1.10.2 Versions|Changelog#1102-versions]]  
