@@ -6,7 +6,7 @@
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/spell_book.png) [[Spells|Spells]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/wizard_hat.png) [[Mobs|Mobs]]  
 [[images/icons/wizard_tower.png]] [[Structures|Structures]]  
-![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/frost_icon.png) [[Status Effects]]  
+<img src="https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/frost_icon.png" alt="" width=16 height=16> [[Status Effects]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/scroll.png) [[Crafting Recipes|Crafting-Recipes]]  
 ### Technical
 [[images/icons/commands.png]] [[Commands|Commands]]  
