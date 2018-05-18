@@ -6,7 +6,7 @@ Wizardry may be configured either by using the in-game mod options menu (recomme
 [[Worldgen|Configuration#worldgen]]  
 [[Gameplay|Configuration#gameplay]]  
 [[Commands|Configuration#commands]]  
-[[Client Options|Configuration#client-Options]]  
+[[Client Options|Configuration#client-options]]  
 [[Resistances|Configuration#resistances]]  
 [[Spells|Configuration#spells]]  
 
