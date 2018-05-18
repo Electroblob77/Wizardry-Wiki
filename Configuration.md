@@ -3,12 +3,12 @@ This page details all of the config options in wizardry and how to use them. Mos
 Wizardry may be configured either by using the in-game mod options menu (recommended), or by editing the config file manually with a text editor before launching the game.
 
 ## Jump to...
-[[Worldgen|Configuration#Worldgen]]  
-[[Gameplay|Configuration#Gameplay]]  
-[[Commands|Configuration#Commands]]  
-[[Client Options|Configuration#Client-Options]]  
-[[Resistances|Configuration#Resistances]]  
-[[Spells|Configuration#Spells]]  
+[[Worldgen|Configuration#worldgen]]  
+[[Gameplay|Configuration#gameplay]]  
+[[Commands|Configuration#commands]]  
+[[Client Options|Configuration#client-Options]]  
+[[Resistances|Configuration#resistances]]  
+[[Spells|Configuration#spells]]  
 
 ---
 ## Worldgen
