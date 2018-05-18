@@ -7,7 +7,7 @@
 | Continuous | No |
 | Cast by wizards | Yes |
 | ID | `ebwizardry:freeze` |
-| Metadata | 4 |
+| Metadata | 3 |
 | First appeared in | Wizardry 1.0 |
 ## Description
 _Freezes the target for 10 seconds. Will also freeze water and create snow on the ground._
