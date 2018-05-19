@@ -1,4 +1,4 @@
-## Welcome to the Electroblob's Wizardry wiki!
+## Welcome to the _Electroblob's Wizardry_ wiki!
 
 > This wiki is currently under construction. Some links may not yet be functional, and content may be missing, incomplete or outdated. Feel free to browse though, and please check back for updates!
 
