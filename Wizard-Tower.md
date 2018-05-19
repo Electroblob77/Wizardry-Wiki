@@ -26,6 +26,6 @@ Wizard towers contain a spiral staircase of wooden slabs leading up to the upper
 - Wizard towers have occasionally been seen to generate on top of huge mushrooms in roofed forests
 
 ## Gallery
-| ![](https://github.com/Electroblob77/Wizardry/wiki/images/screenshots/wizard_and_tower.png) | ![](https://github.com/Electroblob77/Wizardry/wiki/images/screenshots/mushroom_tower.png) |
+| [[[images/screenshots/wizard_and_tower.png]]](https://github.com/Electroblob77/Wizardry/wiki/images/screenshots/wizard_and_tower.png) | [[[images/screenshots/mushroom_tower.png]]](https://github.com/Electroblob77/Wizardry/wiki/images/screenshots/mushroom_tower.png) |
 |---|---|
 | A wizard standing outside his wizard tower in the desert. | A wizard tower that has generated on top of a huge mushroom. |
