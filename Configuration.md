@@ -15,13 +15,13 @@ Wizardry may be configured either by using the in-game mod options menu (recomme
 _Options which affect how wizardry's world generation features work._
 
 #### Ore Dimensions
-Determines the dimensions in which [[crystal ore]] will generate. Must be a list of integer dimension IDs. The default value is [0], which is just the overworld.
+Determines the dimensions in which [[crystal ore]] will generate. Must be a list of integer dimension IDs. The default value is `[0]`, which is just the overworld.
 
 #### Flower Dimensions
-Determines the dimensions in which [[crystal flowers|Crystal-Flower]] will generate. Must be a list of integer dimension IDs. The default value is [0], which is just the overworld.
+Determines the dimensions in which [[crystal flowers|Crystal-Flower]] will generate. Must be a list of integer dimension IDs. The default value is `[0]`, which is just the overworld.
 
 #### Tower Dimensions
-Determines the dimensions in which [[wizard towers|Wizard-Tower]] will generate. Must be a list of integer dimension IDs. The default value is [0], which is just the overworld.
+Determines the dimensions in which [[wizard towers|Wizard-Tower]] will generate. Must be a list of integer dimension IDs. The default value is `[0]`, which is just the overworld.
 
 #### Tower Rarity
 Determines the rarity with which wizard towers will generate. Must be an integer between 0 and 50, with higher numbers meaning towers are rarer. The default value is 8.
@@ -59,19 +59,31 @@ Determines whether [[poison bombs|Poison-Bomb-(Item)]] have a crafting recipe. T
 Determines whether [[smoke bombs|Smoke-Bomb-(Item)]] have a crafting recipe. The default value is true.
 
 #### Use Alternate Scroll Recipe
+Determines whether a [[magic crystal]] is required in the crafting recipe for [[blank scrolls|Scrolls]]. This should be set to true if another mod adds a conflicting recipe. The default value is false.
 
 #### Spell Book Drop Chance
+Determines the chance out of 200 that mobs will drop spell books. Must be an integer between 0 and 200, with a value of 200 causing mobs to drop a spell book every time and a value of 0 causing spell book drops to be disabled entirely. The default value is 3.
+
+_N.B. This does not apply to [[evil wizards|Evil Wizard]]._
 
 #### Player Damage Scaling
+Determines the global damage scaling factor applied to magic damage dealt by players. This includes indirect damage, e.g. from players' minions or constructs. Use this config option to alter the difficulty of the mod to your preference.
+
+_N.B. Some spells such as [[arrow rain]] use vanilla entities and will not be affected by this option._
 
 #### NPC Damage Scaling
+Determines the global damage scaling factor applied to magic damage dealt by NPCs such as [[wizards]]. This includes indirect damage, e.g. from NPCs' minions or constructs. Use this config option to alter the difficulty of the mod to your preference.
+
+_N.B. Some spells such as [[arrow rain]] use vanilla entities and will not be affected by this option._
 
 #### Summoned Creature Targets Whitelist
+Determines which mobs summoned creatures are specifically allowed to target, if this does not happen by default. Wizardry makes a best guess as to whether a mob is a suitable target for summoned creatures, but sometimes mobs from other mods work differently. Must be a list of entity IDs, with modid prefixes (for example, `wizardry:wizard`, `minecraft:shulker` or `twilightforest:skeleton_druid`). The default value is `[]` (an empty list).
 
 #### Summoned Creature Targets Blacklist
+Determines which mobs summoned creatures are not allowed to target, overriding the default and the whitelist. Wizardry makes a best guess as to whether a mob is a suitable target for summoned creatures, but sometimes it is undesirable for them to target certain mobs from other mods. Must be a list of entity IDs, with modid prefixes (for example, `wizardry:wizard`, `minecraft:shulker` or `twilightforest:skeleton_druid`). The default value is `[creeper]`.
 
 #### Minion Revenge Targeting
-Determines whether summoned creatures can revenge-target their summoner if their summoner attacks them. The default value is true.
+Determines whether summoned creatures can revenge-target their summoner if their summoner attacks them. Set this to false if you want your minions to behave themselves at all times, or if you often find yourself accidentally hitting your minions with magic. The default value is true.
 
 ---
 ## Commands
@@ -92,7 +104,7 @@ _Options which affect how wizardry's [[commands|Commands]] work._
 _Options that are specific to each player; these have no effect in the config file on a server._
 
 #### Spell HUD Position
-Specifies the position of the spell HUD. Valid positions are 'Bottom left', 'Top left', 'Top right' and 'Bottom right' (without quotes).
+Determines the position of the spell HUD. Valid positions are 'Bottom left', 'Top left', 'Top right' and 'Bottom right' (without quotes).
 
 #### Show Summoned Creature Names
 
