@@ -4,6 +4,7 @@
 | Effect type | Negative |
 | Max. natural level | Frostbite II |
 | Potion ID | `ebwizardry:frost` |
+| First appeared in | Wizardry 1.0 |
 
 ## Description
 Frostbite is a negative potion effect which causes both slowed movement and mining fatigue. Frostbite I reduces a player or mob to half of its normal speed and makes breaking blocks 45% slower. Frostbite II roots the player or mob to the spot and makes breaking blocks 90% slower. Frostbite does not deal any damage and cannot directly kill a player or mob.
