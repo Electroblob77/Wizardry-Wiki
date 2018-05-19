@@ -1,4 +1,9 @@
-_Since: Wizardry 1.0_
+| Wizard Tower | [[images/icons/wizard_tower.png]] |
+| --- | --- |
+| Spawns | Overworld surface |
+| Contains | 1 [[Arcane workbench]], 11-12 Bookshelves, 0-1 Chests |
+| Spawned mobs | 1 [[Wizard]] or 1 [[Evil wizard]] |
+| First appeared in | Wizardry 1.0 |
 
 Wizard towers are structures which generate at the surface throughout the overworld, or whichever dimensions are specified in the config (see [[Configuration|Configuration]] for more details). Wizard towers are round in shape, with pointed roofs and small windows, and can be found in a variety of shapes and sizes. Wizard towers contain an [[arcane workbench|Arcane-Workbench]], a number of bookshelves, torches and a [[wizard|Wizard]]. Sometimes, they contain an [[evil wizard|Evil-Wizard]] and a chest with magical loot instead of a regular wizard.
 
