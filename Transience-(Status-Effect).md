@@ -6,6 +6,7 @@ _This page is about the status effect. For the spell, see [[Transience]]._
 | Effect type | Beneficial |
 | Max. natural level | Transience I |
 | Potion ID | `ebwizardry:transience` |
+| First appeared in | Wizardry 1.0 |
 
 ## Description
 Transience is a beneficial potion effect which causes players and mobs to become invulnerable to all blockable damage. However, the player or mob will not be able to cause any damage while the effect is active, nor will they be able to break or place blocks. Transience is useful when trying to escape a dangerous situation, as it effectively turns the player into a 'ghost' that cannot interact with the world but is immune to all damage. Players and mobs under the transience effect also emit a subtle dust particle effect.
