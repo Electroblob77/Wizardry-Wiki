@@ -1,7 +1,7 @@
 | Frostbite | ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/frost_icon.png) |
 | --- | --- |
 | Particles | Snowflakes |
-| Negative effect | Yes |
+| Effect type | Negative |
 | Max. natural level | Frostbite II |
 | Potion ID | `ebwizardry:frost` |
 
