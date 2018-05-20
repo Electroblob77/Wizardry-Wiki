@@ -12,7 +12,7 @@ _This page is about the status effect. For the spell, see [[Mind Control]]._
 Mind control is a negative status effect which causes mobs to attack other hostile mobs. A mob with the mind control effect will target other mobs, wizards or players that are not allies of the player that controlled it. The controlling player is stored by UUID in the mob's NBT data (under the tag "controllingEntity").
 
 ## Sources
-The mind control spell inflicts mind control I on its target for 30 seconds. The only other source of the effect is via commands.
+The mind control spell inflicts mind control I on its target for 30 seconds without modifiers. The only other source of the effect is via commands.
 
 ## Trivia
 - The amplifier has no effect for mind control, much like blindness or nausea in vanilla _Minecraft_.
