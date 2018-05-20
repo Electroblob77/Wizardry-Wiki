@@ -10,7 +10,7 @@
 Fear is a negative status effect that causes mobs to run away from a particular creature. Creatures under the effects of fear I will try to stay at least 16 blocks away from the creature that inflicted it upon them. This creature is stored by its UUID in the mob's NBT data (under the "fearedEntity" tag).
 
 ## Sources
-The intimidate spell inflicts fear I on nearby entities for 30 seconds without modifiers. The only other source of the effect is via commands.
+The intimidate spell inflicts fear I on nearby entities for 30 seconds without modifiers, causing them to run away from the caster. The only other source of the effect is via commands.
 
 ## Trivia
 - The amplifier has no effect for fear, much like blindness or nausea in vanilla _Minecraft_.
