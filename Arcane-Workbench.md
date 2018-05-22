@@ -18,7 +18,7 @@ _An arcane workbench with a master ice mage wand._
 The arcane workbench is similar in appearance to an enchantment table, being the same dimensions and having a similar arrangement of gemstones in the corners and a cloth over the middle. Like enchantment tables, the arcane workbench emits a moderate amount of light. Its appearance reflects its crafting recipe, with a base made of lapis lazuli, a purple and gold cloth on top and gemstones resembling [[magic crystals|Magic-Crystal]] in the corners. When a wand, scroll or piece of wizard armour is placed into the arcane workbench, that item appears on the block itself and levitates above its surface. The item always turns such that its bottom edge faces the player. A slowly rotating yellow rune also floats beneath the item.
 
 ## Obtaining
-An arcane workbench can be obtained by crafting it from a block of lapis lazuli, 3 stone, 2 magic crystals, 2 gold nuggets and a piece of purple carpet (see [[Crafting Recipes|Crafting-Recipes]]). Arcane workbenches also generate in [[wizard towers|Wizard-Tower]], providing an alternative method of obtaining them. This, however, is not advised, since the [[wizard|Wizard]] in the tower will not take kindly to the player stealing their arcane workbench.
+An arcane workbench can be obtained by crafting it from a block of lapis lazuli, 3 stone, 2 magic crystals, 2 gold nuggets and a piece of purple carpet. Arcane workbenches also generate in [[wizard towers|Wizard-Tower]], providing an alternative method of obtaining them. This, however, is not advised, since the [[wizard|Wizard]] in the tower will not take kindly to the player stealing their arcane workbench.
 
 [[images/recipes/arcane_workbench.png]]  
 _The crafting recipe for the arcane workbench_
