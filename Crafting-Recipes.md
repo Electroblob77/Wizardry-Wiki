@@ -1,7 +1,7 @@
 This page is a list of all the crafting recipes in wizardry.
 
 ## Jump to...
-[[The Wizard's Handbook|Crafting-Recipes#the-wizard's-handbook]]  
+[[The Wizard's Handbook|Crafting-Recipes#the-wizards-handbook]]  
 [[Arcane Workbench|Crafting-Recipes#arcane-workbench]]  
 [[Magic Wand|Crafting-Recipes#magic-wand]]  
 [[Magic Missile Spell Book|Crafting-Recipes#magic-missile-spell-book]]  
