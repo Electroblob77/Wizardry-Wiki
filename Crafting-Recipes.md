@@ -6,7 +6,15 @@ This page is a list of all the crafting recipes in wizardry.
 [[Magic Wand|Crafting-Recipes#magic-wand]]  
 [[Magic Missile Spell Book|Crafting-Recipes#magic-missile-spell-book]]  
 [[Magic Crystal|Crafting-Recipes#magic-crystal]]  
+[[Crystal Block|Crafting-Recipes#crystal-block]]  
+[[Blank Scroll|Crafting-Recipes#blank-scroll]]  
 [[Firebomb|Crafting-Recipes#firebomb]]  
+[[Poison Bomb|Crafting-Recipes#poison-bomb]]  
+[[Smoke Bomb|Crafting-Recipes#smoke-bomb]]  
+[[Mana Flask|Crafting-Recipes#mana-flask]]  
+[[Stone of Transportation|Crafting-Recipes#stone-of-transportation]]  
+[[Magical Silk|Crafting-Recipes#magical-silk]]  
+[[Wizard Armour|Crafting-Recipes#wizard-armour]]  
 
 ---
 
