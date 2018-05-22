@@ -17,5 +17,5 @@ _The crafting recipe for magical silk_
 ## Usage
 The sole use of magical silk is to craft regular (non-elemental) wizard armour.
 
-[[images/recipes/wizard_hat.png]] [[images/recipes/wizard_robe.png]] [[images/recipes/wizard_leggings.png]] [[images/recipes/wizard_boots.png]]
+[[images/recipes/wizard_hat.png]] [[images/recipes/wizard_robe.png]] [[images/recipes/wizard_leggings.png]] [[images/recipes/wizard_boots.png]]  
 _The crafting recipes for wizard armour_
