@@ -14,7 +14,7 @@ Spell books are one of the two forms in which [[spells]] are recorded, the other
 _The magic missile spell book_
 
 ## Obtaining
-Spell books can be obtained in a number of ways: they can be found in loot chests in dungeons and wizard towers, purchased from [[wizards]], dropped by [[evil wizards]] when killed, and all mobs have a small chance to drop a spell book when killed by a player. The magic missile spell book can also be crafted from a book and four [[magic crystals]]. Spell books can also be obtained from the spells tab of the creative mode inventory (which is searchable) and via the /give command.
+Spell books can be obtained in a number of ways: they can be found in loot chests in dungeons and wizard towers, purchased from [[wizards|Wizard]], dropped by [[evil wizards|Evil-Wizard]] when killed, and all mobs have a small chance to drop a spell book when killed by a player. The magic missile spell book can also be crafted from a book and four [[magic crystals|Magic-Crystal]]. Spell books can also be obtained from the spells tab of the creative mode inventory (which is searchable) and via the /give command.
 
 _N.B. to specify a particular spell book using the /give command, the metadata for the desired spell should be used. See [[Spells]] for the metadata values corresponding to each spell._
 
