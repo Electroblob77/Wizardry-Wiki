@@ -12,7 +12,7 @@ Wizard armour is a form of magical armour which uses mana to shield its wearer f
 _All eight sets of wizard armour_
 
 ## Appearance
-Wizard armour has a cloth-like appearance, with a base colour and a highlight colour which depend on the element. Wizard armour has a custom model: wizard hats are pointed with a wide brim and folded-over peak, wizard robes extend downwards over the player's legs, and wizard leggings and boots are similar in shape to the armour in vanilla _Minecraft_.
+Wizard armour has a cloth-like appearance, with a base colour and a highlight colour which depend on the [[element|Elements]]. Wizard armour has a custom model: wizard hats are pointed with a wide brim and folded-over peak, wizard robes extend downwards over the player's legs, and wizard leggings and boots are similar in shape to the armour in vanilla _Minecraft_.
 
 [[images/screenshots/wizard_armour.png]]  
 _A set of regular (non-elemental) wizard armour on an armour stand_
