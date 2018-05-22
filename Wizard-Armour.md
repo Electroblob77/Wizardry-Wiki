@@ -18,7 +18,7 @@ Wizard armour has a cloth-like appearance, with a base colour and a highlight co
 _A set of regular (non-elemental) wizard armour on an armour stand_
 
 ## Obtaining
-Regular, non-elemental wizard armour may be obtained by crafting it from [[magical silk|Magical-Silk]]; see [[Crafting Recipes|Crafting-Recipes]]. All wizard armour may be obtained from loot chests, with an equal chance for items from each of the eight sets. Wizard armour of all types may also be purchased from [[wizards|Wizard]]. All wizards and [[evil wizards|Evil-Wizard]] wear wizard armour, and evil wizards will occasionally drop one or more of their armour pieces as a rare drop.
+Regular, non-elemental wizard armour may be obtained by crafting it from [[magical silk|Magical-Silk]]. All wizard armour may be obtained from loot chests, with an equal chance for items from each of the eight sets. Wizard armour of all types may also be purchased from [[wizards|Wizard]]. All wizards and [[evil wizards|Evil-Wizard]] wear wizard armour, and evil wizards will occasionally drop one or more of their armour pieces as a rare drop.
 
 [[images/recipes/wizard_hat.png]] [[images/recipes/wizard_robe.png]] [[images/recipes/wizard_leggings.png]] [[images/recipes/wizard_boots.png]]  
 _The crafting recipes for wizard armour_
