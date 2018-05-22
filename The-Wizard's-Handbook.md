@@ -14,5 +14,8 @@ _The contents page of The Wizard's Handbook_
 ## Obtaining
 _The Wizard's Handbook_ can be crafted from a book and a [[magic crystal]]. It is also available in the wizardry tab of the creative mode inventory and via the /give command.
 
+[[images/recipes/wizard_handbook.png]]  
+_The crafting recipe for The Wizard's Handbook_
+
 ## Usage
 Pressing the use item button whilst holding a copy of _The Wizard's Handbook_ will display a GUI allowing the player to read it. The arrows in the bottom-left and bottom-right corners can be used to turn between pages. The book also contains a contents page, which has clickable links to all of the sections.
