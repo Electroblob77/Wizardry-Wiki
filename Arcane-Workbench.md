@@ -24,7 +24,7 @@ An arcane workbench can be obtained by crafting it from a block of lapis lazuli,
 _The crafting recipe for the arcane workbench_
 
 ## Usage
-Right-clicking on an arcane workbench opens a GUI which allows the player to access its various functions. In the centre of the GUI is a slot which accepts a wand, blank scroll or piece of wizard armour; this is the item that will be charged, upgraded or have spells bound to it. Upon placing an wand or blank scroll in the central slot, a number of other slots appear in a circle around it: 1 for a blank scroll and 5-8 for a wand (depending on the number of [[attunement upgrades|Special-Wand-Upgrades]] applied to it).
+Right-clicking on an arcane workbench opens a GUI which allows the player to access its various functions. In the centre of the GUI is a slot which accepts a wand, blank scroll or piece of wizard armour; this is the item that will be charged, upgraded or have spells bound to it. Upon placing an wand or blank scroll in the central slot, a number of other slots appear in a circle around it: 1 for a blank scroll and 5-8 for a wand (depending on the number of [[attunement upgrades|Special-Wand-Upgrades#attunement-upgrade]] applied to it).
 
 [[images/screenshots/arcane_workbench.png]]
 _An arcane workbench containing a master wand with various upgrades applied to it, including the maximum 3 attunement upgrades, giving it a total of 8 spell slots._
