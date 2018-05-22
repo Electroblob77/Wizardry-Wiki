@@ -12,7 +12,10 @@ Wands are the implements used to cast spells. Each wand holds a certain number o
 _All 32 wands in wizardry_
 
 ## Obtaining
-Novice magic wands (non-elemental) may be crafted from a stick, a gold nugget and a [[magic crystal|Magic-Crystal]]; see [[Crafting Recipes|Crafting-Recipes]]. Novice wands of all elements may be obtained from loot chests, with an equal chance for each element. Higher-tier wands can be obtained by upgrading lower-tier wands using [[tomes of arcana|Tome-of-Arcana]]. Wands of all types may also be purchased from [[wizards|Wizard]]. All wizards and [[evil wizards|Evil-Wizard]] carry a wand, and evil wizards will occasionally drop their wand as a rare drop.
+Novice magic wands (non-elemental) may be crafted from a stick, a gold nugget and a [[magic crystal|Magic-Crystal]]. Novice wands of all elements may be obtained from loot chests, with an equal chance for each element. Higher-tier wands can be obtained by upgrading lower-tier wands using [[tomes of arcana|Tome-of-Arcana]]. Wands of all types may also be purchased from [[wizards|Wizard]]. All wizards and [[evil wizards|Evil-Wizard]] carry a wand, and evil wizards will occasionally drop their wand as a rare drop.
+
+[[images/recipes/magic_wand.png]]  
+_The crafting recipe for a novice magic wand_
 
 ## Usage
 Right-clicking with a wand casts the currently equipped spell. Continuous spells require the right mouse button to be held in order to cast them; all other spells only require it to be pressed once. When the player is holding a wand, a heads-up display is shown in the corner of the screen, which shows the currently equipped spell: its name, icon and cooldown bar if it has recently been cast. The equipped spell can be selected using the N and B keys (these can be changed in options -> controls), or by scrolling with the mouse wheel whilst sneaking.
