@@ -20,6 +20,9 @@ The arcane workbench is similar in appearance to an enchantment table, being the
 ## Obtaining
 An arcane workbench can be obtained by crafting it from a block of lapis lazuli, 3 stone, 2 magic crystals, 2 gold nuggets and a piece of purple carpet (see [[Crafting Recipes|Crafting-Recipes]]). Arcane workbenches also generate in [[wizard towers|Wizard-Tower]], providing an alternative method of obtaining them. This, however, is not advised, since the [[wizard|Wizard]] in the tower will not take kindly to the player stealing their arcane workbench.
 
+[[images/recipes/arcane_workbench.png]]  
+_The crafting recipe for the arcane workbench_
+
 ## Usage
 Right-clicking on an arcane workbench opens a GUI which allows the player to access its various functions. In the centre of the GUI is a slot which accepts a wand, blank scroll or piece of wizard armour; this is the item that will be charged, upgraded or have spells bound to it. Upon placing an wand or blank scroll in the central slot, a number of other slots appear in a circle around it: 1 for a blank scroll and 5-8 for a wand (depending on the number of [[attunement upgrades|Special-Wand-Upgrades]] applied to it).
 
