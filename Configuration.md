@@ -104,11 +104,15 @@ _Options which affect how wizardry's [[commands|Commands]] work._
 _Options that are specific to each player; these have no effect in the config file on a server._
 
 #### Spell HUD Position
-Determines the position of the spell HUD. Valid positions are 'Bottom left', 'Top left', 'Top right' and 'Bottom right' (without quotes).
+Determines the position of the spell HUD. Valid positions are 'Bottom left', 'Top left', 'Top right' and 'Bottom right' (without quotes). The default value is 'Top left'.
 
 #### Show Summoned Creature Names
+Determines whether summoned creatures show nameplates above their heads. If set to true, summoned creatures will show a nameplate with the name of the owner and the name of the creature, for example, 'Steve's Zombie'. The default value is true.
 
 #### Enable Shift-Scrolling
+Determines whether spells can be switched between by sneaking and scrolling with the mouse wheel. The default value is true.
+
+_N.B. This does not affect the keybindings for spell switching; those can be disabled in the controls menu if desired by setting them to NONE._
 
 ---
 ## Resistances
