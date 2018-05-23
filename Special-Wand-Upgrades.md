@@ -39,7 +39,7 @@ Range upgrades increase the range of spells cast by a wand. Projectiles will fly
 Duration upgrades increase the length of time spells cast by a wand last for. Summoned creatures will last for longer before vanishing, potion effects will last for longer, and conjured items and constructs will last for longer. Each duration upgrade increases the duration of spells by 25%, so a maximum 3 duration upgrades will give a 75% duration increase.
 
 ### Cooldown Upgrade
-Cooldown upgrades reduce the length of all spell cooldowns for a wand. Each cooldown upgrade reduces the cooldown time of spells by 15%, so a maximum 3 cooldown upgrades will decrease the cooldown time by 45%. This effect also stacks with the [[font of mana]] spell.
+Cooldown upgrades reduce the length of all spell cooldowns for a wand. Each cooldown upgrade reduces the cooldown time of spells by 15%, so a maximum 3 cooldown upgrades will decrease the cooldown time by 45%. This effect also stacks with the [[font of mana|Font-of-Mana-(Status-Effect)]] status effect.
 
 ### Blast Upgrade
 Blast upgrades increase the blast radius or area of effect of spells cast by a wand. Explosions will be bigger and spells with an area of effect will affect a larger area. Each blast upgrade will increase the radius of the area of effect by 25%, so a maximum 3 blast upgrades will give a 75% blast radius increase.
