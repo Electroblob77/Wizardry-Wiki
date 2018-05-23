@@ -15,4 +15,4 @@ Font of mana is a beneficial status effect which dramatically reduces a player's
 The font of mana spell grants the caster font of mana I, or, when used on a master healing [[wand|Wands]], font of mana II. The only other source of the effect is via commands.
 
 ## Trivia
-- The font of mana effect stacks with [[wand cooldown upgrades|Special-Wand-Upgrades#cooldown-upgrades]].
+- The font of mana effect stacks with [[wand cooldown upgrades|Special-Wand-Upgrades#cooldown-upgrade]].
