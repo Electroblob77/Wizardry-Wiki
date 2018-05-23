@@ -1,9 +1,9 @@
 All [[spells]] have a spell type, which describes the general usage category of the spell. There are currently four spell types: attack, defence, utility and minion.
 
-> In future, more spell types will be added to categorise spells more precisely, and a spell's type will affect how it is used by wizards and other non-player spell casters.
+> This page includes content which is planned for future versions of wizardry. Spell types are currently purely informational, but in future, a spell's type will affect how it is used by wizards and other non-player spell casters.
 
 ### Attack
-This spell type is for spells that deal damage directly to targets or inflict some sort of negative effect upon them. They may be projectile spells, ray-type spells, or perhaps the summoning of inanimate entities such as lightning.
+This spell type is for spells that deal damage directly to targets. They may be ray-type spells, continuous stream spells, or perhaps the summoning of inanimate entities such as lightning.
 
 ### Defence
 This spell type is for spells that block damage or heal their caster.
@@ -13,3 +13,15 @@ This spell type is for spells that perform some useful function for their caster
 
 ### Minion
 This spell type is for spells that summon sentient creatures to do their caster's bidding.
+
+### Buff
+This spell type is for spells that bestow beneficial effects on their caster, which may or may not be combat-related.
+
+### Construct
+This spell type is for spells that conjure magical constructs - inanimate entities which are usually quite large, remain in one place, and last for a set duration of time. Trap spells also fit into this category.
+
+### Projectile
+This spell type is for spells that conjure magical projectiles. These may or may not be affected by gravity, and have numerous different effects on impact.
+
+### Alteration
+This spell type is for spells that inflict negative effects on their target but do not damage their target directly.
