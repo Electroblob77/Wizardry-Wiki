@@ -1,6 +1,7 @@
 | Crystal Flower |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/crystal_flower.png)|
 |---|---|
 | Craftable | No |
+| Stackable | Yes, 64 |
 | Creative Tab | Wizardry |
 | Harvest Tool | Hand |
 | Drops | Itself |
