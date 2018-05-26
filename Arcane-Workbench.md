@@ -1,6 +1,7 @@
 | Arcane Workbench |![](https://github.com/Electroblob77/Wizardry/wiki/images/icons/arcane_workbench.png)|
 |---|---|
 | Craftable | Yes |
+| Stackable | Yes, 64 |
 | Creative Tab | Wizardry |
 | Harvest Tool | Pickaxe, stone or better |
 | Drops | Itself |
