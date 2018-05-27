@@ -1,3 +1,4 @@
+[[images/banners/blocks_header.png]]
 This is a list of all the blocks in wizardry. Click on the links to the pages for each block for more information.
 
 ## Pages in this category
