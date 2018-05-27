@@ -1,3 +1,4 @@
+[[images/banners/mobs_header.png]]
 This is a list of all the mobs in wizardry. Click on the links to the pages for each mob for more information.
 
 ## Pages in this Category
