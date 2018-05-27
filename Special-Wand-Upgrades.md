@@ -27,7 +27,7 @@ Storage upgrades increase the mana capacity of wands. Each storage upgrade incre
 ### Siphon Upgrade
 Siphon upgrades cause wands to extract mana from creatures their wielder kills. When a player kills any creature, the first wand on their hotbar* which has a siphon upgrade will gain a small amount of mana. The kill can be with anything, it does not have to be the wand with the upgrade - any kill that counts as a player kill will grant siphon mana. The mana gained is a random number from 3-5 per siphon upgrade. This means that a wand with 1 siphon upgrade will gain 3-5 mana per kill, a wand with 2 siphon upgrades will gain 6-10 mana and a wand with 3 siphon upgrades will gain 9-15 mana. Only the first wand on the player's hotbar* gains mana for a kill, even if there are other wands with siphon upgrades on the player's hotbar.
 
-_* The exact order is main hand, then offhand, followed by the rest of the hotbar left-to-right._
+_* The exact order of precedence is main hand, then offhand, followed by the rest of the hotbar left-to-right._
 
 ### Condenser Upgrade
 Condenser upgrades cause wands to slowly regenerate mana over time. When a wand with a condenser upgrade is in a player's inventory or in an arcane workbench, it will gain 1 mana per condenser upgrade every 1.5 seconds. Unlike siphon upgrades, _all_ wands with condenser upgrades will gain mana simultaneously, even if a player is carrying more than one.
