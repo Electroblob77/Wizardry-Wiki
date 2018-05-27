@@ -1,5 +1,4 @@
 [[images/banners/items_header.png]]
-
 This is a list of all the items in wizardry. Click on the links to the pages for each item for more information.
 
 ## Pages in this category
