@@ -5,6 +5,7 @@
 | Creative Tab | Wizardry |
 | Harvest Tool | Pickaxe, iron or better |
 | Drops | 1-3 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/magic_crystal.png) [magic crystals](https://github.com/Electroblob77/Wizardry/wiki/Magic-Crystal) |
+| Experience | 1-4 |
 | Block ID | `ebwizardry:crystal_ore` |
 | First appeared in | Wizardry 1.0 |
 
