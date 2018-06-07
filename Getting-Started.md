@@ -1,7 +1,7 @@
 This page is a quick guide/walkthrough to help beginners get to grips with the basics of the mod. If this is your first time playing with wizardry, this is the place to start!
 
 ## First Steps
-The very first thing you'll want to do is collect [[magic crystals|Magic-Crystal]]. These small items are a central part of wizardry - they'll supply your wands with mana and you'll need them in various crafting recipes. To start with, you'll need at least 15 or so. You'll find most crystals underground in the form of [[crystal ore|Crystal-Ore]], but there is another, quicker way to get them in early-game - I'll leave that for you to work out!
+The very first thing you'll want to do is collect [[magic crystals|Magic-Crystal]]. These small items are a central part of wizardry - they'll supply your wands with mana and you'll need them in various crafting recipes. To start with, you'll need at least 15 or so. You'll find most crystals underground in the form of [[crystal ore|Crystal-Ore]], but there is another, quicker way to get them in early-game - I'll leave that for you to work out! (Or you could just look it up on this wiki, but that's boring...)
 
 You should also gather a few other resources: some smooth stone, a handful of lapis lazuli pieces, some wool, a gold nugget and a couple of books.
 
