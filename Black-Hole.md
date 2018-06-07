@@ -5,7 +5,7 @@
 | Type | Construct |
 | Mana Cost | 150 |
 | Continuous | No |
-| Cast by wizards | Yes |
+| Cast by wizards | No |
 | ID | `ebwizardry:black_hole` |
 | Metadata | 105 |
 | First appeared in | Wizardry 1.0 |
