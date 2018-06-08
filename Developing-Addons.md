@@ -7,7 +7,8 @@ These pages explain how to program addon mods for _Electroblob's Wizardry_, part
 [[Adding Spells]]  
 [[Adding Wand Upgrades]]  
 [[Adding Entities]]  
-[[Miscellaneous Features]]
+[[Miscellaneous Features]]  
+[[Compiling and Publishing]]
 
 ---
 
