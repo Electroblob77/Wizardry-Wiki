@@ -52,7 +52,7 @@ You will need to add **localisations** for the spell to give it a nice, readable
 
 ## Making wizards cast your spell
 
-Making wizards cast your spell is fairly simple once you have written the code for players casting it. This time, you'll need to override the _second_ `cast(...)` method in `Spell`. You'll notice a couple of differences between this method and the player method:
+Making [[wizards|Wizard]] cast your spell is fairly simple once you have written the code for players casting it. This time, you'll need to override the _second_ `cast(...)` method in `Spell`. You'll notice a couple of differences between this method and the player method:
 - The `caster` argument is an `EntityLiving` instead of an `EntityPlayer`. This is because this method deals with non-player entities casting the spell.
 - There is an additional `target` argument of type `EntityLivingBase`. This is the target that the NPC aimed at when it cast the spell.
 
