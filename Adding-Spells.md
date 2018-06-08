@@ -1,4 +1,4 @@
-This page explains how to add spells to your spell pack.
+This page explains how to add [[spells]] to your spell pack.
 
 ## Prerequisites
 - An addon mod ready to add spells to. You should have completed everything in the [[developing addons]] tutorial at this point.
@@ -8,7 +8,16 @@ This page explains how to add spells to your spell pack.
 
 First of all, you'll need to write a new class for your spell, where you can put all of the code that makes it work. Create a new class and have it extend `Spell`. The `Spell` class can be found in the package `electroblob.wizardry.spell` and is the base class for all spells. I've taken the time to write full Javadoc comments for the methods and fields in this class, so I recommend you read them carefully!
 
-In this class, create a new constructor with no arguments, and inside it, call the super constructor in the `Spell` class. There are **two** super constructors in `Spell`, and you need to make sure you use the one which takes an additional `modID` argument. You'll then need to pass some values into the super constructor which define basic information about your spell, such as tier, element and mana cost; have a look at the example below for the. Most importantly, you'll need to pass in the **mod ID** of your addon mod, so that wizardry knows which mod the spell is from and where to look for your spell icon.
+In this class, create a new constructor with no arguments, and inside it, call the super constructor in the `Spell` class. There are **two** super constructors in `Spell`, and you need to make sure you use the one which takes an additional `modID` argument. You'll then need to pass some values into the super constructor which define basic information about your spell:
+- `tier` The [[tier|Tiers]] of your spell. Can be `Tier.BASIC` (novice = basic in the code), `Tier.APPRENTICE`, `Tier.ADVANCED` or `Tier.MASTER`.
+- `cost` The mana cost of your spell. This is usually a multiple of 5.
+- `element` The [[element|ELements]] of your spell. Can be `Element.FIRE`, `Element.ICE`, `Element.LIGHTNING`, `Element.NECROMANCY`, `Element.EARTH`, `Element.SORCERY`, `Element.HEALING`.
+- `name` The unlocalised name of your spell. This should be in all lowercase with underscores_between_words.
+- `type` The [[spell type|Spell-Types]] of your spell. Can be `SpellType.ATTACK`, `SpellType.DEFENCE`, `SpellType.UTILITY` or `SpellType.MINION`.
+- `cooldown` The cooldown of your spell in ticks (20 ticks = 1 second).
+- `action` The `EnumAction`, or animation, that the player performs when casting the spell.
+- `isContinuous` True to require the use item button to be held down in order to cast the spell, false for a single click to cast the spell.
+- `modID` The **mod ID** of your addon mod. This is required so that wizardry knows which mod the spell is from and where to look for your spell icon.
 
 > Depending on what you did when you created the class, your IDE might have added two constructors for you. If this happens, delete the constructor **without** the `modID` argument (it'll be the shorter one), remove all of the arguments from the remaining constructor, and then pass in the values as before.
 
