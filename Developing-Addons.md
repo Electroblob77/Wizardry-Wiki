@@ -11,6 +11,7 @@ These pages explain how to program addon mods for _Electroblob's Wizardry_, part
 [[Compiling and Publishing]]
 
 ---
+# Getting Started
 
 ## Prerequisites
 
