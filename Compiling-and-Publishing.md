@@ -21,8 +21,8 @@ So, you've made a spell pack, and now you want to release it for the community t
 I do not place any restrictions on how or where you distribute your addon mod, provided the following conditions are met:
 
 - You **credit me**, Electroblob, as the author of [[Electroblob's Wizardry]], and **give a link** to the original mod (i.e. this page, the Minecraft Forum thread or the mods.curse.com page). After all, nobody can play your addon without downloading wizardry as well!
-> I recommend using CurseForge to distribute your addon mod, because it allows you to specify that it's an addon to Wizardry.
 - You do not make money off of your addon mod in any way. **This includes AdFly** and other URL shorteners. The **only** exception to this rule is the **Curse rewards program**. Making money from videos featuring your addon mod **is** allowed. (_The reason for this rule is as follows: I haven't put wizardry behind a URL shortener because I don't want my users to go through that just to download the mod, and as such I don't want users of addons to have to go through it either. If you want to discuss permissions, please don't hesitate to ask me._)
+> I recommend using CurseForge to distribute your addon mod, because it allows you to specify that it's an addon to Wizardry.
 
 I also ask that you notify me if you release an addon mod, either on [Discord](https://discord.gg/MTmMzMv), [CurseForge](https://minecraft.curseforge.com/projects/electroblobs-wizardry) or the [Minecraft Forum thread](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2818029-electroblobs-wizardry-the-expandable-rpg-magic-mod). It's not required, but if you do I will add a link to your addon in Wizardry's description!
 
