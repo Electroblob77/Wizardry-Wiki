@@ -1,5 +1,10 @@
 This page explains how to compile and publish a spell pack or other addon mod.
 
+## Prerequisites
+- A spell pack or addon mod ready to compile.
+- Knowledge of how to compile a mod using gradle.
+- A `build.gradle` file.
+
 ## Compiling a spell pack
 
 You can compile your spell pack in the same way as any other mod, by running `gradlew.bat build` in the command window. If you put the deobfuscated jar in the `libs` folder, this should all work just fine. However, if not, the build will fail with compile errors. To fix this, add the following lines to your `build.gradle` file:
