@@ -50,4 +50,4 @@ Now, if wizardry is not installed with your spell pack, Forge will display a mes
 
 Now you're ready to start adding content to your addon mod! Check out the page on [[adding spells]] for a tutorial on how to add spells. Alternatively, take a look at the other tutorial pages on this wiki, or have a read of wizardry's code - I endeavour to write useful Javadoc comments for all of the important classes and methods; you can learn a lot just by reading through the code itself.
 
-If you have a question about writing an addon for wizardry, come and poke me on Discord, CurseForge or the Minecraft Forum and I will answer it as well as I can! Consider also setting up a GitHub repository for your addon mod, it makes it a lot easier for me to help you.
+If you have a question about writing an addon for wizardry, come and poke me on Discord, CurseForge or the Minecraft Forum thread and I will answer it as well as I can! Consider also setting up a GitHub repository for your addon mod, it makes it a lot easier for me to help you.
