@@ -41,10 +41,12 @@ In addition, I'd like to thank the following individuals for their contributions
 
 - Corail31
 - 12foo
+- Shadows-of-Fire
 
 #### Translations
 
 - Russian: VilagVil
 - Spanish and Mexican Spanish: MadWrist
+- Chinese: ZHENGLOC
 
 Lightning ray sound effect from OhhWowProductions
