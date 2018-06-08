@@ -30,7 +30,7 @@ However, if you open up any of the classes you'll notice they're completely unre
 
 ## Specifying wizardry as a dependency
 
-Next you'll need to specify Wizardry as a dependency for your mod, which is done in your @Mod annotation using the following syntax:
+Next you'll need to specify Wizardry as a dependency for your mod, which is done in your `@Mod` annotation using the following syntax:
 
 `dependencies="required-after:ebwizardry"`
 
@@ -43,6 +43,10 @@ It is good practice to specify that your mod is an addon for Wizardry in your `m
 "useDependencyInformation": "true",
 ```
 Now, if wizardry is not installed with your spell pack, Forge will display a message to users telling them that wizardry must be installed, and they won't be able to launch Minecraft without it. It also ensures that your mod gets loaded after wizardry, which is important to ensure things work as they should.
+
+> The page on [structuring your mod](https://mcforge.readthedocs.io/en/latest/gettingstarted/structuring/) in the Forge documentation contains lots of useful information about the `@Mod` annotation and the `mcmod.info` file.
+
+---
 
 Now you're ready to start adding content to your addon mod! Check out the page on [[adding spells]] for a tutorial on how to add spells. Alternatively, take a look at the other tutorial pages on this wiki, or have a read of wizardry's code - I endeavour to write useful Javadoc comments for all of the important classes and methods; you can learn a lot just by reading through the code itself.
 
