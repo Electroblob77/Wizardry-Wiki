@@ -39,10 +39,13 @@ Next you'll need to specify Wizardry as a dependency for your mod, which is done
 
 It is good practice to specify that your mod is an addon for Wizardry in your `mcmod.info` file. To do this, add the following lines:
 ```
-"requiredMods": [ "wizardry" ],
-"dependencies": [ "wizardry" ],
+"requiredMods": [ "ebwizardry" ],
+"dependencies": [ "ebwizardry" ],
 "useDependencyInformation": "true",
 ```
+
+> If you're using a Minecraft version prior to 1.12, replace `ebwizardry` with `wizardry`.
+
 Now, if wizardry is not installed with your spell pack, Forge will display a message to users telling them that wizardry must be installed, and they won't be able to launch Minecraft without it. It also ensures that your mod gets loaded after wizardry, which is important to ensure things work as they should.
 
 > The page on [structuring your mod](https://mcforge.readthedocs.io/en/latest/gettingstarted/structuring/) in the Forge documentation contains lots of useful information about the `@Mod` annotation and the `mcmod.info` file.
