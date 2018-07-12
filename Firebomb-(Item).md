@@ -17,4 +17,4 @@ Firebombs may be found in loot chests in dungeons. They may also be crafted from
 _The crafting recipe for firebombs_
 
 ## Usage
-Right-clicking whilst holding a firebomb will throw it in the direction the player is looking, much like a snowball or ender pearl. When the firebomb hits a block or creature, it will explode, dealing 2 hearts of damage to all mobs within 3 blocks and setting them on fire. If the firebomb hits a creature directly, that creature will take an extra half-heart of damage.
+Right-clicking whilst holding a firebomb will throw it in the direction the player is looking, much like a snowball or ender pearl. When the firebomb hits a block or creature, it will explode, dealing 2 hearts of damage to all mobs within 3 blocks and setting them on fire for 7 seconds. If the firebomb hits a creature directly, that creature will take an extra half-heart of damage.
