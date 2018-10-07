@@ -36,16 +36,18 @@ A mysterious and often mistrusted form of magic, necromancy is dominated by summ
 
 ~ _The Wizard's Handbook_
 
-Earth is a broad element with a broad range of abilities to match. Earth magic can loosely be divided into 3 categories: animal-based magic, plant-based magic and magic based off of the physical elements - rock, water and air. Earth mages are 
+Earth is a broad element with a broad range of abilities to match. Earth magic can be loosely divided into 3 categories: animal-based magic, plant-based magic and magic based off of the physical elements - rock, water and air. The abilities offered by earth magic include summoning spirit animals, inflicting poison effects upon victims, and manipulating wind and water - to lethal effect. Earth mages are unpredictable and can use all manner of spells to attack, confuse and fend off their opponents, as well as take on supernatural abilities.
 
 ## Sorcery
 >Sorcery is the element of force and change. Sorcerers manipulate light, gravity and even reality itself to fit their needs. Sorcery spells can be used, among other things, to grant their caster magical powers or move objects to their will.
 
 ~ _The Wizard's Handbook_
 
-Sorcery spells can be loosely divided into 3 types: motion spells, conjuration spells, and alteration spells.
+Widely believed to be the most ancient form of magic, sorcery is the name given to a collection of spells which form a direct connection between their caster and the laws of reality. Sorcery spells can be loosely divided into 3 types: motion spells, conjuration spells, and alteration spells. Sorcery spells can be used, for example, to create light, move objects at a distance, and conjure blocks and items. Powerful sorcerers focus bolts of arcane force at their adversaries, teleport around at will and even tear holes in the fabric of reality. It is even rumoured that there exist spells for manipulating time itself - however, for now at least, these spells are lost somewhere in the past.
 
 ## Healing
 >The element of healing is concerned with defence and regeneration. Healers seek to protect themselves and their allies as much as possible and as such can be very difficult opponents. Though generally not used as an attack, the purifying light of some healing spells will do considerable damage to the undead. Healing spells are indispensable when in combat.
 
 ~ _The Wizard's Handbook_
+
+Healing differs from the other elements in that its primary focus is on defence. Healing spells are indispensable when in combat, and nearly all wizards know at least a basic healing spell. However, those that specialise into healing gain access to a much greater variety of defensive, and on occasion, attacking spells. These include more powerful healing and regenerative abilities, summoning magical shields and wards, neutralising opponents' attacks and granting resistances. A number of healing spells are also ally-based, making healers a very useful addition to any adventuring party. Fighting a healer is a tough challenge due to their sheer tenacity - if you are not careful, you can end up effectively defeating yourself.
