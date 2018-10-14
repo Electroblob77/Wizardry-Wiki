@@ -17,6 +17,37 @@ This is a master changelog covering all released versions of wizardry. Individua
 
 ## 1.12.2 Versions
 
+### Version 4.1.2
+\+ Added a smelting recipe for crystal ore, resolving issue #43
+\+ Crystal ore now drops 1-4 experience when mined
+\+ Legendary wizard armour now grants +2 armour toughness per piece, like diamond armour
+\+ Added a mind control targets blacklist option to the config, resolving issue #39
+\+ Added an evil wizard spawn dimensions config option and restricted their spawning to 1 per chunk, resolving issue #26 - by default, evil wizards now only spawn in the overworld
+\+ Tab-completion for spell names in commands now works without having to specify the modid
+\* Reorganised the config file and config GUI
+\* Non-evil wizards' minions will no longer attack players unless the player in question has angered the wizard
+\* Converted all non-dynamic crafting recipes to JSON
+\# Told wizards to behave themselves and stop pretending to be villagers
+\# Told petrified creatures not to be scared of the moonlight, they now break out at night as intended
+\# Fixed issue #12, an issue with GL state changes
+\# Fixed issue #18, where there were two recipes for converting crystal blocks to crystals, one of which was incorrect
+\# Fixed issue #20, where the arcane workbench did not drop its inventory items correctly when broken
+\# Fixed issue #23, where stones of transportation did not drop when unsupported
+\# Fixed issue #31, where the game would crash when entities were added to immunity lists
+\# Fixed issue #32, where the elements tag of the random_spell loot function caused a crash
+\# Fixed issue #36, where the game would crash when opening the wizard's handbook if wizardry's keybindings were set to mouse buttons
+\# Fixed issue #37, where spirit horses and wolves (though the latter was unnoticeable) incorrectly used the loot tables \for regular horses and wolves
+\# Fixed issue #38, where wizards' names would show up incorrectly in certain places
+\# Fixed issue #40, where sigils (and various other entities) would behave incorrectly if they could not retrieve their caster, for instance if their caster logged out or after a server reboot
+\# Fixed issue #41, where some death messages not translated properly
+\# Fixed a related bug in where death messages would display upon death of a minion as a result of it having a custom name tag
+\# Fixed issue #42, where throwable projectiles would hit their thrower when aimed at an entity at close range
+\# Fixed issue #44, where wizard armour would behave weirdly in various ways
+\# Fixed issue #46, a rendering issue that occurred with Conquest Reforged installed
+\# Fixed issue #47, a rendering issue that occurred with Stellar API installed
+\# Fixed issue #48, where the arcane tinkering advancement would be granted incorrectly
+\- Removed the crafting recipe config options; use the recipe JSON files to modify recipes\
+
 ### Version 4.1.1
 \* Mobs attacked by summoned creatures now revenge-target the summoned creature instead of its summoner  
 \# Fixed issue #13, where the game would sometimes crash when wizards cast life drain or flame ray  
