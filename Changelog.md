@@ -39,7 +39,7 @@ This is a master changelog covering all released versions of wizardry. Individua
 \# Fixed issue #37, where spirit horses and wolves (though the latter was unnoticeable) incorrectly used the loot tables for regular horses and wolves  
 \# Fixed issue #38, where wizards' names would show up incorrectly in certain places  
 \# Fixed issue #40, where sigils (and various other entities) would behave incorrectly if they could not retrieve their caster, for instance if their caster logged out or after a server reboot  
-\# Fixed issue #41, where some death messages not translated properly  
+\# Fixed issue #41, where some death messages were not translated properly  
 \# Fixed a related bug in where death messages would display upon death of a minion as a result of it having a custom name tag  
 \# Fixed issue #42, where throwable projectiles would hit their thrower when aimed at an entity at close range  
 \# Fixed issue #44, where wizard armour would behave weirdly in various ways  
