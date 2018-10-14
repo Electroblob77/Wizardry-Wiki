@@ -29,7 +29,7 @@ No other element embodies raw power quite like the element of lightning. Storm m
 
 ~ _The Wizard's Handbook_
 
-A mysterious and often mistrusted form of magic, necromancy is dominated by summoning spells, giving necromancers the ability to summon various undead mobs as well as more powerful elemental beings. Necromancy may also be used to influence creature's minds, inflict withering effects and manipulate life forces. Necromancers seek to control, preferring to stand at a distance while their minions exact their will upon the world. Fighting against a necromancer means having to fend off hordes of undead mobs whilst somehow managing to attack the necromancer themselves.
+A mysterious and often mistrusted form of magic, necromancy is dominated by summoning spells, giving necromancers the ability to summon various undead mobs as well as more powerful elemental beings. Necromancy may also be used to influence creature's minds, inflict withering effects and manipulate life forces. Necromancers seek to control, preferring to stand at a distance while their minions exact their will upon the world. Fighting against a necromancer means having to fend off hordes of undead mobs whilst dealing with the effects inflicted by the necromancer themselves.
 
 ## Earth
 >The element of earth is focused on the natural world: animals, plants, the wind, and such like. Earth magic is diverse and takes a wide variety of forms, from poisoning enemies to unleashing the fury of the weather. Earth spells are a mixture of attack, defence and utility.
