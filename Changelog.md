@@ -36,8 +36,7 @@ This is a master changelog covering all released versions of wizardry. Individua
 \# Fixed issue #31, where the game would crash when entities were added to immunity lists  
 \# Fixed issue #32, where the elements tag of the random_spell loot function caused a crash  
 \# Fixed issue #36, where the game would crash when opening the wizard's handbook if wizardry's keybindings were set to mouse buttons  
-\# Fixed issue #37, where spirit horses and wolves (though the latter was unnoticeable) incorrectly used the loot tables
-\for regular horses and wolves  
+\# Fixed issue #37, where spirit horses and wolves (though the latter was unnoticeable) incorrectly used the loot tables for regular horses and wolves  
 \# Fixed issue #38, where wizards' names would show up incorrectly in certain places  
 \# Fixed issue #40, where sigils (and various other entities) would behave incorrectly if they could not retrieve their caster, for instance if their caster logged out or after a server reboot  
 \# Fixed issue #41, where some death messages not translated properly  
