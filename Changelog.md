@@ -154,7 +154,7 @@ This is a master changelog covering all released versions of wizardry. Individua
 \# Fixed a bug where continuous spells were casting when they shouldn't be after switching spells  
 
 ### Version 1.1 - The co-op update
-^ Updated to use Forge build 1.7.10-10.13.4.1558
+^ Updated to use Forge build 1.7.10-10.13.4.1558  
 \+ Added evil wizards who generate in their own towers and rarely spawn at night, like witches. They won't trade with you; instead they will attack you if you get too close. Oh, and they drop cool items if you kill them.  
 \+ Added chests to the towers of evil wizards, filled with magical loot!  
 \+ Added 30 new spells  
