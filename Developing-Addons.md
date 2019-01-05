@@ -16,7 +16,7 @@ These pages explain how to program addon mods for _Electroblob's Wizardry_, part
 ## Prerequisites
 
 - A reasonable knowledge of the basics of modding with _Minecraft Forge_: an understanding of simple Java, how to make blocks, items and such like, and familiarity with the registry and event handling systems. That said, I have made every effort to explain things as clearly as I can along the way.
-- A modding environment set up. I use eclipse, but you can use any IDE - I won't be referring to anything specific to eclipse. Make sure you have the correct version of Minecraft Forge for the version of wizardry you intend to use. Usually this will be the latest version of Forge for the version of Minecraft you are using.
+- A modding environment set up. I used eclipse for several years and recently switched to IntelliJ IDEA, but you can use any IDE - I won't be referring to anything specific to either of those IDEs. Make sure you have the correct version of Minecraft Forge for the version of wizardry you intend to use. Usually this will be the latest version of Forge for the version of Minecraft you are using.
 - A mod set up ready to add spells to (main mod class and proxies, plus a lang file).
 
 ## Setting up your workspace
