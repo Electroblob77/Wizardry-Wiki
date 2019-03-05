@@ -17,6 +17,24 @@ This is a master changelog covering all released versions of wizardry. Individua
 
 ## 1.12.2 Versions
 
+### Version 4.1.4  
+\# Fixed issue #104, a NoClassDefFoundError on server startup  
+
+### Version 4.1.3  
+\+ Added Chinese translations, courtesy of ZHENGLOC and dragon-evol  
+\# Fixed issue #56, where the console would sometimes be spammed with the message "A mod has called ItemScroll#getItemStackDisplayName from the server side. Using thedeprecated server-side translation methods as a fallback."  
+\# Fixed issue #64, where the ice age spell would incorrectly place snow on top of flowing water  
+\# Fixed issue #70, where the server would crash in certain cases when executing the /allies command  
+\# Fixed issue #71, where the server would crash when trying to write packet data for a projectile whose caster had logged out or otherwise been lost  
+\# Fixed issue #73, where the game would crash with an OutOfMemoryError when trying to generate a wizard tower if there were no blocks beneath all or part of the foundations (usually in void or sky island worlds)  
+\# Fixed issue #81 courtesy of HellFirePvP, where imbuement spells combined with a resplendent prism from Astral Sorcery resulted in an exploit allowing infinite enchantment levels to be obtained  
+\# Fixed issue #90 (also known as issue #80, #91, #97 and #98), an ArrayIndexOutOfBoundsException crash related to wand NBT data  
+\# Fixed issue #93, where wizards under the ice shroud effect would cause a crash when fed into a mob masher from mob grinding utils  
+\# Fixed issue #96, where the arcane workbench GUI did not have a dark tint over the background like the other GUIs  
+\# Fixed an issue where the spell switching would behave inconsistently when the next/previous spell keys were bound to mouse buttons (may be related to issue #79)  
+\# Light no longer appears to grow indefinitely when the block fails to disappear; this reduces the effects of issue #101 but does not fix it  
+\# Added an optimisation which prevents unnecessary key press packets
+
 ### Version 4.1.2
 \+ Added a smelting recipe for crystal ore, resolving issue #43  
 \+ Crystal ore now drops 1-4 experience when mined  
