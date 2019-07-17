@@ -29,17 +29,13 @@ Example Json syntax for a single entry in a loot pool:
         {
             "function": "wizardry:random_spell",
             "tiers": [
-                {
-                    "tier": "advanced",
-                    "tier": "master"
-                }
+                "advanced",
+                "master"
             ],
             "elements": [
-                {
-                    "element": "fire",
-                    "element": "ice",
-                    "element": "sorcery"
-                }
+                "fire",
+                "ice",
+                "sorcery"
             ]
         }
     ]
