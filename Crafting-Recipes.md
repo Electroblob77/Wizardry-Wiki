@@ -49,7 +49,7 @@ _The recipe used depends on the [[alternate scroll recipe config setting|Configu
 ### [[Smoke Bomb|Smoke-Bomb-(Item)]]
 [[images/recipes/smoke_bomb.png]]
 
-### [[Mana Flask]]
+### [[Mana Flasks]]
 [[images/recipes/mana_flask.png]]
 
 ### [[Stone of Transportation]]
