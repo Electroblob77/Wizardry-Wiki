@@ -1,4 +1,4 @@
-| Mana Flask |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/mana_flask.png)|
+| Mana Flask |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/mana_flask_small.png)(https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/mana_flask_medium.png)(https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/mana_flask_large.png)|
 |---|---|
 | Craftable | Yes |
 | Stackable | Yes, 64 |
@@ -12,7 +12,7 @@ Mana flasks are a portable source of mana used to charge [[wands|Wands]] and [[w
 Mana flasks can be crafted from a glass bottle and eight magic crystals. They are also available in the wizardry tab of the creative mode inventory and via the /give command.
 
 [[images/recipes/mana_flask.png]]  
-_The crafting recipe for mana flasks_
+_The crafting recipe for medium mana flasks_
 
 ## Usage
 The sole use of mana flasks is to charge wands and wizard armour without the need for an arcane workbench. This is done by simply placing the mana flask and the item to be charged into a crafting table or the 2x2 inventory crafting grid, and taking the resulting charged item. This process will increase the mana stored in the item by 700 or to full capacity, whichever is lower. The mana flask is consumed in this process; the charging recipe does not return the bottle to the player's inventory when used.
