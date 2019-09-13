@@ -13,6 +13,7 @@ This is a list of all the items in wizardry. Click on the links to the pages for
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/scroll.png) [[Scrolls]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/identification_scroll.png) [[Scroll of Identification|Scroll-of-Identification]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/smoke_bomb.png) [[Smoke Bomb|Smoke-Bomb-(Item)]]  
+![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/spark_bomb.png) [[Spark Bomb|Spark Bomb-(Item)]]   
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/spectral_helmet.png) [[Spectral Armour]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/spectral_bow_standby.png) [[Spectral Bow]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/spectral_pickaxe.png) [[Spectral Pickaxe]]  
