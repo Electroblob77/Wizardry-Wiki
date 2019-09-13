@@ -15,7 +15,7 @@ Wizard towers generate on the surface of the overworld, or whichever dimensions 
 
 In most biomes, wizard towers have walls made out of cobblestone, but they can also be made of moss stone, sandstone, stone bricks or terracotta when generating in swampy/dense, desert, mountain or mesa biomes respectively. The roofs are made of a randomly selected colour of stained clay. Inside, the floors are made of wooden planks, which match the wood type in forested biomes. Wizard towers have 1x1 windows made of glass panes and a single oak door at the bottom.
 
-[[[images/screenshots/wizard_tower_mega_taiga.png]]]
+[[images/screenshots/wizard_tower_mega_taiga.png]]
 _A wizard tower in a mega taiga biome, with some moss stone at the base and a branched design_
 
 ## Interior
