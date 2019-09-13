@@ -3,6 +3,7 @@ This is a list of all the items in wizardry. Click on the links to the pages for
 
 ## Pages in this category
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/armour_upgrade.png) [[Arcane Seal of Protection]]  
+![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/amulet_arcane_defence.png) [[Artefacts]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/firebomb.png) [[Firebomb|Firebomb-(Item)]]   
 [[images/icons/flaming_axe_still.png]] [[Flaming Axe|Flaming-Axe-(Item)]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/frost_axe.png) [[Frost Axe|Frost-Axe-(Item)]]  
