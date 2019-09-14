@@ -6,11 +6,13 @@ Wizardry has four inbuilt commands: /cast, /discoverspell, /ally and /allies. Th
 
 ## /cast
 
-**Syntax: /cast \<spell\> [player] [modifiers]**
+**Syntax: /cast \<spell\> [player] [duration] [modifiers]** _or_ **/cast \<spell\> <x> <y> <z> <direction> [duration] [modifiers]
 
-Casts the specified spell. If a player is specified, casts the spell as if it were being cast by that player, otherwise casts the spell as the player who typed the command. If this command is executed by a command block, the player argument is _required_ and accepts @p, @a, etc. as well as specific player names. If the spell is a continuous spell (i.e. one where the use item button must be held when casting with a wand), the spell will continue to be cast until the command is repeated (though the optional arguments need not be specified again).
+Casts the specified spell. If a player is specified, casts the spell as if it were being cast by that player. If a position and direction is specified, casts the spell as if it were being fired from a dispenser at that position, facing that direction. If neither is specified, casts the spell as the player who typed the command.
 
-Spell modifiers can also be specified for the spell using NBT format, for example `{damage:1.5, range:2}`. Valid modifiers are `damage`, `range`, `duration` and `blast`, though add-on mods may add their own. Modifiers can have decimal values like 1.4, or 0.58932. By default, these can be anywhere between 0 and 20 inclusive, though the upper limit can be changed via the config. NBT spell modifiers may be specified without needing to specify a player, so for example, the command /cast magic_missile {damage:1.5} will work, despite no player being specified. Be aware that excessive multipliers (especially blast) can cause considerable lag if used with certain spells.
+If this command is executed by a command block, the player or location argument is _required_ and accepts @p, @a, etc. as well as specific player names. The duration argument is only parsed if the spell is a continuous spell (i.e. one where the use item button must be held when casting with a wand), in which case it is required.
+
+Spell modifiers can also be specified for the spell using NBT format, for example `{damage:1.5, range:2}`. Valid modifiers are `damage`, `range`, `duration` and `blast`, though add-on mods may add their own. Modifiers can have decimal values like 1.4, or 0.58932. By default, these can be anywhere between 0 and 20 inclusive, though the upper limit can be changed via the config. NBT spell modifiers may be specified without needing to specify a player, so for example, the command /cast magic_missile {damage:1.5} will work, despite no player being specified. Be aware that excessive modifiers (especially blast) can cause considerable lag if used with certain spells.
 
 _Requires operator permissions (multiplayer) or cheats enabled (singleplayer/LAN)._
 
