@@ -1,4 +1,4 @@
-| Fear | [[images/icons/fear.png]] |
+| Fear | ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/potion_icon_fear.png) |
 | --- | --- |
 | Particles | Red |
 | Effect type | Negative |
