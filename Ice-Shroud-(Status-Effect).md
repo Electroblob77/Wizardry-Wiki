@@ -1,6 +1,6 @@
 _This page is about the status effect. For the spell, see [[Ice Shroud]]._
 
-| Ice Shroud | [[images/icons/ice_shroud.png]] |
+| Ice Shroud | ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/potion_icon_ice_shroud.png) |
 | --- | --- |
 | Particles | Snowflakes, light blue sparkles |
 | Effect type | Beneficial |
