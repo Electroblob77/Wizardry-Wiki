@@ -1,6 +1,6 @@
 _This page is about the status effect. For the spell, see [[Sixth Sense]]._
 
-| Sixth Sense | [[images/icons/sixth_sense.png]] |
+| Sixth Sense | ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/potion_icon_sixth_sense.png) |
 | --- | --- |
 | Particles | Lime green |
 | Effect type | Beneficial |
