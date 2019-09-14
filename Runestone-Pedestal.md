@@ -15,7 +15,7 @@
 Runestone pedestals are blocks with similar properties to stone, which are available in 7 elemental varieties and have a glowing pattern on their side faces. They serve as decorative blocks and building materials, and hold the tile entity responsible for [[shrine]] mechanics.
 
 ## Obtaining
-Runestone pedestals can be crafted from 5 stone and 4 magic crystals of the corresponding [[element]], or it can be collected from naturally-generated shrines once conquered. It is also available in the wizardry tab of the creative mode inventory and via the /give command.
+Runestone pedestals can be crafted from 5 stone and 4 magic crystals of the corresponding [[element|elements]], or it can be collected from naturally-generated shrines once conquered. It is also available in the wizardry tab of the creative mode inventory and via the /give command.
 
 [[images/recipes/runestone_pedestal.png]]  
 _The crafting recipe for fire runestone pedestals - other elements require their respective elemental crystals_
