@@ -9,7 +9,7 @@
 Special wand upgrades are items that improve particular aspects of [[wands]]. There are currently eight types of special wand upgrades: storage, siphon, condenser, range, duration, cooldown, blast and attunement.
 
 [[images/misc/wand_upgrades.png]]  
-_All eight special wand upgrades in wizardry_
+_All nine special wand upgrades in wizardry_
 
 ## Obtaining
 Special wand upgrades can be found in loot chests in dungeons and [[wizard towers|Wizard-Tower]] or purchased from [[wizards|Wizard]]. They are also available in the wizardry tab of the creative mode inventory or via the /give command.
@@ -46,3 +46,15 @@ Blast upgrades increase the blast radius or area of effect of spells cast by a w
 
 ### Attunement Upgrade
 Attunement upgrades increase the number of spells that can be bound to a wand. Each attunement upgrade grants one additional spell slot, so a maximum 3 attunement upgrades will increase the number of spells a wand can hold from 5 to 8.
+
+### Melee Upgrade
+Melee upgrades allow a wand to deal more melee damage at the cost of some mana. Each melee upgrade adds 2 damage (1 [[images/icon/heart.png]]) to the wand's melee damage, and consumes an extra 4 mana on each melee hit. This results in the following values:
+
+| Melee upgrades | Damage dealt | Mana consumed |
+| --- | --- | --- |
+| 0 | 1 (0.5 x [[images/icon/heart.png]]) | 0 |
+| 1 | 3 (1.5 x [[images/icon/heart.png]]) | 4 |
+| 2 | 5 (2.5 x [[images/icon/heart.png]]) | 8 |
+| 3 | 7 (3.5 x [[images/icon/heart.png]]) | 12 |
+
+In addition, having 1 or more melee upgrades applied decreases the wand's attack speed to that of a regular sword.
