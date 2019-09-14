@@ -26,6 +26,9 @@ You'll notice that the tooltip has changed in two ways: firstly, your wand will 
 ## Casting Spells
 Now you're all set to do some spellcasting! When you have a wand in your hand, you'll see a heads-up display appear in the corner of your screen (you can change its position using the config menu). This shows your currently equipped spell. Switch spells either by using the N and B keys (these can be changed in options -> controls), or by scrolling with the mouse wheel whilst sneaking. Right-click to cast the currently equipped spell.
 
+[[images/screenshots/spell_hud.png]]  
+_The spell HUD displayed when holding a wand_
+
 ## Next Steps
 Congratulations, you've successfully begun your journey towards mastering the arcane! Wizardry, like _Minecraft_, is very open-ended - you can do whatever you want with your newfound magical powers. One thing you might want to do is to craft yourself a set of [[wizard armour|Wizard-Armour]] - besides providing essential protection, it'll also make you really look the part.
 
