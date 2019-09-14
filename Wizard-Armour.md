@@ -2,7 +2,7 @@
 |---|---|
 | Craftable | Some |
 | Stackable | No |
-| Creative Tab | Wizard gear |
+| Creative Tab | Wizard Gear |
 | Item ID | `ebwizardry:wizard_[hat\|robe\|leggings\|boots]_[element]` |
 | First appeared in | Wizardry 1.0 |
 
