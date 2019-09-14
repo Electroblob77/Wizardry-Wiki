@@ -29,6 +29,6 @@ Now you're all set to do some spellcasting! When you have a wand in your hand, y
 ## Next Steps
 Congratulations, you've successfully begun your journey towards mastering the arcane! Wizardry, like _Minecraft_, is very open-ended - you can do whatever you want with your newfound magical powers. One thing you might want to do is to craft yourself a set of [[wizard armour|Wizard-Armour]] - besides providing essential protection, it'll also make you really look the part.
 
-I also suggest going exploring: a world of wizards, magical artefacts, and of course spells, is out there to be discovered! Perhaps you want to conquer the deepest dungeons, wand in hand? Perhaps you want to seek knowledge from fellow wizards? Or maybe you want a magical library of every known spell? Better get collecting, there are no less than 140 of them!
+I also suggest going exploring: a world of wizards, magical artefacts, and of course spells, is out there to be discovered! Perhaps you want to conquer the deepest dungeons, wand in hand? Perhaps you want to seek knowledge from fellow wizards? Or maybe you want a magical library of every known spell? Better get collecting, there are no less than 172 of them!
 
 So what are you waiting for? A world of arcane wonders awaits!
