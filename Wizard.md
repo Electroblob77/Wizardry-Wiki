@@ -2,7 +2,7 @@ _Not to be confused with [[evil wizards|Evil-Wizard]]._
 
 | Wizard | _NPC, friendly, spell caster_ |
 |--------|-------|
-| Health | 20 ([[images/icons/heart.png]] x 10)|
+| Health | 30 ([[images/icons/heart.png]] x 15)|
 | Attack Damage | Varies |
 | Size | Height 1.95, Width 0.6 |
 | Spawns | Only in wizard towers |
