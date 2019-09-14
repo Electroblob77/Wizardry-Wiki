@@ -15,7 +15,7 @@ Runestone is a block with similar properties to stone, which is available in 7 e
 _A variety of runestone blocks of different elements, glowing in the dark_
 
 ## Obtaining
-Runestone can be crafted from 8 stone surrounding a magic crystal of the corresponding [[element]], or it can be collected from naturally-generated shrines and obelisks. It is also available in the wizardry tab of the creative mode inventory and via the /give command.
+Runestone can be crafted from 8 stone surrounding a magic crystal of the corresponding [[element|Elements]], or it can be collected from naturally-generated shrines and obelisks. It is also available in the wizardry tab of the creative mode inventory and via the /give command.
 
 [[images/recipes/runestone.png]]  
 _The crafting recipe for fire runestone - other elements require their respective elemental crystals_
