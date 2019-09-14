@@ -1,4 +1,4 @@
-| Frostbite | ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/frost_icon.png) |
+| Frostbite | ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/potion_icon_frost.png) |
 | --- | --- |
 | Particles | Snowflakes |
 | Effect type | Negative |
