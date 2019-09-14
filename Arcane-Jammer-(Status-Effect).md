@@ -1,6 +1,6 @@
 _This page is about the status effect. For the spell, see [[Arcane Jammer]]._
 
-| Arcane Jammer | [[images/icons/arcane_jammer.png]] |
+| Arcane Jammer | ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/potion_icon_arcane_jammer.png) |
 | --- | --- |
 | Particles | Magenta |
 | Effect type | Negative |
