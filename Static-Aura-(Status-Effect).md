@@ -1,6 +1,6 @@
 _This page is about the status effect. For the spell, see [[Static Aura]]._
 
-| Static Aura | [[images/icons/static_aura.png]] |
+| Static Aura | ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/potion_icon_static_aura.png) |
 | --- | --- |
 | Particles | Sparks |
 | Effect type | Beneficial |
