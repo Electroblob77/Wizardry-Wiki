@@ -2,7 +2,7 @@ _Not to be confused with regular [[wizards|Wizard]]._
 
 | Evil Wizard | _Hostile, spell caster_ |
 |--------|-------|
-| Health | 30 (![](https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/a/a7/Heart.svg?version=bda6b1af2e973a710a075d05b9cba7fc) x 15)|
+| Health | 30 ([[images/icons/heart.png]] x 15)|
 | Attack Damage | Varies |
 | Size | Height 1.95, Width 0.6 |
 | Spawns | Wizard towers, rarely in dark areas |
