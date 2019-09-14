@@ -28,7 +28,9 @@ When worn, wizard armour provides protection between that of chain armour and ir
 
 Elemental wizard armour provides its wearer with a cost reduction for spells of the same element of 20% per armour piece.
 
-Wizard armour may be upgraded using an [[arcane seal of protection|Arcane-Seal-of-Protection]], making it legendary. Legendary wizard armour has an enchanted glow effect and provides protection equal to that of diamond armour (provided, of course, that it has mana).
+Wizard armour may be upgraded using an [[arcane seal of protection|Arcane-Seal-of-Protection]], making it legendary. Legendary wizard armour has an alternate texture and provides protection equal to that of diamond armour (provided, of course, that it has mana).
+
+Wizard armour may also be enchanted at an enchanting table. It has an enchantability of 15, equal to that of leather armour.
 
 ## Trivia
 - Unlike most armour, wizard armour has a 64x64 texture
