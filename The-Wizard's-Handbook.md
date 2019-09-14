@@ -8,7 +8,7 @@
 
 _The Wizard's Handbook_ is the in-game guide book for _Electroblob's Wizardry_. It explains all of the important aspects of the mod's gameplay and is invaluable for players who are new to wizardry.
 
-[[images/screenshots/wizard_handbook_contents.png]]
+[[images/screenshots/wizard_handbook.png]]
 _The contents page of The Wizard's Handbook_
 
 ## Obtaining
