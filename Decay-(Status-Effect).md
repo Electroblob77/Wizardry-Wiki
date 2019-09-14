@@ -1,6 +1,6 @@
 _This page is about the status effect. For the spell, see [[Decay]]._
 
-| Decay | ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/decay_icon.png) |
+| Decay | ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/potion_icon_decay.png) |
 | --- | --- |
 | Particles | Dark purple |
 | Effect type | Negative |
