@@ -9,7 +9,7 @@ _This page is about the status effect. For the spell, see [[Containment]]._
 | First appeared in | Wizardry 4.2 |
 
 ## Description
-Containment is a negative potion effect which traps players and mobs within a cube-shaped zone. A player or mob under the containment effect will be prevented from leaving this zone through any means, whether by walking, flying, teleporting or otherwise. Players will also see an animated magical barrier when close to the edges of the containment field.
+Containment is a negative potion effect which traps players and mobs within a cube-shaped zone. A player or mob under the containment effect will be prevented from leaving this zone through any means, whether by walking, flying, teleporting or otherwise. Players will also see an animated magical barrier when close to the edges of the containment field, similar in appearance to the world border.
 
 The higher the level of containment, the smaller the containment field, with the distance from the centre determined using the formula `15 - 4 x level` (where containment I is level 0). The following table details the exact size of the containment field at each level of effect:
 
