@@ -1,6 +1,6 @@
 _This page is about the status effect. For the spell, see [[Mind Control]]._
 
-| Mind Control | [[images/icons/mind_control.png]] |
+| Mind Control | ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/potion_icon_mind_control.png) |
 | --- | --- |
 | Particles | Dark purple |
 | Effect type | Negative |
