@@ -26,3 +26,6 @@ _The spell HUD displayed when holding a wand_
 Spells are bound to wands using an [[arcane workbench|Arcane-Workbench]], which also allows them to be charged and upgraded. Tomes of arcana upgrade a wand to the next tier, whereas special wand upgrades improve a particular aspect of the wand or the spells it casts.
 
 Wands may also be used to designate allies (see [[Ally Designation System|Ally-Designation-System]]), select minions' targets (see [[Minion Targeting|Minion-Targeting]]), dispel spirit animals, and remember locations for the [[transportation|Transportation]] and [[clairvoyance|Clairvoyance]] spells.
+
+## Progression
+As a wand is used, it gradually becomes better at channelling mana and grows in power. When this has happened a sufficient amount, the wand will be ready to upgrade to the next tier using a [[tome of arcana]]. The progress of a wand towards the next tier is displayed in the arcane workbench by the blue-purple bar just below the mana display. Wands also change in appearance as they grow in power, becoming more vibrant in colour and, at higher tiers, growing and twisting into more complex shapes.
