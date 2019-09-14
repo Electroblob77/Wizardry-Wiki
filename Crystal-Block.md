@@ -1,4 +1,4 @@
-| Crystal Block |![](https://github.com/Electroblob77/Wizardry/wiki/images/icons/crystal_block.png)|
+| Crystal Block | [[images/misc/crystal_blocks.png]] |
 |---|---|
 | Craftable | Yes |
 | Stackable | Yes, 64 |
