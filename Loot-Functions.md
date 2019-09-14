@@ -14,6 +14,7 @@ Loot function that allows spell books and scrolls to select a random spell based
 * **ignore_weighting**: true to ignore the standard weighting and just pick a completely random spell. Defaults to false.
 * **tiers**: A list of tiers to choose from. Defaults to all tiers. Valid tiers are: basic, apprentice, advanced and master (novice is called basic in the code, they're the same thing).
 * **elements**: A list of elements to choose from. Defaults to all elements. Valid elements are: fire, ice, lightning, necromancy, earth, sorcery and healing.
+* **undiscovered_bias**: A number between 0 and 1 which specifies a weighting to apply towards spells that have not been discovered yet. Defaults to 0. A value of 0 results in no weighting (all applicable spells are equally likely), and a value of 1 results in a guaranteed undiscovered spell. This parameter only has an effect when a player has opened a loot container or killed a mob.
 
 If an add-on mod adds new tiers or elements, these will also work. Spells from other mods are automatically included as well.
 

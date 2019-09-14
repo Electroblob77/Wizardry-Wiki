@@ -13,7 +13,7 @@
 The arcane workbench is a block used to charge, upgrade and bind [[spells|Spells]] to [[wands|Wands]], to charge and upgrade [[wizard armour|Wizard-Armour]], and to create [[spell scrolls|Scrolls]]. It is somewhat similar in appearance to an enchantment table. The arcane workbench is central to wizardry's gameplay and is one of the first things that players craft to get started with the mod.
 
 [[images/screenshots/arcane_workbench_with_wand.png]]
-_An arcane workbench with a master ice mage wand._
+_An arcane workbench with a novice wand._
 
 ## Appearance
 The arcane workbench is similar in appearance to an enchantment table, being the same dimensions and having a similar arrangement of gemstones in the corners and a cloth over the middle. Like enchantment tables, the arcane workbench emits a moderate amount of light. Its appearance reflects its crafting recipe, with a base made of lapis lazuli, a purple and gold cloth on top and gemstones resembling [[magic crystals|Magic-Crystal]] in the corners. When a wand, scroll or piece of wizard armour is placed into the arcane workbench, that item appears on the block itself and levitates above its surface. The item always turns such that its bottom edge faces the player. A slowly rotating yellow rune also floats beneath the item.
@@ -38,4 +38,4 @@ When a wand is placed in the central slot, a tooltip is shown to the right of th
 
 ## Trivia
 - The rotation of the item floating above the arcane workbench is done client-side, so in multiplayer, each player looking at the workbench sees the item facing towards them, even if they are standing on opposite sides of the workbench.
-- The arcane workbench was re-textured in wizardry 1.1 to look more like the items from which it is crafted.
+- The arcane workbench has been re-textured twice since its original appearance: in wizardry 1.1 and again in wizardry 4.2
