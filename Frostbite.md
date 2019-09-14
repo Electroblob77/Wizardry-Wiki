@@ -9,6 +9,9 @@
 ## Description
 Frostbite is a negative potion effect which causes both slowed movement and mining fatigue. Frostbite I reduces a player or mob to half of its normal speed and makes breaking blocks 45% slower. Frostbite II roots the player or mob to the spot and makes breaking blocks 90% slower. Frostbite does not deal any damage and cannot directly kill a player or mob. There is also a frost overlay effect on the screen for players under the effects of frostbite.
 
+[[images/screenshots/frostbite_skeleton.png]]
+_A skeleton under the effects of frostbite_
+
 ## Sources
 Most ice [[spells]] inflict frostbite on their targets. In addition, being hit with a [[frost axe]], a [[freezing weapon]] or a creature with the [[ice shroud|Ice-Shroud-(Status Effect)]] effect also gives the frostbite effect.
 
