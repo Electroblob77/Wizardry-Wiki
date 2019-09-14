@@ -9,7 +9,7 @@
 _The Wizard's Handbook_ is the in-game guide book for _Electroblob's Wizardry_. It explains all of the important aspects of the mod's gameplay and is invaluable for players who are new to wizardry.
 
 [[images/screenshots/wizard_handbook.png]]
-_The contents page of The Wizard's Handbook_
+_The introduction page of The Wizard's Handbook_
 
 ## Obtaining
 _The Wizard's Handbook_ can be crafted from a book and a [[magic crystal]]. It is also available in the wizardry tab of the creative mode inventory and via the /give command.
