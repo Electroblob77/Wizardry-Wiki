@@ -11,7 +11,7 @@ Shrines are structures which generate at the surface throughout the overworld, o
 _An earth shrine in an extreme hills biome_
 
 ## Generation
-Shrines generate on the surface of the overworld, or whichever dimensions are specified in the config. Their default spawn frequency makes them quite rare, considerably rarer than [[wizard towers|Wizard-Tower]], though this can be changed in the config. Shrines generate in all biomes. With the exception of the pedestal and chest, shrines are built exclusively of [[runestone]]. There are eight different obelisk designs, each with a different arrangement of pillars - however, the central pedestal with loot chest is always the same.
+Shrines generate on the surface of the overworld, or whichever dimensions are specified in the config. Their default spawn frequency makes them quite rare, considerably rarer than [[wizard towers|Wizard-Tower]], though this can be changed in the config. Shrines generate in all biomes. With the exception of the pedestal and chest, shrines are built exclusively of [[runestone]]. There are eight different shrine layouts, each with a different arrangement of pillars - however, the central pedestal with loot chest is always the same.
 
 Each shrine is aligned to one of the seven arcane [[elements]], which can easily be seen from the colour of the runestone from which it is built. This element also determines the element of the wizards that are spawned. Shrines cannot be aligned to the magic 'element'.
 
