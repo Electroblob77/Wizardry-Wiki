@@ -6,7 +6,8 @@ Wizardry has four inbuilt commands: /cast, /discoverspell, /ally and /allies. Th
 
 ## /cast
 
-**Syntax: /cast \<spell\> [player] [duration] [modifiers]** _or_ **/cast \<spell\> \<x\> \<y\> \<z\> \<direction\> [duration] [modifiers]**
+**Syntax: /cast \<spell\> [player] [duration] [modifiers]**  
+_or_ **/cast \<spell\> \<x\> \<y\> \<z\> \<direction\> [duration] [modifiers]**
 
 Casts the specified spell. If a player is specified, casts the spell as if it were being cast by that player. If a position and direction is specified, casts the spell as if it were being fired from a dispenser at that position, facing that direction. If neither is specified, casts the spell as the player who typed the command.
 
