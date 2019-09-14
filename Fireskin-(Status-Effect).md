@@ -1,6 +1,6 @@
 _This page is about the status effect. For the spell, see [[Fireskin]]._
 
-| Fireskin | [[images/icons/fireskin.png]] |
+| Fireskin | ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/potion_icon_fireskin.png) |
 | --- | --- |
 | Particles | Flames |
 | Effect type | Beneficial |
