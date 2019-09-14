@@ -1,6 +1,6 @@
 _This page is about the status effect. For the spell, see [[Font of Mana]]._
 
-| Font of Mana | [[images/icons/font_of_mana.png]] |
+| Font of Mana | ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/potion_icon_font_of_mana.png) |
 | --- | --- |
 | Particles | Light beige |
 | Effect type | Beneficial |
