@@ -10,7 +10,7 @@
 | Block ID | `ebwizardry:runestone_pedestal` |
 | First appeared in | Wizardry 4.2 |
 
-*_Runestone pedestals which are part of an unconquered shrine cannot be destroyed in survival mode
+*_Runestone pedestals which are part of an unconquered shrine cannot be destroyed in survival mode_
 
 Runestone pedestals are blocks with similar properties to stone, which are available in 7 elemental varieties and have a glowing pattern on their side faces. They serve as decorative blocks and building materials, and hold the tile entity responsible for [[shrine]] mechanics.
 
