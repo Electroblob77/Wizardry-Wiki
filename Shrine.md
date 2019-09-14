@@ -5,7 +5,7 @@
 | Spawned mobs | 3 Evil wizards |
 | First appeared in | Wizardry 4.2 |
 
-Shrines are structures which generate at the surface throughout the overworld, or whichever dimensions are specified by the [[shrine dimensions config option|Configuration#shrine-dimensions]]. Shrines consist of a ring of [[runestone]] pillars of varying heights, surrounding a central [[runestone pedestal]]. A arcane-locked chest containing valuable magical loot sits on top of the pedestal.
+Shrines are structures which generate at the surface throughout the overworld, or whichever dimensions are specified by the [[shrine dimensions config option|Configuration#shrine-dimensions]]. Shrines consist of a ring of [[runestone]] pillars of varying heights, surrounding a central [[runestone pedestal]]. An arcane-locked chest containing valuable magical loot sits on top of the pedestal.
 
 [[images/screenshots/shrine.png]]
 _An earth shrine in an extreme hills biome_
