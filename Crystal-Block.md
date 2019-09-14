@@ -15,7 +15,7 @@ Crystal blocks are the storage block counterpart of [[magic crystals]]. They ser
 _A regular crystal block, along with the 7 elemental variants_
 
 ## Obtaining
-Crystal blocks can be crafted from 9 magic crystals of the corresponding element. They are also available in the wizardry tab of the creative mode inventory and via the /give command.
+Crystal blocks can be crafted from 9 magic crystals of the corresponding [[element]]. They are also available in the wizardry tab of the creative mode inventory and via the /give command.
 
 [[images/recipes/crystal_block.png]]  
 _The crafting recipe for crystal blocks_
