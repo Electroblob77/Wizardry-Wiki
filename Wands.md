@@ -2,7 +2,7 @@
 |---|---|
 | Craftable | Only novice magic wands |
 | Stackable | No |
-| Creative Tab | Wizardry |
+| Creative Tab | Wizard Gear |
 | Item ID | `ebwizardry:[tier]_[element]_wand`, `ebwizardry:magic_wand` |
 | First appeared in | Wizardry 1.0 |
 
