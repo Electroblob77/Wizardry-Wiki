@@ -17,7 +17,7 @@ This page is a list of all the spells currently in Wizardry, along with their de
 1. **Name** The name of the spell in English
 1. **Tier** The tier that the spell belongs to
 1. **Element** The element that the spell belongs to
-1. **Type** The type of spell - attack, defence, utility or minion
+1. **Type** The type of spell - attack, defence, utility, etc.
 1. **Mana** The mana cost of the spell
 1. **Continuous?** Whether the spell requires the use item button to be held in order to cast it
 1. **Wizards?** Whether wizard NPCs can cast this spell
