@@ -6,6 +6,10 @@
 | Item ID | `ebwizardry:[ring/amulet/charm]_[name]` |
 | First appeared in | Wizardry 4.2 |
 
+> When exploring a shrine, you may be lucky enough to uncover some kind of ancient magical artefact - an object capable of granting its wearer unique and powerful buffs and special powers.
+
+~ _The Wizard's Handbook_
+
 Artefacts are special magical items found in shrines, which provide bonuses, effects and abilities to enhance the player's magic. There are three types of artefact: rings, which generally improve attack abilities, amulets, which improve defensive abilities, and charms, which generally improve utility spells. Artefacts were primarily designed for use with the _Baubles_ mod, but can be used without it.
 
 [[images/screenshots/artefacts.png]]
@@ -17,7 +21,11 @@ The only way to obtain artefacts in survival is from loot chests in [[shrines|Sh
 ## Usage
 If the _Baubles_ mod is installed, artefacts may be equipped by placing them in the appropriate bauble slot. Otherwise, an artefact is considered equipped when placed in a hotbar slot. Only the first two rings, and first one amulet or charm, can be active at any one time, with the leftmost hotbar slots taking priority.
 
+Some artefacts require a particular spell to be bound to a wand on the player's hotbar in order to function. The spell will be cast as if the player had cast it directly with the wand, so the wand must have enough mana to cast it. If there is more than one wand with the spell equipped, the leftmost wand will be used.
+
 ## List of Artefacts
+
+There are currently 63 artefacts in wizardry: 30 rings, 18 amulets and 15 charms.
 
 ### Rings
 
