@@ -10,7 +10,7 @@
 
 ~ _The Wizard's Handbook_
 
-Artefacts are special magical items found in shrines, which provide bonuses, effects and abilities to enhance the player's magic. There are three types of artefact: rings, which generally improve attack abilities, amulets, which improve defensive abilities, and charms, which generally improve utility spells. Artefacts were primarily designed for use with the _Baubles_ mod, but can be used without it.
+Artefacts are special magical items found in [[shrines|Shrine]], which provide bonuses, effects and abilities to enhance the player's magic. There are three types of artefact: rings, which generally improve attack abilities, amulets, which improve defensive abilities, and charms, which generally improve utility spells. Artefacts were primarily designed for use with the _Baubles_ mod, but can be used without it.
 
 [[images/screenshots/artefacts.png]]
 _A ring and an amulet, two of the three artefact types in wizardry_
