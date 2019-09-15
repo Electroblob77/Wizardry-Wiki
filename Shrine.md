@@ -5,6 +5,10 @@
 | Spawned mobs | 3 Evil wizards |
 | First appeared in | Wizardry 4.2 |
 
+> Due to their great arcane power and significance, not to mention the riches within, these structures are particularly attractive to any aspiring wizard - but be cautious. There are numerous reports of wizards becoming trapped within containment fields and slowly being driven insane, perhaps by claustrophobia. A growing number, however, believe such occurences to be a deliberate part of the shrine's protective magic, and that the wizards trapped within are in fact being controlled to protect the structure. A chilling prospect, surely, for anyone who dares to venture near...
+
+~ _The Wizard's Handbook_
+
 Shrines are structures which generate at the surface throughout the overworld, or whichever dimensions are specified by the [[shrine dimensions config option|Configuration#shrine-dimensions]]. Shrines consist of a ring of [[runestone]] pillars of varying heights, surrounding a central [[runestone pedestal]]. An arcane-locked chest containing valuable magical loot sits on top of the pedestal.
 
 [[images/screenshots/shrine.png]]
