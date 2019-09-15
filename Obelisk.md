@@ -5,6 +5,10 @@
 | Spawned mobs | Depends on element |
 | First appeared in | Wizardry 4.2 |
 
+> Vestiges of ancient magic are scattered throughout the world, the most notable of which are carved stone structures which bear a great many symbols and runes. These ruins are all that remain of what appears to have been some kind of ancient civilisation. Whoever, or whatever, built them, they clearly had a considerable knowledge of magic, and used it to place protective enchantments over such locations that still persist to this day.
+
+~ _The Wizard's Handbook_
+
 Obelisks are structures which generate at the surface throughout the overworld, or whichever dimensions are specified by the [[obelisk dimensions config option|Configuration#obelisk-dimensions]]. Obelisks are tall and narrow, with an open structure at the bottom containing a monster spawner directly on top of a chest containing minor magical loot.
 
 [[images/screenshots/obelisk.png]]
