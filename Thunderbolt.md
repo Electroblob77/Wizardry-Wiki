@@ -6,6 +6,7 @@
 | Mana Cost | 10 |
 | Continuous | No |
 | Cast by wizards | Yes |
+| Cast by dispensers | Yes |
 | ID | `ebwizardry:thunderbolt` |
 | Metadata | 6 |
 | First appeared in | Wizardry 1.0 |
