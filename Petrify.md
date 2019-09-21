@@ -6,6 +6,7 @@
 | Mana Cost | 40 |
 | Continuous | No |
 | Cast by wizards | No |
+| Cast by dispensers | Yes |
 | ID | `ebwizardry:petrify` |
 | Metadata | 78 |
 | First appeared in | Wizardry 1.0 |
