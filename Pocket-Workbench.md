@@ -1,4 +1,4 @@
-| Pocket Workbench |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:pocket_workbench.png)|
+| Pocket Workbench |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/pocket_workbench.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Sorcery |

@@ -1,4 +1,4 @@
-| Reversal |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:reversal.png)|
+| Reversal |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/reversal.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Necromancy |

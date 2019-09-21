@@ -1,4 +1,4 @@
-| Paralysis |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:paralysis.png)|
+| Paralysis |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/paralysis.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Lightning |

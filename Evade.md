@@ -1,4 +1,4 @@
-| Evade |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:evade.png)|
+| Evade |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/evade.png)|
 |---|---|
 | Tier | Novice |
 | Element | Healing |

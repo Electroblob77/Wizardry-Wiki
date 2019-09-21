@@ -1,4 +1,4 @@
-| Curse of Soulbinding |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:curse_of_soulbinding.png)|
+| Curse of Soulbinding |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/curse_of_soulbinding.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Necromancy |

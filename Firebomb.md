@@ -1,4 +1,4 @@
-| Firebomb |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:firebomb.png)|
+| Firebomb |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/firebomb.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Fire |

@@ -1,4 +1,4 @@
-| Forest's Curse |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:forests_curse.png)|
+| Forest's Curse |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/forests_curse.png)|
 |---|---|
 | Tier | Master |
 | Element | Earth |

@@ -1,4 +1,4 @@
-| Cobwebs |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:cobwebs.png)|
+| Cobwebs |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/cobwebs.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Earth |

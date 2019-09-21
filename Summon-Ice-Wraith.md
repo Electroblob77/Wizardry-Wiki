@@ -1,4 +1,4 @@
-| Summon Ice Wraith |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:summon_ice_wraith.png)|
+| Summon Ice Wraith |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/summon_ice_wraith.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Ice |

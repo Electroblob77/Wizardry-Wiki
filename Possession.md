@@ -1,4 +1,4 @@
-| Possession |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:possession.png)|
+| Possession |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/possession.png)|
 |---|---|
 | Tier | Master |
 | Element | Necromancy |

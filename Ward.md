@@ -1,4 +1,4 @@
-| Ward |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:ward.png)|
+| Ward |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ward.png)|
 |---|---|
 | Tier | Novice |
 | Element | Healing |

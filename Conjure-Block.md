@@ -1,4 +1,4 @@
-| Conjure Block |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:conjure_block.png)|
+| Conjure Block |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/conjure_block.png)|
 |---|---|
 | Tier | Novice |
 | Element | Sorcery |

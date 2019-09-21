@@ -1,4 +1,4 @@
-| Mind Trick |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:mind_trick.png)|
+| Mind Trick |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/mind_trick.png)|
 |---|---|
 | Tier | Novice |
 | Element | Necromancy |

@@ -1,4 +1,4 @@
-| Mind Control |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:mind_control.png)|
+| Mind Control |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/mind_control.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Necromancy |

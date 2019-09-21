@@ -1,4 +1,4 @@
-| Divination |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:divination.png)|
+| Divination |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/divination.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Sorcery |

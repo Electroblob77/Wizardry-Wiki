@@ -1,4 +1,4 @@
-| Decay |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:decay.png)|
+| Decay |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/decay.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Necromancy |

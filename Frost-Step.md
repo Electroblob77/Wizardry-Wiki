@@ -1,4 +1,4 @@
-| Frost Step |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:frost_step.png)|
+| Frost Step |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/frost_step.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Ice |

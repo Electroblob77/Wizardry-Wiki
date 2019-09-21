@@ -1,4 +1,4 @@
-| Ray of Purification |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:ray_of_purification.png)|
+| Ray of Purification |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ray_of_purification.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Healing |

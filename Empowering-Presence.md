@@ -1,4 +1,4 @@
-| Empowering Presence |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:empowering_presence.png)|
+| Empowering Presence |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/empowering_presence.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Healing |

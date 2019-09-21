@@ -1,4 +1,4 @@
-| Clairvoyance |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:clairvoyance.png)|
+| Clairvoyance |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/clairvoyance.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Sorcery |

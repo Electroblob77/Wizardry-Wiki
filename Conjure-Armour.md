@@ -1,4 +1,4 @@
-| Conjure Armour |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:conjure_armour.png)|
+| Conjure Armour |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/conjure_armour.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Healing |

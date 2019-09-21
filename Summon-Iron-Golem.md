@@ -1,4 +1,4 @@
-| Summon Iron Golem |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:summon_iron_golem.png)|
+| Summon Iron Golem |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/summon_iron_golem.png)|
 |---|---|
 | Tier | Master |
 | Element | Sorcery |

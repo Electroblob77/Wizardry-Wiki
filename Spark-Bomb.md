@@ -1,4 +1,4 @@
-| Spark Bomb |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:spark_bomb.png)|
+| Spark Bomb |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/spark_bomb.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Lightning |

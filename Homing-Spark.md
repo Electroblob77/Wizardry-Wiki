@@ -1,4 +1,4 @@
-| Homing Spark |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:homing_spark.png)|
+| Homing Spark |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/homing_spark.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Lightning |

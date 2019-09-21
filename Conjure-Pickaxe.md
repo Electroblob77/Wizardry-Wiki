@@ -1,4 +1,4 @@
-| Conjure Pickaxe |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:conjure_pickaxe.png)|
+| Conjure Pickaxe |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/conjure_pickaxe.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Sorcery |

@@ -1,4 +1,4 @@
-| Conjure Sword |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:conjure_sword.png)|
+| Conjure Sword |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/conjure_sword.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Sorcery |

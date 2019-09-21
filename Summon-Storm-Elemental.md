@@ -1,4 +1,4 @@
-| Summon Storm Elemental |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:summon_storm_elemental.png)|
+| Summon Storm Elemental |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/summon_storm_elemental.png)|
 |---|---|
 | Tier | Master |
 | Element | Lightning |

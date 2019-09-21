@@ -1,4 +1,4 @@
-| Lightning Sigil |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:lightning_sigil.png)|
+| Lightning Sigil |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/lightning_sigil.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Lightning |

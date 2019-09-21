@@ -1,4 +1,4 @@
-| Transience |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:transience.png)|
+| Transience |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/transience.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Healing |

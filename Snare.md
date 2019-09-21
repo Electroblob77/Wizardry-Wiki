@@ -1,4 +1,4 @@
-| Snare |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:snare.png)|
+| Snare |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/snare.png)|
 |---|---|
 | Tier | Novice |
 | Element | Earth |

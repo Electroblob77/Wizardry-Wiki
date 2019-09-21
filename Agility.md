@@ -1,4 +1,4 @@
-| Agility |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:agility.png)|
+| Agility |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/agility.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Sorcery |

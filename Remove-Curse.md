@@ -1,4 +1,4 @@
-| Remove Curse |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:remove_curse.png)|
+| Remove Curse |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/remove_curse.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Healing |

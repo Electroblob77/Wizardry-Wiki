@@ -1,4 +1,4 @@
-| Light |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:light.png)|
+| Light |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/light.png)|
 |---|---|
 | Tier | Novice |
 | Element | Sorcery |

@@ -1,4 +1,4 @@
-| Ice Age |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:ice_age.png)|
+| Ice Age |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ice_age.png)|
 |---|---|
 | Tier | Master |
 | Element | Ice |

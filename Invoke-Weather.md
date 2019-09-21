@@ -1,4 +1,4 @@
-| Invoke Weather |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:invoke_weather.png)|
+| Invoke Weather |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/invoke_weather.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Lightning |

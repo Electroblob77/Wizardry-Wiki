@@ -1,4 +1,4 @@
-| Summon Zombie |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:summon_zombie.png)|
+| Summon Zombie |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/summon_zombie.png)|
 |---|---|
 | Tier | Novice |
 | Element | Necromancy |

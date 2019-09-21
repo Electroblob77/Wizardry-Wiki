@@ -1,4 +1,4 @@
-| Imbue Weapon |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:imbue_weapon.png)|
+| Imbue Weapon |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/imbue_weapon.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Sorcery |

@@ -1,4 +1,4 @@
-| Metamorphosis |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:metamorphosis.png)|
+| Metamorphosis |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/metamorphosis.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Necromancy |

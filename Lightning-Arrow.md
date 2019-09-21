@@ -1,4 +1,4 @@
-| Lightning Arrow |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:lightning_arrow.png)|
+| Lightning Arrow |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/lightning_arrow.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Lightning |

@@ -1,4 +1,4 @@
-| Ice Lance |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:ice_lance.png)|
+| Ice Lance |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ice_lance.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Ice |

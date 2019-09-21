@@ -1,4 +1,4 @@
-| Curse of Enfeeblement |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:curse_of_enfeeblement.png)|
+| Curse of Enfeeblement |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/curse_of_enfeeblement.png)|
 |---|---|
 | Tier | Master |
 | Element | Necromancy |

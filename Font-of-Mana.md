@@ -1,4 +1,4 @@
-| Font of Mana |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:font_of_mana.png)|
+| Font of Mana |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/font_of_mana.png)|
 |---|---|
 | Tier | Master |
 | Element | Healing |

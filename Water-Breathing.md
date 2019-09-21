@@ -1,4 +1,4 @@
-| Water Breathing |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:water_breathing.png)|
+| Water Breathing |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/water_breathing.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Earth |

@@ -1,4 +1,4 @@
-| Summon Lightning Wraith |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:summon_lightning_wraith.png)|
+| Summon Lightning Wraith |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/summon_lightning_wraith.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Lightning |

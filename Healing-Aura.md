@@ -1,4 +1,4 @@
-| Healing Aura |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:healing_aura.png)|
+| Healing Aura |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/healing_aura.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Healing |

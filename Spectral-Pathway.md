@@ -1,4 +1,4 @@
-| Spectral Pathway |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:spectral_pathway.png)|
+| Spectral Pathway |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/spectral_pathway.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Sorcery |

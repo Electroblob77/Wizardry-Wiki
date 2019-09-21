@@ -1,4 +1,4 @@
-| Intimidate |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:intimidate.png)|
+| Intimidate |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/intimidate.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Necromancy |

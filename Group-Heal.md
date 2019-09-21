@@ -1,4 +1,4 @@
-| Group Heal |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:group_heal.png)|
+| Group Heal |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/group_heal.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Healing |

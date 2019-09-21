@@ -1,4 +1,4 @@
-| Ice Spikes |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:ice_spikes.png)|
+| Ice Spikes |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ice_spikes.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Ice |

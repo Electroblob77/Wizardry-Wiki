@@ -1,4 +1,4 @@
-| Pocket Furnace |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:pocket_furnace.png)|
+| Pocket Furnace |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/pocket_furnace.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Fire |

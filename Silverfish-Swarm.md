@@ -1,4 +1,4 @@
-| Silverfish Swarm |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:silverfish_swarm.png)|
+| Silverfish Swarm |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/silverfish_swarm.png)|
 |---|---|
 | Tier | Master |
 | Element | Earth |

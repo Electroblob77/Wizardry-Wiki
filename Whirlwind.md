@@ -1,4 +1,4 @@
-| Whirlwind |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:whirlwind.png)|
+| Whirlwind |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/whirlwind.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Earth |

@@ -1,4 +1,4 @@
-| Replenish Hunger |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:replenish_hunger.png)|
+| Replenish Hunger |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/replenish_hunger.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Healing |

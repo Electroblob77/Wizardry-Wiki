@@ -1,4 +1,4 @@
-| Slime |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:slime.png)|
+| Slime |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/slime.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Earth |

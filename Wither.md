@@ -1,4 +1,4 @@
-| Wither |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:wither.png)|
+| Wither |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/wither.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Necromancy |

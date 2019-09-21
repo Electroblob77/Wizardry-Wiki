@@ -1,4 +1,4 @@
-| Summon Ice Giant |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:summon_ice_giant.png)|
+| Summon Ice Giant |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/summon_ice_giant.png)|
 |---|---|
 | Tier | Master |
 | Element | Ice |

@@ -1,4 +1,4 @@
-| Meteor |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:meteor.png)|
+| Meteor |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/meteor.png)|
 |---|---|
 | Tier | Master |
 | Element | Fire |

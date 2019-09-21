@@ -1,4 +1,4 @@
-| Flaming Axe |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:flaming_axe.png)|
+| Flaming Axe |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/flaming_axe.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Fire |

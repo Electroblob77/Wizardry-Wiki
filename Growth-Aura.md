@@ -1,4 +1,4 @@
-| Growth Aura |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:growth_aura.png)|
+| Growth Aura |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/growth_aura.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Earth |

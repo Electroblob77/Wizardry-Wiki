@@ -1,4 +1,4 @@
-| Flaming Weapon |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:flaming_weapon.png)|
+| Flaming Weapon |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/flaming_weapon.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Fire |

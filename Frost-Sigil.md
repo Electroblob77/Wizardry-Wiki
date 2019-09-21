@@ -1,4 +1,4 @@
-| Frost Sigil |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:frost_sigil.png)|
+| Frost Sigil |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/frost_sigil.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Ice |

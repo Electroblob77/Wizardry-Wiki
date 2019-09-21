@@ -1,4 +1,4 @@
-| Mine |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:mine.png)|
+| Mine |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/mine.png)|
 |---|---|
 | Tier | Novice |
 | Element | Earth |

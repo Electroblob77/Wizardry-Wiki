@@ -1,4 +1,4 @@
-| Banish |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:banish.png)|
+| Banish |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/banish.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Necromancy |

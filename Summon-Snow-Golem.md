@@ -1,4 +1,4 @@
-| Summon Snow Golem |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:summon_snow_golem.png)|
+| Summon Snow Golem |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/summon_snow_golem.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Ice |

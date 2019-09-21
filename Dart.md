@@ -1,4 +1,4 @@
-| Dart |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:dart.png)|
+| Dart |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/dart.png)|
 |---|---|
 | Tier | Novice |
 | Element | Earth |

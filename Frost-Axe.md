@@ -1,4 +1,4 @@
-| Frost Axe |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:frost_axe.png)|
+| Frost Axe |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/frost_axe.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Ice |

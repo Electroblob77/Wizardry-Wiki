@@ -1,4 +1,4 @@
-| Summon Shadow Wraith |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:summon_shadow_wraith.png)|
+| Summon Shadow Wraith |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/summon_shadow_wraith.png)|
 |---|---|
 | Tier | Master |
 | Element | Necromancy |

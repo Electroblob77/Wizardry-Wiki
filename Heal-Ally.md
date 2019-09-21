@@ -1,4 +1,4 @@
-| Heal Ally |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:heal_ally.png)|
+| Heal Ally |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/heal_ally.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Healing |

@@ -1,4 +1,4 @@
-| Forest of Thorns |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:forest_of_thorns.png)|
+| Forest of Thorns |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/forest_of_thorns.png)|
 |---|---|
 | Tier | Master |
 | Element | Earth |

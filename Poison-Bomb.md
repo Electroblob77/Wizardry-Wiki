@@ -1,4 +1,4 @@
-| Poison Bomb |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:poison_bomb.png)|
+| Poison Bomb |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/poison_bomb.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Earth |

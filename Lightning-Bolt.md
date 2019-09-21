@@ -1,4 +1,4 @@
-| Lightning Bolt |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:lightning_bolt.png)|
+| Lightning Bolt |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/lightning_bolt.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Lightning |

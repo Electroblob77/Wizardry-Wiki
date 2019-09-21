@@ -1,4 +1,4 @@
-| Invisibility |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:invisibility.png)|
+| Invisibility |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/invisibility.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Sorcery |

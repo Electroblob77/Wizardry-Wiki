@@ -1,4 +1,4 @@
-| Wall of Frost |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:wall_of_frost.png)|
+| Wall of Frost |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/wall_of_frost.png)|
 |---|---|
 | Tier | Master |
 | Element | Ice |

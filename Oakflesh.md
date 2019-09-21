@@ -1,4 +1,4 @@
-| Oakflesh |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:oakflesh.png)|
+| Oakflesh |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/oakflesh.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Healing |

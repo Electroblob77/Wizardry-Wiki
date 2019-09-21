@@ -1,4 +1,4 @@
-| Ice Shroud |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:ice_shroud.png)|
+| Ice Shroud |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ice_shroud.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Ice |

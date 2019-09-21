@@ -1,4 +1,4 @@
-| Iceball |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:iceball.png)|
+| Iceball |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/iceball.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Ice |

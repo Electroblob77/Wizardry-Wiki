@@ -1,4 +1,4 @@
-| Arrow Rain |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:arrow_rain.png)|
+| Arrow Rain |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/arrow_rain.png)|
 |---|---|
 | Tier | Master |
 | Element | Sorcery |

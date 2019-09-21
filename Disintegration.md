@@ -1,4 +1,4 @@
-| Disintegration |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:disintegration.png)|
+| Disintegration |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/disintegration.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Fire |

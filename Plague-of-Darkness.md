@@ -1,4 +1,4 @@
-| Plague of Darkness |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:plague_of_darkness.png)|
+| Plague of Darkness |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/plague_of_darkness.png)|
 |---|---|
 | Tier | Master |
 | Element | Necromancy |

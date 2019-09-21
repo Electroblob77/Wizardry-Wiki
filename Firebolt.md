@@ -1,4 +1,4 @@
-| Firebolt |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:firebolt.png)|
+| Firebolt |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/firebolt.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Fire |

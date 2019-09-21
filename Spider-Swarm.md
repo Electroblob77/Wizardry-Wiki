@@ -1,4 +1,4 @@
-| Spider Swarm |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:spider_swarm.png)|
+| Spider Swarm |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/spider_swarm.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Earth |

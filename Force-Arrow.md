@@ -1,4 +1,4 @@
-| Force Arrow |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:force_arrow.png)|
+| Force Arrow |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/force_arrow.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Sorcery |

@@ -1,4 +1,4 @@
-| Muffle |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:muffle.png)|
+| Muffle |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/muffle.png)|
 |---|---|
 | Tier | Novice |
 | Element | Sorcery |

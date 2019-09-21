@@ -1,4 +1,4 @@
-| Fireskin |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:fireskin.png)|
+| Fireskin |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/fireskin.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Fire |

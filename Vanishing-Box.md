@@ -1,4 +1,4 @@
-| Vanishing Box |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:vanishing_box.png)|
+| Vanishing Box |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/vanishing_box.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Sorcery |

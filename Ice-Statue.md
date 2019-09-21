@@ -1,4 +1,4 @@
-| Ice Statue |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:ice_statue.png)|
+| Ice Statue |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ice_statue.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Ice |

@@ -1,4 +1,4 @@
-| Invigorating Presence |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:invigorating_presence.png)|
+| Invigorating Presence |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/invigorating_presence.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Healing |

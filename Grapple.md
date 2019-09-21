@@ -1,4 +1,4 @@
-| Grapple |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:grapple.png)|
+| Grapple |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/grapple.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Earth |

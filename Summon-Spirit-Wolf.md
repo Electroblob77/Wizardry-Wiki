@@ -1,4 +1,4 @@
-| Summon Spirit Wolf |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:summon_spirit_wolf.png)|
+| Summon Spirit Wolf |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/summon_spirit_wolf.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Earth |

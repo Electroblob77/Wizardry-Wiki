@@ -1,4 +1,4 @@
-| Lightning Disc |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:lightning_disc.png)|
+| Lightning Disc |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/lightning_disc.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Lightning |

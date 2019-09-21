@@ -1,4 +1,4 @@
-| Lightning Hammer |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:lightning_hammer.png)|
+| Lightning Hammer |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/lightning_hammer.png)|
 |---|---|
 | Tier | Master |
 | Element | Lightning |

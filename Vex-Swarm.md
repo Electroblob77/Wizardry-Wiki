@@ -1,4 +1,4 @@
-| Vex Swarm |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:vex_swarm.png)|
+| Vex Swarm |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/vex_swarm.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Sorcery |

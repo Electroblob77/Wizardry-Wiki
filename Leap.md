@@ -1,4 +1,4 @@
-| Leap |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:leap.png)|
+| Leap |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/leap.png)|
 |---|---|
 | Tier | Novice |
 | Element | Earth |

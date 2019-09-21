@@ -1,4 +1,4 @@
-| Lightning Web |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:lightning_web.png)|
+| Lightning Web |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/lightning_web.png)|
 |---|---|
 | Tier | Master |
 | Element | Lightning |

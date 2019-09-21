@@ -1,4 +1,4 @@
-| Darkness Orb |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:darkness_orb.png)|
+| Darkness Orb |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/darkness_orb.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Necromancy |

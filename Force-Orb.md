@@ -1,4 +1,4 @@
-| Force Orb |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:force_orb.png)|
+| Force Orb |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/force_orb.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Sorcery |

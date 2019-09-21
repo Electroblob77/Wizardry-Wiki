@@ -1,4 +1,4 @@
-| Summon Blaze |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:summon_blaze.png)|
+| Summon Blaze |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/summon_blaze.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Fire |

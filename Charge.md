@@ -1,4 +1,4 @@
-| Charge |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:charge.png)|
+| Charge |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/charge.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Lightning |

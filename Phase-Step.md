@@ -1,4 +1,4 @@
-| Phase Step |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:phase_step.png)|
+| Phase Step |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/phase_step.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Sorcery |

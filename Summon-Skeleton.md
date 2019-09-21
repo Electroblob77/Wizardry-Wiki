@@ -1,4 +1,4 @@
-| Summon Skeleton |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:summon_skeleton.png)|
+| Summon Skeleton |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/summon_skeleton.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Necromancy |

@@ -1,4 +1,4 @@
-| Fire Breath |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:fire_breath.png)|
+| Fire Breath |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/fire_breath.png)|
 |---|---|
 | Tier | Master |
 | Element | Fire |

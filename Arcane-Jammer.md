@@ -1,4 +1,4 @@
-| Arcane Jammer |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:arcane_jammer.png)|
+| Arcane Jammer |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/arcane_jammer.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Healing |

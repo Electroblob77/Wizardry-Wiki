@@ -1,4 +1,4 @@
-| Containment |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:containment.png)|
+| Containment |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/containment.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Sorcery |

@@ -1,4 +1,4 @@
-| Combustion Rune |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:combustion_rune.png)|
+| Combustion Rune |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/combustion_rune.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Fire |

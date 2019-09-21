@@ -1,4 +1,4 @@
-| Cure Effects |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:cure_effects.png)|
+| Cure Effects |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/cure_effects.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Healing |

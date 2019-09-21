@@ -1,4 +1,4 @@
-| Fireball |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:fireball.png)|
+| Fireball |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/fireball.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Fire |

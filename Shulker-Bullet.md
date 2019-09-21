@@ -1,4 +1,4 @@
-| Shulker Bullet |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:shulker_bullet.png)|
+| Shulker Bullet |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/shulker_bullet.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Necromancy |

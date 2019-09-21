@@ -1,4 +1,4 @@
-| Diamondflesh |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:diamondflesh.png)|
+| Diamondflesh |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/diamondflesh.png)|
 |---|---|
 | Tier | Master |
 | Element | Healing |

@@ -1,4 +1,4 @@
-| Greater Fireball |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:greater_fireball.png)|
+| Greater Fireball |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/greater_fireball.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Fire |

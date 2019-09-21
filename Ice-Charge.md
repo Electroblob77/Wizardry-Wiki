@@ -1,4 +1,4 @@
-| Ice Charge |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:ice_charge.png)|
+| Ice Charge |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ice_charge.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Ice |

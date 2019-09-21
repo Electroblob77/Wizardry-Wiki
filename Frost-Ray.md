@@ -1,4 +1,4 @@
-| Frost Ray |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:frost_ray.png)|
+| Frost Ray |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/frost_ray.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Ice |

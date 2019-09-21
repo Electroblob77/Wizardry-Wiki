@@ -1,4 +1,4 @@
-| Greater Ward |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:greater_ward.png)|
+| Greater Ward |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/greater_ward.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Healing |

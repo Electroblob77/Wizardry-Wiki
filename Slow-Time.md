@@ -1,4 +1,4 @@
-| Slow Time |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:slow_time.png)|
+| Slow Time |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/slow_time.png)|
 |---|---|
 | Tier | Master |
 | Element | Sorcery |

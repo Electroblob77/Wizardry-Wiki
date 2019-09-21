@@ -1,4 +1,4 @@
-| Sixth Sense |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:sixth_sense.png)|
+| Sixth Sense |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/sixth_sense.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Earth |

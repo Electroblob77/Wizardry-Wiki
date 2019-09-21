@@ -1,4 +1,4 @@
-| Earthquake |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:earthquake.png)|
+| Earthquake |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/earthquake.png)|
 |---|---|
 | Tier | Master |
 | Element | Earth |

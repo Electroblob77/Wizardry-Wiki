@@ -1,4 +1,4 @@
-| Greater Heal |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:greater_heal.png)|
+| Greater Heal |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/greater_heal.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Healing |

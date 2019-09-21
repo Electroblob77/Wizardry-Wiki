@@ -1,4 +1,4 @@
-| Arcane Lock |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:arcane_lock.png)|
+| Arcane Lock |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/arcane_lock.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Sorcery |

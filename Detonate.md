@@ -1,4 +1,4 @@
-| Detonate |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:detonate.png)|
+| Detonate |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/detonate.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Fire |

@@ -1,4 +1,4 @@
-| Life Drain |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:life_drain.png)|
+| Life Drain |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/life_drain.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Necromancy |

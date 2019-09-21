@@ -1,4 +1,4 @@
-| Summon Phoenix |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:summon_phoenix.png)|
+| Summon Phoenix |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/summon_phoenix.png)|
 |---|---|
 | Tier | Master |
 | Element | Fire |

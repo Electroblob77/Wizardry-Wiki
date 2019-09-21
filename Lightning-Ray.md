@@ -1,4 +1,4 @@
-| Lightning Ray |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ebwizardry:lightning_ray.png)|
+| Lightning Ray |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/lightning_ray.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Lightning |
