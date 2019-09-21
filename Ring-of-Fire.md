@@ -6,6 +6,7 @@
 | Mana Cost | 30 |
 | Continuous | No |
 | Cast by wizards | Yes |
+| Cast by dispensers | Yes |
 | ID | `ebwizardry:ring_of_fire` |
 | Metadata | 49 |
 | First appeared in | Wizardry 1.0 |
