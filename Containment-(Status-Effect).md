@@ -15,10 +15,10 @@ The higher the level of containment, the smaller the containment field, with the
 
 | Effect level | Containment field width |
 | --- | --- |
-| Containment I | 30 |
-| Containment II | 22 |
-| Containment III | 14 |
-| Containment IV | 6 |
+| Containment I | 30 blocks |
+| Containment II | 22 blocks |
+| Containment III | 14 blocks |
+| Containment IV | 6 blocks |
 
 ## Sources
 All players, [[wizards|Wizard]] and [[evil wizards|Evil-Wizard]] within 15 blocks of an activated [[shrine]] will receive containment I every second, with a duration of 10 seconds. This effectively makes the effect permanent until the shrine is conquered or the pedestal destroyed (in creative). In addition, the containment spell inflicts containment III on its target for 20 seconds without modifiers. The effect may also be obtained via commands.
