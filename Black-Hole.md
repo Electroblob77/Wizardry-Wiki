@@ -6,6 +6,7 @@
 | Mana Cost | 150 |
 | Continuous | No |
 | Cast by wizards | No |
+| Cast by dispensers | Yes |
 | ID | `ebwizardry:black_hole` |
 | Metadata | 105 |
 | First appeared in | Wizardry 1.0 |
