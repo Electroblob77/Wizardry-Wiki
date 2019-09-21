@@ -2,10 +2,11 @@
 |---|---|
 | Tier | Novice |
 | Element | Magic |
-| Type | Attack |
+| Type | Projectile |
 | Mana Cost | 5 |
 | Continuous | No |
 | Cast by wizards | Yes |
+| Cast by dispensers | Yes |
 | ID | `ebwizardry:magic_missile` |
 | Metadata | 1 |
 | First appeared in | Wizardry 1.0 |
