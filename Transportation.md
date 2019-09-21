@@ -6,6 +6,7 @@
 | Mana Cost | 100 |
 | Continuous | No |
 | Cast by wizards | No |
+| Cast by dispensers | No |
 | ID | `ebwizardry:transportation` |
 | Metadata | 82 |
 | First appeared in | Wizardry 1.0 |
