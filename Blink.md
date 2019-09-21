@@ -6,6 +6,7 @@
 | Mana Cost | 15 |
 | Continuous | No |
 | Cast by wizards | Yes |
+| Cast by dispensers | No |
 | ID | `ebwizardry:blink` |
 | Metadata | 38 |
 | First appeared in | Wizardry 1.0 |
