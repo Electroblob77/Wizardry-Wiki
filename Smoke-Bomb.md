@@ -2,10 +2,11 @@
 |---|---|
 | Tier | Novice |
 | Element | Magic |
-| Type | Attack |
+| Type | Projectile |
 | Mana Cost | 10 |
 | Continuous | No |
 | Cast by wizards | Yes |
+| Cast by dispensers | Yes |
 | ID | `ebwizardry:smoke_bomb` |
 | Metadata | 111 |
 | First appeared in | Wizardry 1.1 |
