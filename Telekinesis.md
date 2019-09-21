@@ -6,6 +6,7 @@
 | Mana Cost | 5 |
 | Continuous | No |
 | Cast by wizards | Yes |
+| Cast by dispensers | Yes |
 | ID | `ebwizardry:telekinesis` |
 | Metadata | 11 |
 | First appeared in | Wizardry 1.0 |
