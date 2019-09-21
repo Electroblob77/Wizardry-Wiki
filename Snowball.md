@@ -2,10 +2,11 @@
 |---|---|
 | Tier | Novice |
 | Element | Ice |
-| Type | Attack |
+| Type | Projectile |
 | Mana Cost | 1 |
 | Continuous | No |
 | Cast by wizards | No |
+| Cast by dispensers | Yes |
 | ID | `ebwizardry:snowball` |
 | Metadata | 4 |
 | First appeared in | Wizardry 1.0 |
