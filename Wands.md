@@ -1,6 +1,6 @@
 | Wands |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/wand_novice.png)![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/wand_apprentice.png)![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/wand_advanced.png)![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/wand_master.png)|
 |---|---|
-| Craftable | Only novice magic wands |
+| Craftable | Only novice wands |
 | Stackable | No |
 | Creative Tab | Wizard Gear |
 | Item ID | `ebwizardry:[tier]_[element]_wand`, `ebwizardry:magic_wand` |
