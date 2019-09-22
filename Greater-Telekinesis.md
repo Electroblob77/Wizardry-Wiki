@@ -3,7 +3,7 @@
 | Tier | Advanced |
 | Element | Sorcery |
 | Type | Utility |
-| Mana Cost | 10 |
+| Mana Cost | 10/second |
 | Continuous | Yes |
 | Cast by wizards | No |
 | Cast by dispensers | No |
