@@ -23,7 +23,7 @@ This page is a list of all the spells currently in Wizardry, along with their de
 1. **Wizards?** Whether wizard NPCs can cast this spell
 1. **Dispensers?** Whether dispensers can cast this spell
 1. **Metadata** The metadata of the corresponding spell book or scroll. _N.B. This will not be correct for worlds that have been updated from older versions of wizardry. In this case, use F3+H in-game and hover over a spell book or scroll to look up its metadata._
-1. **Version** The major version of Wizardry in which the spell was first introduced
+1. **Since** The major version of Wizardry in which the spell was first introduced
 
 > Pro tip! Use shift + scroll wheel to see more columns.
 
