@@ -178,7 +178,7 @@ This is a master changelog covering all released versions of wizardry. Individua
 \- Removed the generateLoot config option in favour of finer control over loot injection locations, see above  
   
 #### Spells:  
-\+ Added 50 new spells!  
+\+ Added 32 new spells!  
 \+ Spells can now be cast by placing a spell scroll in a dispenser and powering the dispenser - some spells behave slightly differently to when they are cast by players, and a few spells such as transportation cannot be cast by dispensers  
 \+ Continuous spells can now be cast using scrolls, and will last for a set duration of 6 seconds in survival mode. They also work in dispensers!  
 \+ Continuous spells may now have cooldowns, though by default none of them do  
