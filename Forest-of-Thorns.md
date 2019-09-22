@@ -11,7 +11,7 @@
 | Metadata | 169 |
 | First appeared in | Wizardry 4.2 |
 ## Description
-_Amidst the wood lies a hidden glade,
-In the glade a wizard performs,
-Magical arts of an order untold,
+_Amidst the wood lies a hidden glade,  
+In the glade a wizard performs,  
+Magical arts of an order untold,  
 Deep within the forest of thorns._
