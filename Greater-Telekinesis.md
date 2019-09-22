@@ -12,3 +12,6 @@
 | First appeared in | Wizardry 4.2 |
 ## Description
 _Allows the caster to pick up a block or creature and hold it in the air for as long as the use item button is pressed. Sneaking whilst holding a block or creature will throw it a short distance._
+
+## Trivia
+- Greater telekinesis can also be used to pick up and throw lit TNT
