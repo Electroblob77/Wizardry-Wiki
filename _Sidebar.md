@@ -4,7 +4,7 @@
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/transportation_stone.png) [[Blocks|Blocks]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/wand_master.png) [[Items|Items]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/spell_book.png) [[Spells|Spells]]  
-[[images/icons/wizard.png]] [[Mobs|Mobs]]  
+[[images/icons/spirit_wolf.png]] [[Mobs|Mobs]]  
 [[images/icons/wizard_tower.png]] [[Structures|Structures]]  
 <img src="https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/potion_icon_frost.png" alt="" width=16 height=16> [[Status Effects]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/scroll.png) [[Crafting Recipes|Crafting-Recipes]]  
