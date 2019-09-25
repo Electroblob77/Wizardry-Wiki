@@ -8,7 +8,7 @@ This is a list of all the blocks in wizardry. Click on the links to the pages fo
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/crystal_ore.png) [[Crystal Ore|Crystal-Ore]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/runestone_earth_3.png) [[Runestone]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/runestone_pedestal_lightning.png) [[Runestone Pedestal]]  
-![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/snare.png) [[Snare]]  
+![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/snare.png) [[Snare|Snare (Block)]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/spectral_block.png) [[Spectral Block|Spectral-Block]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/transportation_stone.png) [[Stone of Transportation|Stone-of-Transportation]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/thorns_upper_7.png) [[Thorns]]  
