@@ -22,8 +22,8 @@ Each obelisk is aligned to one of the seven arcane [[elements]], which can easil
 | Element | Mob Type |
 | --- | --- |
 | Fire | Blaze Minion |
-| Ice | Ice Wraith |
-| Lightning | Lightning Wraith |
+| Ice | [[Ice Wraith]] |
+| Lightning | [[Lightning Wraith]] |
 | Necromancy | Wither Skeleton Minion |
 | Earth | Spider Minion |
 | Sorcery | Vex Minion |
