@@ -1,6 +1,6 @@
 _Not to be confused with [[evil wizards|Evil-Wizard]]._
 
-| Wizard | _NPC, friendly, spell caster_ |
+| Wizard | [[images/icons/wizard.png]] |
 |--------|-------|
 | Health | 30 ([[images/icons/heart.png]] x 15)|
 | Attack Damage | Varies |
