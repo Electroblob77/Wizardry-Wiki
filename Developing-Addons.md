@@ -1,4 +1,4 @@
-> These tutorials are for versions of wizardry running on Minecraft 1.12.2. The information here should also work with 1.10 and 1.11 versions of wizardry, though there may be minor differences. For 1.7.10 versions of wizardry, see the [legacy spell packs tutorial](https://minecraft.curseforge.com/projects/electroblobs-wizardry/pages/making-spell-packs).
+> These tutorials are for wizardry 4.2.x. For older 1.12 versions (and 1.10/1.11), check the page history. For 1.7.10 versions of wizardry, see the [legacy spell packs tutorial](https://minecraft.curseforge.com/projects/electroblobs-wizardry/pages/making-spell-packs).
 
 These pages explain how to program addon mods for _Electroblob's Wizardry_, particularly **spell packs**. This page covers setting up your workspace ready to work with wizardry's code. See the links to other pages for how to add spells and other content.
 
@@ -21,13 +21,21 @@ These pages explain how to program addon mods for _Electroblob's Wizardry_, part
 
 ## Setting up your workspace
 
-First you'll need to grab the **development** (deobfuscated) version of wizardry for the mod version you wish to make a spell pack for. These can be found under additional downloads on the relevant CurseForge file page, and you need the one that ends with 'deobf'. Make sure you get the right **mod** version as well as the right Minecraft version. I recommend using the latest version of wizardry for the Minecraft version you want, as it will have the most API features and make your life easier. _Note that not all versions of wizardry have development versions, because changes between minor versions do not usually affect the API._
+First you'll need to download the version of wizardry you wish to make a spell pack for, which can be found on curseforge ([here's the full list of downloads](https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry/files)). Make sure you get the right **mod** version as well as the right Minecraft version. I recommend using the latest version of wizardry for the Minecraft version you want, as it will have the most API features and make your life easier.
 
-Put this file... anywhere you like, actually, so long as you know where it is - but the best way is to make a folder called 'libs' inside your project folder (the one with build.gradle in) and put it there. You'll then need to _add it to your build path_ in your IDE - if you don't know how to do this, have a look at your IDE's website and it should explain it. Once this is done, you should have a read-only copy of my code which can be accessed in the same way as the Minecraft and Forge code itself, and if you launch Minecraft in your development environment wizardry should be fully working in-game.
+> Minor updates to wizardry shouldn't break the API, meaning that an addon written for 4.1.0 will work with 4.1.1, 4.1.2, etc. but not 4.2.x. However, the reverse is not necessarily true: if you use a new feature that was added in a minor patch, your addon won't work in older versions.
 
-However, if you open up any of the classes you'll notice they're completely unreadable. To get a readable version, you'll need to attach the source code. The source code can be found in the same place as the deobfuscated version, except this time you need the file that ends with 'sources'. Download this file and put it anywhere you like (I like to put it in the libs folder with the deobfuscated jar, but you don't have to). Now use your IDE to attach the source to the deobfuscated jar - again, if you don't know how, you'll need to look up how to do this for the IDE you're using.
+Next, make a folder called `libs` inside your project folder (the one with build.gradle in) and put the wizardry jar in there. Now if you launch Minecraft in your development environment, wizardry should be fully working in-game.
 
-> Unlike the compiled versions of wizardry, the source and deobf versions are for personal use and mod development only and may not be distributed. Please see the permissions section on wizardry's CurseForge page for more information.
+However, if you look inside the wizardry jar and open up any of the classes you'll notice they're completely unreadable. To get a readable version, you'll need to attach the source code. The source code for all versions can be downloaded as a `.zip` from GitHub as follows:
+
+1. Go to the [releases page](https://github.com/Electroblob77/Wizardry/releases) for wizardry's GitHub repository (you can also access this from the main page by clicking releases in the menu bar just above the file tree)
+2. Find the release you're developing for in the list
+3. Click the little `.zip` icon below the release version number to download a zip file of the entire repository at that release
+
+Once you've downloaded the source code, rename the file extension from `.zip` to `.jar` and move the file somewhere sensible (don't put it in `libs` or Forge will think you have duplicate mods). Now use your IDE to attach the source jar to the compiled jar - again, if you don't know how, you'll need to look up how to do this for the IDE you're using.
+
+> If (unlike me) you know what you're doing with Gradle and Maven, you can use the CurseForge Maven as an alternative to storing wizardry jars locally. See the [curse knowledge base](https://authors.curseforge.com/knowledge-base/projects/529-api) for more details.
 
 ## Specifying wizardry as a dependency
 
@@ -35,18 +43,15 @@ Next you'll need to specify Wizardry as a dependency for your mod, which is done
 
 `dependencies="required-after:ebwizardry"`
 
-> If you're using a Minecraft version prior to 1.12, use `dependencies="required-after:wizardry"` instead.
-
-It is good practice to specify that your mod is an addon for Wizardry in your `mcmod.info` file. To do this, add the following lines:
-```
-"requiredMods": [ "ebwizardry" ],
-"dependencies": [ "ebwizardry" ],
-"useDependencyInformation": "true",
-```
-
 > If you're using a Minecraft version prior to 1.12, replace `ebwizardry` with `wizardry`.
 
-Now, if wizardry is not installed with your spell pack, Forge will display a message to users telling them that wizardry must be installed, and they won't be able to launch Minecraft without it. It also ensures that your mod gets loaded after wizardry, which is important to ensure things work as they should.
+This will do two things:
+1. It ensures Forge will always load your addon after wizardry. This is important for registries (and a few other things) to work correctly.
+2. If a user tries to run the game with your addon installed, but without wizardry, Forge will display a message telling them that wizardry must be installed.
+
+You can also specify a version or range of versions your addon is for, by appending an `@` followed by the [maven version range syntax](https://maven.apache.org/enforcer/enforcer-rules/versionRanges.html). For example, the following syntax only allows an addon to run with 4.2.x versions of wizardry:
+
+`dependencies="required-after:ebwizardry@[4.2.0,4.3)"`
 
 > The page on [structuring your mod](https://mcforge.readthedocs.io/en/latest/gettingstarted/structuring/) in the Forge documentation contains lots of useful information about the `@Mod` annotation and the `mcmod.info` file.
 
