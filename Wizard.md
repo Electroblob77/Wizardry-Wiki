@@ -2,6 +2,7 @@ _Not to be confused with [[evil wizards|Evil-Wizard]]._
 
 | Wizard | [[images/icons/wizard.png]] |
 |--------|-------|
+| Type | NPC |
 | Health | 30 ([[images/icons/heart.png]] x 15)|
 | Attack Damage | Varies |
 | Size | Height 1.95, Width 0.6 |
