@@ -1,7 +1,8 @@
 _Not to be confused with friendly [[wizards|Wizard]]._
 
-| Evil Wizard | _Hostile, spell caster_ |
+| Evil Wizard | [[images/icons/evil_wizard.png]] |
 |--------|-------|
+| Type | Hostile |
 | Health | 30 ([[images/icons/heart.png]] x 15)|
 | Attack Damage | Varies |
 | Size | Height 1.95, Width 0.6 |
