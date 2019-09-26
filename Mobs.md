@@ -6,6 +6,7 @@ This is a list of all the mobs in wizardry. Click on the links to the pages for 
 [[images/icons/ice_giant.png]] [[Ice Giant]]  
 [[images/icons/ice_wraith.png]] [[Ice Wraith]]  
 [[images/icons/lightning_wraith.png]] [[Lightning Wraith]]  
+[[images/icons/phoenix.png]] [[Phoenix]]  
 [[images/icons/spirit_horse.png]] [[Spirit Horse]]  
 [[images/icons/spirit_wolf.png]] [[Spirit Wolf]]  
 [[images/icons/storm_elemental.png]] [[Storm Elemental]]  
