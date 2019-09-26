@@ -21,7 +21,7 @@ My main aims for the mod are as follows:
 - Make the spells useful, playable and balanced. Not so useless that players instantly switch to a sword, but not so overpowered that they never use a sword again.
 - Intuitive mechanics and a short set-up phase - a player should have access to novice spells at about the same stage as they get iron equipment.
 
-The real moment of inspiration came when I realised the spell system I had created would be perfect for expanding upon, allowing any number of new spells to be added later on should users grow tired of the ones in the base mod. That is... yet to happen, but perhaps that's because I'm still busy improving and adding to the main mod. I guess we'll see what happens in the future... who knows?
+The real moment of inspiration came when I realised the spell system I had created would be perfect for expanding upon, allowing any number of new spells to be added later on should users grow tired of the ones in the base mod. Several fans have taken it upon themselves to write spell packs and other addons using this system - you can find links to these on wizardry's CurseForge page.
 
 ## Credits
 
@@ -42,11 +42,19 @@ In addition, I'd like to thank the following individuals for their contributions
 - Corail31
 - 12foo
 - Shadows-of-Fire
+- HellFirePvP
+- Tora-B
+- Avatair
+- Aeronica
 
 #### Translations
 
-- Russian: VilagVil
-- Spanish and Mexican Spanish: MadWrist
-- Chinese: ZHENGLOC
+- Spanish and Mexican Spanish: MadWrist 
+- Russian: VilagVil, kellixon 
+- French: Hahdrim 
+- Brazilian Portuguese: lorrampi 
+- Chinese: ZHENGLOC, dragon-evol 
+- Korean: shejery, rewi_wire 
+- Polish: Trozuu
 
 Lightning ray sound effect from OhhWowProductions
