@@ -1,4 +1,4 @@
-> These tutorials are for wizardry 4.2.x. For older 1.12 versions (and 1.10/1.11), check the page history. For 1.7.10 versions of wizardry, see the [legacy spell packs tutorial](https://minecraft.curseforge.com/projects/electroblobs-wizardry/pages/making-spell-packs).
+> These tutorials are for wizardry 4.2.x. For older 1.12 versions (and 1.10/1.11), check the page history. For 1.7.10 versions of wizardry, see the [legacy spell packs tutorial](https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry/pages/making-spell-packs).
 
 These pages explain how to program addon mods for _Electroblob's Wizardry_, particularly **spell packs**. This page covers setting up your workspace ready to work with wizardry's code. See the links to other pages for how to add spells and other content.
 
