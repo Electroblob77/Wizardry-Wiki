@@ -1,6 +1,6 @@
-## Welcome to the _Electroblob's Wizardry_ wiki!
-
 > This wiki is currently under construction. Some links may not yet be functional, and content may be missing, incomplete or outdated. Feel free to browse though, and please check back for updates!
+
+## Welcome to the _Electroblob's Wizardry_ wiki!
 
 This wiki explains everything there is to know about wizardry, including gameplay mechanics, blocks and items, every single spell, configuring the mod, and information for developers. Click on the images below or on the menu to the right to navigate!
 
