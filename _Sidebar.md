@@ -14,6 +14,7 @@
 [[images/icons/target_pointer.png]] [[Minion Targeting|Minion-Targeting]]  
 [[images/icons/configuration.png]] [[Configuration|Configuration]]  
 [[images/icons/loot_functions.png]] [[Loot Functions|Loot-Functions]]  
+[[images/icons/spell_properties.png]] [[Spell Properties]]
 ### Development
 [[images/icons/parchment.png]] [[Changelog|Changelog]]  
 [[images/icons/addon_development.png]] [[Developing Addons|Developing-Addons]]  
