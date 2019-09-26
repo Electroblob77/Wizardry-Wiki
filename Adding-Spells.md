@@ -60,6 +60,23 @@ Other than that, the method works in exactly the same way. I suggest copying the
 
 You'll also need to override `Spell.canBeCastByNPCs()` to return true to allow wizards to spawn with your spell equipped.
 
+## Standard spell superclasses
+
+Since many spells are similar to each other, there is a set of abstract superclasses for common types of spell. These can greatly reduce the code required to make a spell work, and make sure all spells of similar types behave in a standard way.
+
+Wizardry has the following standard spell classes built-in:
+
+- `SpellArrow`: for spells that shoot projectiles extending `EntityMagicArrow` (see [[Adding Entities]])
+- `SpellBuff`: for spells that apply one or more potion effects to their caster
+- `SpellConjuration`: for spells that conjure items (normally these items implement `IConjuredItem`)
+- `SpellConstruct`: for spells that summon an `EntityMagicConstruct` (see [[Adding Entities]]) at the caster's position
+- `SpellConstructRanged`: for spells that summon an `EntityMagicConstruct` (see [[Adding Entities]]) at the position aimed at
+- `SpellProjectile`: for spells that shoot projectiles extending `EntityMagicProjectile` (see [[Adding Entities]])
+- `SpellMinion`: for spells that summon entities implementing `ISummonedCreature` (see [[Adding Entities]])
+- `SpellRay`: for spells that use raytracing. This includes instant 'bolt' spells like [[poison]] and continuous 'stream' spells like [[flame ray]]
+
+Some of these classes are _parametrised_, meaning a type parameter should be supplied when extending them. This is usually the type of entity the spell summons/shoots.
+
 ## Further information
 
 That covers the basics of adding your own spells to wizardry, but it's likely that at some point you'll want to do something that requires more than just a spell class. Fortunately, wizardry already has some classes that can help you:
