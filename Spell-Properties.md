@@ -58,6 +58,8 @@ As an example, here is the spell properties file for [[magic missile]]:
 
 Here, the `"damage"` tag specifies the damage dealt when a magic missile hits a player or mob, and the `"range"` tag determines how far it will fly before vanishing.
 
+> The spell-specific properties listed in a spell's JSON file are the only ones available for that spell. Removing any of them will crash the game with a `JSONSyntaxException`, and adding others will do nothing. For example, adding a `"blast_radius"` tag to a spell that doesn't already have it will not make it cause explosions, as this would have to be implemented in-code first.
+
 ## Modifying spell properties
 
 Spell properties files can be modified to tweak how spells behave - this can be useful for balancing modpacks, making minigames, or just adjusting the gameplay to your liking.
