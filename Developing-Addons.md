@@ -8,6 +8,7 @@ These pages explain how to program addon mods for _Electroblob's Wizardry_, part
 [[Adding Wand Upgrades]]  
 [[Adding Entities]]  
 [[Miscellaneous Features]]  
+[[Generator Snippets]]  
 [[Compiling and Publishing]]
 
 ---
