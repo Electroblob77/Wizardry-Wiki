@@ -62,8 +62,14 @@ Here, the `"damage"` tag specifies the damage dealt when a magic missile hits a 
 
 ## Modifying spell properties
 
+_Since: Wizardry 4.2.4_
+
 Spell properties files can be modified to tweak how spells behave - this can be useful for balancing modpacks, making minigames, or just adjusting the gameplay to your liking.
 
-For now, the only way to do this is to modify the mod jar directly. To do this, use an archive program such as 7zip to extract the JSON files for the spells you want to edit from the mod jar (or alternatively rename the mod jar to a `.zip` and unzip using your file explorer). The JSON files can then be modified to change various properties of the spell. When you're done editing, overwrite the original files in the mod jar (or zip the mod jar again and rename to a `.jar`) and run _Minecraft_, and you should see the altered properties in-game!
+Spell properties are loaded from 3 locations, which can be thought of like 'layers', similar to the resource pack stacking system. In order of priority, these are:
 
-> In future, you'll be able to edit these files without modifying the mod jar.
+1. `saves/[world save]/data/spells` - Contains world-specific spell properties, which override the other two locations. Within this folder, spells are organised into subfolders by mod id, so all the spells in the base mod will be in a folder `ebwizardry`. These files are loaded on world load, so in singleplayer or LAN they can be reloaded by quitting to the main menu and reopening the world.
+2. `config/ebwizardry/spells` - Contains global custom spell properties, which override the built-in ones. Within this folder, spells are organised into subfolders by mod id, so all the spells in the base mod will be in a folder `ebwizardry`. These files are loaded on startup, so the game must be restarted for changes to take effect.
+3. `mods/[wizardry/addon jar]/assets/[mod id]/spells` - Contains the built-in default spell properties. If you're developing an addon, this is where your spell properties files live. These files are loaded on startup, so the game must be restarted for changes to take effect.
+
+By default, neither the world-specific (1) or config (2) spell JSON folders exist - they must be created manually. Custom spell properties files can then be put into the folder to modify them. These files must be complete as described above, or the game will crash with a `JSONSyntaxException` (it is not currently possible to specify only some of the properties and have the built-in properties file determine the rest). The default spell properties files can be extracted from the wizardry or addon jar, or you can view and download the ones from the base mod [here](https://github.com/Electroblob77/Wizardry/tree/1.12.2/src/main/resources/assets/ebwizardry/spells).
