@@ -1,24 +1,24 @@
-| Arcane Workbench |![](https://github.com/Electroblob77/Wizardry/wiki/images/icons/arcane_workbench.png)|
+| 奥术工作台 |![](https://github.com/Electroblob77/Wizardry/wiki/images/icons/arcane_workbench.png)|
 |---|---|
-| Craftable | Yes |
-| Stackable | Yes, 64 |
-| Creative Tab | Wizardry |
-| Harvest Tool | Pickaxe, stone or better |
-| Drops | Itself |
-| Light Level | 12 |
-| Tile Entity | Yes |
-| Block ID | `ebwizardry:arcane_workbench` |
-| First appeared in | Wizardry 1.0 |
+| 能否被制作 | 能 |
+| 叠加性 | 能, 64 |
+| 创造模式分类栏 | Wizardry |
+| 采集工具 | 镐子，石镐以上 |
+| 掉落 | 自身 |
+| 亮度 | 12 |
+| 是否为实体 | 是 |
+| 方块 ID | `ebwizardry:arcane_workbench` |
+| 首次出现版本 | Wizardry 1.0 |
 
-The arcane workbench is a block used to charge, upgrade and bind [[spells|Spells]] to [[wands|Wands]], to charge and upgrade [[wizard armour|Wizard-Armour]], and to create [[spell scrolls|Scrolls]]. It is somewhat similar in appearance to an enchantment table. The arcane workbench is central to wizardry's gameplay and is one of the first things that players craft to get started with the mod.
+奥术工作台是一个用来充能、升级、装备[[法术|Spells]]到 [[法杖|Wands]]上的方块。也可以充能、升级 [[巫师套装|Wizard-Armour]], 制作[[法术卷轴|Scrolls]]. 它的外观和附魔台差不多。奥术工作台是巫术mod的核心，也是大部分玩家游玩的开始。
 
 [[images/screenshots/arcane_workbench_with_wand.png]]
-_An arcane workbench with a novice wand._
+_一个摆有法杖的奥术工作台._
 
-## Appearance
-The arcane workbench is similar in appearance to an enchantment table, being the same dimensions and having a similar arrangement of gemstones in the corners and a cloth over the middle. Like enchantment tables, the arcane workbench emits a moderate amount of light. Its appearance reflects its crafting recipe, with a base made of lapis lazuli, a purple and gold cloth on top and gemstones resembling [[magic crystals|Magic-Crystal]] in the corners. When a wand, scroll or piece of wizard armour is placed into the arcane workbench, that item appears on the block itself and levitates above its surface. The item always turns such that its bottom edge faces the player. A slowly rotating yellow rune also floats beneath the item.
+## 外观
+奥术工作台的外观和附魔台差不多，它们尺寸相同，在奥术工作台的四周镶嵌着宝石，中间铺着一块布。像附魔台一样，奥术工作台也会发光。它的外观还原了合成配方，底座是青金石块，有着紫色和黄色地毯在其上方，镶嵌着 [[魔法水晶|Magic-Crystal]] 在四个角落。当一个法杖、卷轴或者装备放置到奥术工作台时，它就会漂浮在奥术工作台上方。物品对准的方向会一直跟随玩家。会有黄色符文在其下方缓慢转动。 
 
-## Obtaining
+## 获取
 An arcane workbench can be obtained by crafting it from a block of lapis lazuli, 3 stone, 2 magic crystals, 2 gold nuggets and a piece of purple carpet. Arcane workbenches also generate in [[wizard towers|Wizard-Tower]], providing an alternative method of obtaining them. This, however, is not advised, since the [[wizard|Wizard]] in the tower will not take kindly to the player stealing their arcane workbench.
 
 [[images/recipes/arcane_workbench.png]]  
