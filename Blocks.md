@@ -1,7 +1,7 @@
 [[images/banners/blocks_header.png]]
 下面是巫术学所有添加的方块，点击它们来获取详细信息。
 
-## Pages in this category
+## 页面
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[奥术工作台|Arcane-Workbench]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/crystal_block.png) [[魔力水晶块|Crystal-Block]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/crystal_flower.png) [[水晶花|Crystal-Flower]]  
