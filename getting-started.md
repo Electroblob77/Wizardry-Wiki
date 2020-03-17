@@ -12,30 +12,29 @@
 万事俱备，你就可以用一本书和一颗魔法水晶来合成一本
  _[[巫术手册|The-Wizard's-Handbook]]_了。这个方便的指南会告诉你一个成功的巫师该做的一切，包括你有可能用到的所有配方。打开手册，了解  [[法杖|Wands]]、 [[奥术工作台|Arcane-Workbench]] 、 [[魔法飞弹|Magic-Missile]] [[魔法书|Spell-Book]]的合成配方。
 
-## The Arcane Workbench
-Take your new arcane workbench and place it down somewhere (it doesn't matter where you put it for now, you can always pick it back up again with a stone pickaxe or better). Now right-click on it and you should see a GUI appear which looks something like this:
+## 奥术工作台
+从工作台上拿下你刚制作好的奥术工作台吧，找个合适的地方安顿它（在哪都是没有关系的啦，你可以用石镐/更高级的镐子来挖它）。现在对着奥术工作台右键，这样你就能打开奥术工作台的GUI啦。
 
 [[images/screenshots/arcane_workbench_empty.png]]  
-_The arcane workbench GUI_
+_奥术工作台的GUI_
 
-The central slot is where you can place wands, wizard armour and scrolls. Place your new magic wand in there - you should see five more slots appear in a circle around the central slot. These slots are for spell books, and each one corresponds to one of the spell slots on your wand. Unless you were lucky enough to find a spell book on your travels, you'll only have one - the magic missile spell book you crafted earlier - so place it in one of the five spell book slots.
+首先映入你眼眶，处于中间部分的格子是放置法杖、魔法装备与卷轴，把你崭新的魔杖放到上面——“歘”的一下，就会有五个围绕着中间格的小格子出现。这些格子是用来放魔法书的，每一个格子都对应着一个法术槽。除非你是一个幸运的孩子，在旅途中获得了魔法书，否则你只有一个魔法书——你刚才制造的魔法飞弹。将它放到五个格子中的任意一格。
 
-The other thing you probably noticed when you placed your wand in the arcane workbench was the tooltip that appears to the right. If you take a look at that, you'll see that your wand currently holds no mana. **Mana** is the magical energy used to cast spells, and without it your wand isn't much use, so let's fix that! Take some magic crystals and place them in the slot in the bottom-left corner. Now click the big shiny confirm button (bottom-right), and the crystals should vanish! Don't worry though, they've been turned into mana, which is now stored within your wand.
-
+当你把法杖放到奥术工作台上后，另一个吸引你的地方可能是右侧的道具信息。如果你看了一眼，你可能会发现，你的法杖里一丝魔力都没有。 **Mana** 是施展法术所消耗的能量，没有它，你就什么事也做不成，接下来让我们解决这个问题吧！ 取一些魔法水晶放入左下角的格子里。然后点击确认按钮（右下角） ， 然后魔法水晶就被消耗，魔力充能进去啦！ 
 [[images/screenshots/arcane_workbench_full.png]]  
-_The arcane workbench GUI with wand_
+_有魔杖在奥术工作台时的GUI_
 
-You'll notice that the tooltip has changed in two ways: firstly, your wand will now have some mana - 100 times the number of crystals that were used up, to be exact - and secondly, there should now be a list of five spells that are bound to your wand. One of these will be magic missile, but the rest will probably say '[Empty slot]'. You can fill those up later once you get some more spells, but for now you're done with the arcane workbench, so take your wand and let's cast some spells!
+你可能会注意到道具信息有两个地方发生了变化：首先，你的法杖里有魔法了——数值是你消耗的魔法水晶的100倍； 第二，你的法杖里有了五个魔法栏。 其中一个就是魔法飞弹， 不过剩余的魔法栏会显示'[Empty slot]'。 在拥有了更多魔法后你可以让其拥有魔法，不过那是以后的事了，现在你在奥术工作台上的工作都结束了，拿起你的法杖，试试你的法术吧！
 
-## Casting Spells
-Now you're all set to do some spellcasting! When you have a wand in your hand, you'll see a heads-up display appear in the corner of your screen (you can change its position using the config menu). This shows your currently equipped spell. Switch spells either by using the N and B keys (these can be changed in options -> controls), or by scrolling with the mouse wheel whilst sneaking. Right-click to cast the currently equipped spell.
+## 施展法术
+现在你已经做好施展法术的准备了!当你手持一根法杖时，你将会看到一个法术切换栏在屏幕左下角（你可以在配置文件里更改它的位置）。它将显示你目前装备的法术。按住N或者B来切换法术（可以在按键设置里更改），或者潜行时滚动鼠标滑轮。右键法杖就可以施法了。
 
 [[images/screenshots/spell_hud.png]]  
-_The spell HUD displayed when holding a wand_
+_拿着法杖时现实的法术切换栏_
 
-## Next Steps
-Congratulations, you've successfully begun your journey towards mastering the arcane! Wizardry, like _Minecraft_, is very open-ended - you can do whatever you want with your newfound magical powers. One thing you might want to do is to craft yourself a set of [[wizard armour|Wizard-Armour]] - besides providing essential protection, it'll also make you really look the part.
+## 下一步
+可喜可贺, 你已经在成为大巫师的道路上做出了不小的成就！巫术学, 和 _Minecraft_一样,是一个十分开放的——你可以用你的法术做任何你想做的事。 你可能最想给自己做一套[[巫师套装|Wizard-Armour]] ——除了给你一些防御力，穿上它的确让你看起来更像一个巫师了。 
 
-I also suggest going exploring: a world of wizards, magical artefacts, and of course spells, is out there to be discovered! Perhaps you want to conquer the deepest dungeons, wand in hand? Perhaps you want to seek knowledge from fellow wizards? Or maybe you want a magical library of every known spell? Better get collecting, there are no less than 172 of them!
+我也强烈推荐你去探索：一个有着巫术、魔法道具、五花八门的法术的世界！ 或许你想用你的法杖去征服地牢？或许你想成为学富五车的大巫师？ 亦或者你想收集所有的魔法并建立一个大图书馆？去吧，去收集它们，林林总总有172种哩！
 
-So what are you waiting for? A world of arcane wonders awaits!
+那你还在等什么？去探索世界吧！秋梨膏！
