@@ -19,23 +19,23 @@ _一个摆有法杖的奥术工作台._
 奥术工作台的外观和附魔台差不多，它们尺寸相同，在奥术工作台的四周镶嵌着宝石，中间铺着一块布。像附魔台一样，奥术工作台也会发光。它的外观还原了合成配方，底座是青金石块，有着紫色和黄色地毯在其上方，镶嵌着 [[魔法水晶|Magic-Crystal]] 在四个角落。当一个法杖、卷轴或者装备放置到奥术工作台时，它就会漂浮在奥术工作台上方。物品对准的方向会一直跟随玩家。会有黄色符文在其下方缓慢转动。 
 
 ## 获取
-An arcane workbench can be obtained by crafting it from a block of lapis lazuli, 3 stone, 2 magic crystals, 2 gold nuggets and a piece of purple carpet. Arcane workbenches also generate in [[wizard towers|Wizard-Tower]], providing an alternative method of obtaining them. This, however, is not advised, since the [[wizard|Wizard]] in the tower will not take kindly to the player stealing their arcane workbench.
+一个奥术工作台是由一块青金石块，三块石头，两个魔法水晶，两个金锭已经一块紫色地毯合成的。 它也会在 [[巫师塔|Wizard-Tower]]生成。但是不建议从巫师塔中盗窃奥术工作台，因为巫师会因此生气，拒绝和你交易并且攻击你。
 
 [[images/recipes/arcane_workbench.png]]  
-_The crafting recipe for the arcane workbench_
+_奥术工作台配方_
 
-## Usage
-Right-clicking on an arcane workbench opens a GUI which allows the player to access its various functions. In the centre of the GUI is a slot which accepts a wand, blank scroll or piece of wizard armour; this is the item that will be charged, upgraded or have spells bound to it. Upon placing an wand or blank scroll in the central slot, a number of other slots appear in a circle around it: 1 for a blank scroll and 5-8 for a wand (depending on the number of [[attunement upgrades|Special-Wand-Upgrades#attunement-upgrade]] applied to it).
+## 用途
+右键奥术工作台可以打开一个GUI。 GUI的正中央有一个格子，可以放入法杖、卷轴以及巫师装备；奥术工作台可以为其充能、升级以及装备法术。当你把法杖/卷轴放入格子内，格子的周围又会出现一圈格子： 卷轴有一个格子，法杖有5-8个格子。 (根据 [[增加法术槽位|Special-Wand-Upgrades#attunement-upgrade]] ).
 
 [[images/screenshots/arcane_workbench.png]]
-_An arcane workbench containing a master wand with various upgrades applied to it, including the maximum 3 attunement upgrades, giving it a total of 8 spell slots._
+_一个解锁了8个格子的法杖._
 
-Spell books may be placed in these slots to bind them to the wand or scroll. In addition, the two slots on the left-hand side of the GUI allow magic crystals (upper slot) and upgrades (lower slot) to be placed in the arcane workbench in order to charge or upgrade the item respectively. Pressing the 'Apply' button completes the charging, upgrading and/or binding of spells to the item. Any combination of these three operations may be carried out simultaneously.
+你可以将魔法书放入这些格子内来给卷轴/法杖装备法术。除此之外，你还可以在GUI的左下角给物品充能，GUI的右上角给物品升级 。按下“应用”按键就可以给物品充能/升级/装备法术啦。这些动作可以在一次操作内统统完成。
 
-Spell books are not consumed during spell binding, but magic crystals and upgrades are consumed during charging and upgrading. If the item is removed from the central slot while spell books remain in the slots around it, these slots will disappear as normal and the spell books will be returned to the player's inventory.
+法术书可以多次使用（即装备一次魔法后不会消失），不过魔法水晶和升级是一次性道具。如果你不先拿下法术书而是直接拿下中间格子的物品，那么周围的格子就会消失，法术书也会自动回到你背包里的。
 
-When a wand is placed in the central slot, a tooltip is shown to the right of the main GUI which displays the name of the wand, the mana currently stored within it, the spells that are currently bound to it and any upgrades that have been applied to it. Hovering over one of these upgrade icons displays the name of the upgrade.
+当一个法杖被放置在中间格子时，GUI右侧就会显示道具信息，里面的内容有：剩余魔法值、法杖名字、装备魔法以及已用升级。将鼠标悬停在一个升级图标上，将会显示升级的名称。
 
-## Trivia
-- The rotation of the item floating above the arcane workbench is done client-side, so in multiplayer, each player looking at the workbench sees the item facing towards them, even if they are standing on opposite sides of the workbench.
-- The arcane workbench has been re-textured twice since its original appearance: in wizardry 1.1 and again in wizardry 4.2
+## 冷知识
+- 旋转在奥术工作台上方的物品是在个人客户端内进行的，因此即使是在多人游戏里，物品也是始终朝向玩家的。
+- 奥术工作台自第一次出现到现在已经更新过两次，一次是1.1版本，还有一次是4.2版本。
