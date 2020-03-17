@@ -1,12 +1,16 @@
-This page is a quick guide/walkthrough to help beginners get to grips with the basics of the mod. If this is your first time playing with wizardry, this is the place to start!
+本词条是一个速成指南，可以帮助刚刚接触巫术学mod的玩家了解这个mod。如果你第一次接触巫术学，那这就是你成为大巫师的起点！
 
-## First Steps
-The very first thing you'll want to do is collect [[magic crystals|Magic-Crystal]]. These small items are a central part of wizardry - they'll supply your wands with mana and you'll need them in various crafting recipes. To start with, you'll need at least 15 or so. You'll find most crystals underground in the form of [[crystal ore|Crystal-Ore]], but there is another, quicker way to get them in early-game - I'll leave that for you to work out! (Or you could just look it up on this wiki, but that's boring...)
 
-You should also gather a few other resources: some smooth stone, a handful of lapis lazuli pieces, some wool, a few gold nuggets and a couple of books.
+## 起始
+当你进入游戏的第一件事就是收集魔法水晶，这些精巧的小物件是巫术学mod的核心一一它们为你的法杖提供魔力，各个配方中也会出现它的身影。一开始，你最起码要准备好15个魔法水晶，你可以在地底挖掘水晶矿来获得它们，不过在早期有一个更加快捷的方法——你以为我会在这告诉你？自己乖乖地去游戏里找吧！（你也可以去WIKI查阅，尽管这很考验你的耐心）
+译者注：其实很简单，一进游戏你就知道啦：P
 
-## Setting Up
-Once you've got all that, take a book and a magic crystal and craft yourself a copy of _[[The Wizard's Handbook|The-Wizard's-Handbook]]_. This handy guide will tell you everything you need to know about becoming a wizard, including all of the crafting recipes in wizardry. Turn to that section and use the recipes there to craft yourself a [[magic wand|Wands]], an [[arcane workbench|Arcane-Workbench]] and a [[magic missile|Magic-Missile]] [[spell book|Spell-Book]].
+
+除此之外，你还需要收集一些石头、一把青金石、一些羊毛、少量金子与一些书。
+
+## 制作
+万事俱备，你就可以用一本书和一颗魔法水晶来合成一本
+ _[[巫术手册|The-Wizard's-Handbook]]_了。这个方便的指南会告诉你一个成功的巫师该做的一切，包括你有可能用到的所有配方。打开手册，了解  [[法杖|Wands]]、 [[奥术工作台|Arcane-Workbench]] 、 [[魔法飞弹|Magic-Missile]] [[魔法书|Spell-Book]]的合成配方。
 
 ## The Arcane Workbench
 Take your new arcane workbench and place it down somewhere (it doesn't matter where you put it for now, you can always pick it back up again with a stone pickaxe or better). Now right-click on it and you should see a GUI appear which looks something like this:
