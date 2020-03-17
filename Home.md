@@ -1,8 +1,9 @@
 > This wiki is currently under construction. Some links may not yet be functional, and content may be missing, incomplete or outdated. Feel free to browse though, and please check back for updates!
 
-## Welcome to the _Electroblob's Wizardry_ wiki!
+## 欢迎来到巫术学维基百科！
 
-This wiki explains everything there is to know about wizardry, including gameplay mechanics, blocks and items, every single spell, configuring the mod, and information for developers. Click on the images below or on the menu to the right to navigate!
+本WIKI阐释了所有关于巫术学mod的事物，E.G.:游戏机制、方块、道具、法术、配置文件以及为附属mod开发者的指南。接下来就和我一起沉醉在巫术的世界里吧！点击下方图片跳转内容。
+
 
 | [![](https://github.com/Electroblob77/Wizardry/wiki/images/banners/menu_getting_started.png)](https://github.com/Electroblob77/Wizardry/wiki/Getting-Started) | [![](https://github.com/Electroblob77/Wizardry/wiki/images/banners/menu_spells.png)](https://github.com/Electroblob77/Wizardry/wiki/Spells) |
 |---|---|
