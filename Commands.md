@@ -1,23 +1,23 @@
 _Since: Wizardry 1.1_ 
-适用版本：巫术学1.1以上
+_适用版本：巫术学1.1以上_  
 
 Wizardry has four inbuilt commands: /cast, /discoverspell, /ally and /allies. This page explains what they do and how to use them.  
-巫术学有四个内置的命令：/cast,/discoverspell,/ally 和/allies。这个页面将会告诉你它们各自的作用和使用方法。
+巫术学有四个内置的命令：/cast,/discoverspell,/ally 和/allies。这个页面将会告诉你它们各自的作用和使用方法。  
 
 > Note that angle brackets <> denote required arguments, whereas square brackets [] denote optional arguments. All commands support tab-completion where applicable. Spell names used in commands are unlocalised, meaning they are in English, all in lowercase and spell names with more than one word have underscores _ between words.  
-> 请注意：尖括号（<>）说明这是必要的参数，而方括号（[]）说明这是可选的参数。所有的命令都支持Tab补全。在命令中，法术的名称没有被本地化，所以说它们都是英文的，并且全部都是小写字母，如果法术的名称不止有一个单词，那么在单词之间会用下划线(\_)隔开。
+> 请注意：尖括号（<>）说明这是必要的参数，而方括号（[]）说明这是可选的参数。所有的命令都支持Tab补全。在命令中，法术的名称没有被本地化，所以说它们都是英文的，并且全部都是小写字母，如果法术的名称不止有一个单词，那么在单词之间会用下划线(\_)隔开。  
 
 
-## /cast
+## /cast  
 
 **Syntax: /cast \<spell\> [player] [duration] [modifiers]**  
-**语法：/cast \<法术名称\>[玩家][持续时间][附加参数]**
+**语法：/cast \<法术名称\>[玩家][持续时间][附加参数]**  
 
 _or_ **/cast \<spell\> \<x\> \<y\> \<z\> \<direction\> [duration] [modifiers]**  
-_或者_ **/cast \<法术名称\> \<x\> \<y\> \<z\> \<方向\>[持续时间][附加参数]**
+_或者_ **/cast \<法术名称\> \<x\> \<y\> \<z\> \<方向\>[持续时间][附加参数]**  
 
 Casts the specified spell. If a player is specified, casts the spell as if it were being cast by that player. If a position and direction is specified, casts the spell as if it were being fired from a dispenser at that position, facing that direction. If neither is specified, casts the spell as the player who typed the command.  
-发动某一条法术。如果一位玩家已经被指定，
+发动某一种法术。如果一位玩家已经被指定，系统将认为这个法术由这位玩家发动。如果指定了位置和方向，则认为这个法术由
 
 If this command is executed by a command block, the player or location argument is _required_ and accepts @p, @a, etc. as well as specific player names. The duration argument is only parsed if the spell is a continuous spell (i.e. one where the use item button must be held when casting with a wand), in which case it is required.
 
