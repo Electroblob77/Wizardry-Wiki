@@ -17,11 +17,13 @@ _or_ **/cast \<spell\> \<x\> \<y\> \<z\> \<direction\> [duration] [modifiers]**
 _或者_ **/cast \<法术名称\> \<x\> \<y\> \<z\> \<方向\>[持续时间][附加参数]**  
 
 Casts the specified spell. If a player is specified, casts the spell as if it were being cast by that player. If a position and direction is specified, casts the spell as if it were being fired from a dispenser at that position, facing that direction. If neither is specified, casts the spell as the player who typed the command.  
-发动某一种法术。如果一位玩家已经被指定，系统将认为这个法术由这位玩家发动。如果指定了位置和方向，则认为这个法术由
+发动某一个法术。如果一位玩家，则系统将认为这个法术由这位玩家发动。如果指定了位置和方向，该法术则被认为在指定位置、沿着指定的方向生效释放。如果两者都未指定，则默认为输入这条指令的玩家发动，位置和方向则取玩家目前所在位置和目前所对的方向。
 
-If this command is executed by a command block, the player or location argument is _required_ and accepts @p, @a, etc. as well as specific player names. The duration argument is only parsed if the spell is a continuous spell (i.e. one where the use item button must be held when casting with a wand), in which case it is required.
+If this command is executed by a command block, the player or location argument is _required_ and accepts @p, @a, etc. as well as specific player names. The duration argument is only parsed if the spell is a continuous spell (i.e. one where the use item button must be held when casting with a wand), in which case it is required.  
+如果要使一条cast命令在命令方块中运行，则 _必须_ 指定一名玩家或者一个方向。目标选择器支持@p, @a 等目标，也可以输入某一位玩家的用户名。只有当选项中的法术是持续发动的法术（即释放时需要长按的法术）时，系统才会读取持续时间的参数。  
 
-Spell modifiers can also be specified for the spell using NBT format, for example `{damage:1.5, range:2}`. Valid modifiers are `damage`, `range`, `duration` and `blast`, though add-on mods may add their own. Modifiers can have decimal values like 1.4, or 0.58932. By default, these can be anywhere between 0 and 20 inclusive, though the upper limit can be changed via the config. NBT spell modifiers may be specified without needing to specify a player, so for example, the command /cast magic_missile {damage:1.5} will work, despite no player being specified. Be aware that excessive modifiers (especially blast) can cause considerable lag if used with certain spells.
+Spell modifiers can also be specified for the spell using NBT format, for example `{damage:1.5, range:2}`. Valid modifiers are `damage`, `range`, `duration` and `blast`, though add-on mods may add their own. Modifiers can have decimal values like 1.4, or 0.58932. By default, these can be anywhere between 0 and 20 inclusive, though the upper limit can be changed via the config. NBT spell modifiers may be specified without needing to specify a player, so for example, the command /cast magic_missile {damage:1.5} will work, despite no player being specified. Be aware that excessive modifiers (especially blast) can cause considerable lag if used with certain spells.  
+指令中可以使用NBT格式来指定附加的参数，比如说可以指定为 `{damage:1.5, range:2}` （伤害为1.5，范围为2）。可以使用的附加参数有 `damage` （伤害）、 
 
 _Requires operator permissions (multiplayer) or cheats enabled (singleplayer/LAN)._
 
