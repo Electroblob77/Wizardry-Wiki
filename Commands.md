@@ -1,4 +1,4 @@
-_Since: Wizardry 1.1_ 
+_Since: Wizardry 1.1_  
 _适用版本：巫术学1.1以上_  
 
 Wizardry has four inbuilt commands: /cast, /discoverspell, /ally and /allies. This page explains what they do and how to use them.  
