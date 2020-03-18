@@ -1,30 +1,30 @@
-| Crystal Flower |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/crystal_flower.png)|
+| 水晶花 |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/crystal_flower.png)|
 |---|---|
-| Craftable | No |
-| Stackable | Yes, 64 |
-| Creative Tab | Wizardry |
-| Harvest Tool | Hand |
-| Drops | Itself |
-| Light Level | 7 |
-| Block ID | `ebwizardry:crystal_flower` |
-| First appeared in | Wizardry 1.0 |
+| 能否被制作 | 否 |
+| 叠加性 | 能, 64 |
+| 创造模式分类栏	 | Wizardry |
+| 采集工具 | 手 |
+| 掉落物 | 自身 |
+| 亮度 | 7 |
+| 方块ID | `ebwizardry:crystal_flower` |
+| 首次出现 | Wizardry 1.0 |
 
-Crystal flowers are small, glowing flowers that generate on grass throughout the surface of the overworld. They are a source of [[magic crystals|Magic-Crystal]] which is particularly useful early in the game.
+水晶花是一种小巧玲珑，晶莹发光的花朵，它生长在地表，几乎处处可见。它们是在早期获取[[魔法水晶|Magic-Crystal]]的主要途径。
 
 [[images/screenshots/crystal_flowers.png]]  
-_Some crystal flowers in a roofed forest at night_
+_夜里的水晶花_
 
-## Appearance
-Crystal flowers are similar in size to most single-block flowers in vanilla _Minecraft_. They have a green stem, on top of which sit three coloured petals which appear to have a crystalline shape. Crystal flowers produce randomly coloured sparkle particles which float slowly upwards. They also emit a dim glow at night.
+## 外观
+水晶花的大小和原版_Minecraft_里的花大小相同。它们有一根绿色的茎，三片水晶叶子。水晶花会不时地散发出粒子效果，这些粒子会缓慢的上升至天空中。它们在晚上也会发出微弱的光。
 
-## Obtaining
-Crystal flowers can be found growing in small clusters on grass fairly commonly throughout the overworld (or the dimensions specified by the [[flower dimensions config option|Configuration#flower-dimensions]]). They are perhaps easiest to find at night and in forested biomes, since their glow makes them easy to spot in dark areas.
+## 获取
+你可以在主世界的草丛里发现水晶花 (或者在这修改 [[水晶花生成维度|Configuration#flower-dimensions]]). 你容易在黑夜/森林里发现它们，因为它们散发出的微光在黑夜中十分引人瞩目。
 
-## Usage
-Currently, the only use for crystal flowers besides decoration is crafting them into magic crystals. Each crystal flower yields two magic crystals when placed in a crafting grid.
+## 用途
+就目前版本，除了用来装饰，水晶花的唯一用途就是加工为魔法水晶。每一个水晶花都可以合成为2个魔法水晶。
 
 [[images/recipes/crystal_flower_to_crystals.png]]  
-_Crafting crystal flowers into magic crystals_
+_将水晶花合成为魔法水晶_
 
-## Trivia
-- Using bonemeal on grass has a chance to grow crystal flowers
+## 冷知识
+- 当你用骨粉催生草地时有概率生成水晶花。
