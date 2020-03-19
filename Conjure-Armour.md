@@ -11,4 +11,4 @@
 | Metadata | 134 |
 | First appeared in | Wizardry 1.1 |
 ## Description
-_Creates spectral armour around the caster which offers protection equal to that of iron armour. The armour lasts for 60 seconds. The caster must have an empty armour slot._
+_在施法者身上制造幽冥护甲，与铁护甲等效。护甲持续时间为60秒，且施法者必须要有一个空装备槽。_
