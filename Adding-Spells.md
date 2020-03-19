@@ -1,13 +1,19 @@
-This page explains how to add [[spells]] to your spell pack.
+This page explains how to add [[spells]] to your spell pack. 
+本页面将介绍如何将更多[[法术]]添加到你的法术列表内。
 
-## Prerequisites
+## 准备
 - An addon mod ready to add spells to. You should have completed everything in the [[developing addons]] tutorial at this point.
+- 一个添加法术的附属mod。你需要先完成[[developing addons]]的所有步骤。 
 - Basic knowledge of the JSON file format.
+- 关于 JSON 的基础知识。 
 - An idea for a spell! The only limits here are your imagination and your programming skill, though the latter can always be improved with practice - and there's a whole modding community out there that can help you out if you get stuck.
+- 对法术足够的想象力！ 限制你的只有你的想象力和编程能力, 尽管后者可以通过不断地训练提高 - 如果你有困难，可以到mod社区求助。
 
-## Writing the spell class
+## 编写法术类
 
 First of all, you'll need to write a new class for your spell, where you can put all of the code that makes it work. Create a new class and have it extend `Spell`. The `Spell` class can be found in the package `electroblob.wizardry.spell` and is the base class for all spells. I've taken the time to write full Javadoc comments for the methods and fields in this class, so I recommend you read them carefully!
+
+首先，你需要编写一个新的法术类，这是给你运行代码的地方。新增一个类作为`Spell`的拓展。你可以在`electroblob.wizardry.spell`包内找到`Spell`类。 我编写了一个完整的Javadoc注释去说明类中的方法和字段，我推荐你去认真阅读它们。
 
 In this class, create a new constructor with no arguments, and inside it, call the super constructor in the `Spell` class. There are **two** super constructors in `Spell`, and you need to make sure you use the one which takes an additional `modID` argument. You'll then need to pass some values into the super constructor which define basic information about your spell:
 - `modID` The **mod ID** of your addon mod. This is required so that wizardry knows which mod the spell is from and where to look for your spell icon.
