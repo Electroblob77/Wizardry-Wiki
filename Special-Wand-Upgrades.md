@@ -49,9 +49,9 @@ Condenser upgrades cause wands to slowly regenerate mana over time. When a wand 
 ### 施法范围升级
 Range upgrades increase the range of spells cast by a wand. Projectiles will fly further and faster, constructs can be created from further away, and ray-type spells will have a longer reach. Each range upgrade increases a wand's range by 25%, so a maximum 3 range upgrades will give a 75% range increase. A few spells such as [[phase step]] have special behaviours with range upgrades; see individual spells' pages for details.
 
-施法范围升级
+施法范围升级可以增加魔杖的施法范围。弹射物可以飞得更快更远，造物类法术生成距离可以变得更远，射线类法术攻击距离可以变得更长。每一级施法范围升级都会增加 25% 的范围，所以最高的三级可以增加 75% 的范围。施法范围升级对于一些法术有不同的效果，比如[[隧穿术]]；你可以在法术的页面中找到详细信息。
 
-### Duration Upgrade
+### 施法时间升级
 Duration upgrades increase the length of time spells cast by a wand last for. Summoned creatures will last for longer before vanishing, potion effects will last for longer, and conjured items and constructs will last for longer. Each duration upgrade increases the duration of spells by 25%, so a maximum 3 duration upgrades will give a 75% duration increase.
 
 ### Cooldown Upgrade
