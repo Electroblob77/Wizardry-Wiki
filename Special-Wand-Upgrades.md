@@ -44,8 +44,12 @@ _* 优先顺序是主手，副手，物品栏从左到右。_
 ### 魔力收凝升级
 Condenser upgrades cause wands to slowly regenerate mana over time. When a wand with a condenser upgrade is in a player's inventory or in an arcane workbench, it will gain 1 mana per condenser upgrade every 1.5 seconds. Unlike siphon upgrades, _all_ wands with condenser upgrades will gain mana simultaneously, even if a player is carrying more than one. 
 
-### Range Upgrade
+魔力收凝升级可以让魔杖缓慢恢复魔力值。当一个拥有魔力收凝升级的魔杖在玩家物品栏或者奥术工作台内时，魔杖每隔1.5秒会恢复1点魔力值。不像魔杖吸取升级，_所有_拥有魔力收凝升级的魔杖都可以同时恢复魔力值，即使玩家一次带着很多根拥有此升级的魔杖。
+
+### 施法范围升级
 Range upgrades increase the range of spells cast by a wand. Projectiles will fly further and faster, constructs can be created from further away, and ray-type spells will have a longer reach. Each range upgrade increases a wand's range by 25%, so a maximum 3 range upgrades will give a 75% range increase. A few spells such as [[phase step]] have special behaviours with range upgrades; see individual spells' pages for details.
+
+施法范围升级
 
 ### Duration Upgrade
 Duration upgrades increase the length of time spells cast by a wand last for. Summoned creatures will last for longer before vanishing, potion effects will last for longer, and conjured items and constructs will last for longer. Each duration upgrade increases the duration of spells by 25%, so a maximum 3 duration upgrades will give a 75% duration increase.
