@@ -16,6 +16,9 @@ First of all, you'll need to write a new class for your spell, where you can put
 首先，你需要编写一个新的法术类，这是给你运行代码的地方。新增一个类作为`Spell`的拓展。你可以在`electroblob.wizardry.spell`包内找到`Spell`类。 我为 Javadoc 写了一个完整的注释去说明类中的方法和字段，我推荐你去认真阅读它们。
 
 In this class, create a new constructor with no arguments, and inside it, call the super constructor in the `Spell` class. There are **two** super constructors in `Spell`, and you need to make sure you use the one which takes an additional `modID` argument. You'll then need to pass some values into the super constructor which define basic information about your spell:
+
+在这个类中新建一个没有参数的构造函数（constructor），并且调用在`Spell`类中的超级构造函数（super constructor）。`Spell`中有**两个**超级构造函数，你需要确保自己添加了一个`modID`附加参数。接下来你需要给超级构造函数传递一些参数，这是该函数关于法术的参数信息：
+
 - `modID` The **mod ID** of your addon mod. This is required so that wizardry knows which mod the spell is from and where to look for your spell icon.
 - `name` The unlocalised name of your spell. This should be in all lowercase with underscores_between_words.
 - `action` The `EnumAction`, or animation, that the player performs when casting the spell.
