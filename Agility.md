@@ -10,5 +10,5 @@
 | ID | `ebwizardry:agility` |
 | Metadata | 39 |
 | First appeared in | Wizardry 1.0 |
-## Description
-_Grants the caster faster movement speed and greater jump height for 30 seconds._
+## 说明
+_为施法者提供更快的移速和更高的跳跃高度，持续时间30秒。_
