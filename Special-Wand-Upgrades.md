@@ -8,28 +8,36 @@
 
 Special wand upgrades are items that improve particular aspects of [[wands]]. There are currently eight types of special wand upgrades: storage, siphon, condenser, range, duration, cooldown, blast and attunement.
 
-Special wand upgrades（等你们翻译）是一种能够提升[[wands]]某些属性的物品。目前有八种不同的special wand upgrades：storage, siphon, condenser, range, duration, cooldown, blast and attunement.（等会慢慢找）
+魔杖特殊升级能够提升[[wands]]的某些属性。目前有八种不同的魔杖特殊升级：魔力储能, siphon, condenser, range, duration, cooldown, blast and attunement.（等会慢慢找）
 
 [[images/misc/wand_upgrades.png]]  
-_全部的九种special wand upgrades_
+_全部的九种魔杖特殊升级_
 
 ## Obtaining
 Special wand upgrades can be found in loot chests in dungeons and [[wizard towers|Wizard-Tower]] or purchased from [[wizards|Wizard]]. They are also available in the wizardry tab of the creative mode inventory or via the /give command.
 
-Special wand upgrades可以在地下城和[[wizard towers|Wizard-Tower]中找到，或者你可以从[[wizards|Wizard]]处购买。你也可以在创造背包的wizardry tab中拿到或用 /give 命令获取。
+魔杖特殊升级可以在地下城和[[wizard towers|Wizard-Tower]中找到，或者你可以从[[wizards|Wizard]]处购买。你也可以在创造背包的wizardry tab中拿到或用 /give 命令获取。
 
 ## Usage
 Special wand upgrades can be applied to wands using an [[arcane workbench]]. To do this, the wand is placed in the central slot and the upgrade is placed in the lower of the two slots on the left. Pressing the 'apply' button applies the upgrade to the wand, consuming it in the process. Up to 3 upgrades of a single type may be added to a wand, and the total number of special upgrades that may be applied to a wand depends on its tier - 3 for novice wands, 4 for apprentice wands, 5 for advanced wands and 6 for master wands.
 
+用[[奥术工作台]]可以给魔杖添加魔杖特殊升级。 你需要将魔杖放在中间的格子里面，然后将魔杖特殊升级放在下方的两个格子里。按下'apply'按钮以将升级应用于魔杖，并在此过程中使用它。一个魔杖最多可以添加同种类型的三个升级，每个魔杖可添加的最高特殊升级数量取决于自身的等级——基础等级为 3 ，学徒等级为 4 ，进阶等级为 5 ，大师等级为 6 。
+
 Wand upgrades stack, so the more upgrades of a single type a wand has, the greater the effect will be. For example, a single storage upgrade will increase the amount of mana a wand can hold by 15%, two will increase it by 30%, and a maximum 3 storage upgrades will increase the mana capacity by 45%.
+
+魔杖升级可以堆叠，所以同类型的魔杖升级越多，魔杖的effect越强（脑子卡壳了不会翻）。例如，单个魔力储能升级可以是魔杖的魔力值容量提高 15% ，两个升级可以是魔杖的魔力值容量提高 30% ，最多的三个升级可以是魔杖的魔力值容量提高 45% 。
 
 ## Types of Upgrade
 
-### Storage Upgrade
+### 魔力储能升级
 Storage upgrades increase the mana capacity of wands. Each storage upgrade increases the amount of mana a wand can hold by 15%. This means, for example, that a single storage upgrade applied to a novice wand will increase its mana capacity from 700 to 805. A master wand with a maximum of 3 storage upgrades applied will have a mana capacity of 3625.
 
-### Siphon Upgrade
+魔力储能升级可以提高魔杖的魔力值容量。每个魔力储能升级可以是魔杖的魔力值容量提高15%。比如对基础级别的魔杖进行一次升级可以使魔力值从 700 点升级到 805 点。最多的三个升级可以使宗师级别的魔杖的魔力值升级到 3625 点。
+
+### 魔力吸取升级
 Siphon upgrades cause wands to extract mana from creatures their wielder kills. When a player kills any creature, the first wand on their hotbar* which has a siphon upgrade will gain a small amount of mana. The kill can be with anything, it does not have to be the wand with the upgrade - any kill that counts as a player kill will grant siphon mana. The mana gained is a random number from 3-5 per siphon upgrade. This means that a wand with 1 siphon upgrade will gain 3-5 mana per kill, a wand with 2 siphon upgrades will gain 6-10 mana and a wand with 3 siphon upgrades will gain 9-15 mana. Only the first wand on the player's hotbar* gains mana for a kill, even if there are other wands with siphon upgrades on the player's hotbar.
+
+魔力吸取升级可以让魔杖在杀死生物时吸取魔力。
 
 _* The exact order of precedence is main hand, then offhand, followed by the rest of the hotbar left-to-right._
 
