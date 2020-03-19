@@ -2,10 +2,10 @@ _本页面是关于状态效果的。关于法术的页面请到[[Arcane Jammer]
 
 | 秘法干扰 | ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/potion_icon_arcane_jammer.png) |
 | --- | --- |
-| Particles | Magenta |
-| Effect type | Negative |
-| Max. natural level | Arcane Jammer I |
-| Potion ID | `ebwizardry:arcane_jammer` |
+| 粒子颜色 | 淡蓝色 |
+| 效果 | 负面 |
+| 能到达的最高等级 | 一级I |
+| 物品ID | `ebwizardry:arcane_jammer` |
 | 加入版本 | Wizardry 1.1 | 
 
  _**我就是那个不翻译表格的（因为不敢乱动**_ 
@@ -23,4 +23,4 @@ The arcane jammer spell inflicts arcane jammer I on its target for 15 seconds wi
 - The amplifier has no effect for arcane jammer, much like blindness or nausea in vanilla _Minecraft_. 
 - amplifier对秘法干扰没有效果，就像原版 _Minecraft_ 中的失明或反胃效果。
 - Since various summoned creatures use spells as attacks, these summoned creatures will not be able to attack while under the arcane jammer effect. 
-- 由于很多被召唤的生物使用法术进行攻击，所以这些生物受到秘法干扰效果影响后将不能发动攻击。
+- 由于许多召唤物使用法术进行攻击，所以这些生物在受到秘法干扰效果影响后将不能发动攻击。
