@@ -1,18 +1,22 @@
 | Special Wand Upgrades |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/upgrade_storage.png)![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/upgrade_siphon.png)![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/upgrade_condenser.png)![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/upgrade_range.png)![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/upgrade_duration.png)![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/upgrade_cooldown.png)![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/upgrade_blast.png)![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/upgrade_attunement.png)![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/upgrade_melee.png)|
 |---|---|
-| Craftable | No |
-| Stackable | No |
-| Creative Tab | Wizardry |
-| Item ID | `ebwizardry:[type]_upgrade` |
-| First appeared in | Wizardry 1.0 |
+| 可合成 | 否 |
+| 可堆叠 | 否 |
+| 创造标签栏 | Wizardry |
+| 物品ID | `ebwizardry:[type]_upgrade` |
+| 加入版本 | 1.0 |
 
 Special wand upgrades are items that improve particular aspects of [[wands]]. There are currently eight types of special wand upgrades: storage, siphon, condenser, range, duration, cooldown, blast and attunement.
 
+Special wand upgrades（等你们翻译）是一种能够提升[[wands]]某些属性的物品。目前有八种不同的special wand upgrades：storage, siphon, condenser, range, duration, cooldown, blast and attunement.（等会慢慢找）
+
 [[images/misc/wand_upgrades.png]]  
-_All nine special wand upgrades in wizardry_
+_全部的九种special wand upgrades_
 
 ## Obtaining
 Special wand upgrades can be found in loot chests in dungeons and [[wizard towers|Wizard-Tower]] or purchased from [[wizards|Wizard]]. They are also available in the wizardry tab of the creative mode inventory or via the /give command.
+
+Special wand upgrades可以在地下城和[[wizard towers|Wizard-Tower]中找到，或者你可以从[[wizards|Wizard]]处购买。你也可以在创造背包的wizardry tab中拿到或用 /give 命令获取。
 
 ## Usage
 Special wand upgrades can be applied to wands using an [[arcane workbench]]. To do this, the wand is placed in the central slot and the upgrade is placed in the lower of the two slots on the left. Pressing the 'apply' button applies the upgrade to the wand, consuming it in the process. Up to 3 upgrades of a single type may be added to a wand, and the total number of special upgrades that may be applied to a wand depends on its tier - 3 for novice wands, 4 for apprentice wands, 5 for advanced wands and 6 for master wands.
