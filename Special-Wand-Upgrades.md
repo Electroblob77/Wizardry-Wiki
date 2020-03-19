@@ -16,7 +16,7 @@ _全部的九种魔杖特殊升级_
 ## Obtaining
 Special wand upgrades can be found in loot chests in dungeons and [[wizard towers|Wizard-Tower]] or purchased from [[wizards|Wizard]]. They are also available in the wizardry tab of the creative mode inventory or via the /give command.
 
-魔杖特殊升级可以在地下城和[[wizard towers|Wizard-Tower]中找到，或者你可以从[[wizards|Wizard]]处购买。你也可以在创造背包的wizardry tab中拿到或用 /give 命令获取。
+魔杖特殊升级可以在dungeons和[[wizard towers|Wizard-Tower]中找到，或者你可以从[[wizards|Wizard]]处购买。你也可以在创造背包的wizardry tab中拿到或用 /give 命令获取。
 
 ## Usage
 Special wand upgrades can be applied to wands using an [[arcane workbench]]. To do this, the wand is placed in the central slot and the upgrade is placed in the lower of the two slots on the left. Pressing the 'apply' button applies the upgrade to the wand, consuming it in the process. Up to 3 upgrades of a single type may be added to a wand, and the total number of special upgrades that may be applied to a wand depends on its tier - 3 for novice wands, 4 for apprentice wands, 5 for advanced wands and 6 for master wands.
@@ -65,13 +65,17 @@ Cooldown upgrades reduce the length of all spell cooldowns for a wand. Each cool
 ### 法术爆炸升级
 Blast upgrades increase the blast radius or area of effect of spells cast by a wand. Explosions will be bigger and spells with an area of effect will affect a larger area. Each blast upgrade will increase the radius of the area of effect by 25%, so a maximum 3 blast upgrades will give a 75% blast radius increase.
 
-法术爆炸升级可以
+法术爆炸升级可以增加魔杖施展法术的爆炸半径或影响区域。爆炸性法术的爆炸范围会变得更大，范围性法术影响区域的面积也会更大。每一级法术爆炸升级都会增加 25% 的范围，所以最高的三级可以增加 75% 的范围。
 
-### Attunement Upgrade
+### 协调数量升级
 Attunement upgrades increase the number of spells that can be bound to a wand. Each attunement upgrade grants one additional spell slot, so a maximum 3 attunement upgrades will increase the number of spells a wand can hold from 5 to 8.
 
-### Melee Upgrade
+协调数量升级可以增加同一魔杖可容纳的法术数量。每一级协调数量升级都会增加一个可容纳法术数量，所以最高的三级可以让单个魔杖同时拥有法术的数量增加 5 到 8 个。
+
+### 近战法师升级
 Melee upgrades allow a wand to deal more melee damage at the cost of some mana. Each melee upgrade adds 2 damage (1 [[images/icons/heart.png]]) to the wand's melee damage, and consumes an extra 4 mana on each melee hit. This results in the following values:
+
+近战法师升级可以让魔杖消耗更多的魔力值以产生更大的伤害。每一级近战法师升级可以增加 2 点魔杖的近战伤害(1 [[images/icons/heart.png]])，并在每次命中时额外消耗 4 点魔力值。效果如下：
 
 | Melee upgrades | Damage dealt | Mana consumed |
 | --- | --- | --- |
@@ -80,4 +84,6 @@ Melee upgrades allow a wand to deal more melee damage at the cost of some mana. 
 | 2 | 5 (2.5 x [[images/icons/heart.png]]) | 8 |
 | 3 | 7 (3.5 x [[images/icons/heart.png]]) | 12 |
 
-In addition, having 1 or more melee upgrades applied decreases the wand's attack speed to that of a regular sword.
+In addition, having 1 or more melee upgrades applied decreases the wand's attack speed to that of a regular sword. 
+
+另外，使用 1 个及以上的近战法师升级会降低魔杖和剑的攻击速度。
