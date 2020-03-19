@@ -8,7 +8,7 @@
 
 Special wand upgrades are items that improve particular aspects of [[wands]]. There are currently eight types of special wand upgrades: storage, siphon, condenser, range, duration, cooldown, blast and attunement.
 
-魔杖特殊升级能够提升[[wands]]的某些属性。目前有八种不同的魔杖特殊升级：魔力储能, siphon, condenser, range, duration, cooldown, blast and attunement.（等会慢慢找）
+魔杖特殊升级能够提升[[wands]]的某些属性。目前有八种不同的魔杖特殊升级：魔力储能, 魔力吸取, 魔力收凝, range, duration, cooldown, blast and attunement.（等会慢慢找）
 
 [[images/misc/wand_upgrades.png]]  
 _全部的九种魔杖特殊升级_
@@ -25,7 +25,7 @@ Special wand upgrades can be applied to wands using an [[arcane workbench]]. To 
 
 Wand upgrades stack, so the more upgrades of a single type a wand has, the greater the effect will be. For example, a single storage upgrade will increase the amount of mana a wand can hold by 15%, two will increase it by 30%, and a maximum 3 storage upgrades will increase the mana capacity by 45%.
 
-魔杖升级可以堆叠，所以同类型的魔杖升级越多，魔杖的effect越强（脑子卡壳了不会翻）。例如，单个魔力储能升级可以是魔杖的魔力值容量提高 15% ，两个升级可以是魔杖的魔力值容量提高 30% ，最多的三个升级可以是魔杖的魔力值容量提高 45% 。
+魔杖升级可以堆叠，所以同类型的魔杖升级越多，魔杖的effect越强**（脑子卡壳了不会翻）**。例如，单个魔力储能升级可以使魔杖的魔力值容量提高 15% ，两个升级可以使魔杖的魔力值容量提高 30% ，最多的三个升级可以使魔杖的魔力值容量提高 45% 。
 
 ## Types of Upgrade
 
@@ -37,12 +37,12 @@ Storage upgrades increase the mana capacity of wands. Each storage upgrade incre
 ### 魔力吸取升级
 Siphon upgrades cause wands to extract mana from creatures their wielder kills. When a player kills any creature, the first wand on their hotbar* which has a siphon upgrade will gain a small amount of mana. The kill can be with anything, it does not have to be the wand with the upgrade - any kill that counts as a player kill will grant siphon mana. The mana gained is a random number from 3-5 per siphon upgrade. This means that a wand with 1 siphon upgrade will gain 3-5 mana per kill, a wand with 2 siphon upgrades will gain 6-10 mana and a wand with 3 siphon upgrades will gain 9-15 mana. Only the first wand on the player's hotbar* gains mana for a kill, even if there are other wands with siphon upgrades on the player's hotbar.
 
-魔力吸取升级可以让魔杖在杀死生物时吸取魔力。
+魔力吸取升级可以让魔杖在杀死生物时吸取魔力。当玩家杀死生物时，在 hotbar* 中的第一个有魔力吸取升级的魔杖可以吸取少量魔力。杀死的可以是任意生物，杀死生物的魔杖不一定要有这个升级——只要被系统认定为是玩家杀死生物，都可以吸取魔力值。每次吸取会随机获得 3 到 5 点的魔力。这意味着单个魔力吸取升级一次可以吸取 3-5 魔力，两个魔力吸取升级一次可以吸取 6-10 点魔力，三个魔力吸取升级一次可以吸取 9-15 点魔力。只有在玩家的 hotbar* 中的第一个魔杖可以获得魔力值，即使在玩家的 hotbar 中还有其他带有魔力吸取升级的魔杖。
 
-_* The exact order of precedence is main hand, then offhand, followed by the rest of the hotbar left-to-right._
+_* 优先顺序是主手，副手，物品栏从左到右。_
 
-### Condenser Upgrade
-Condenser upgrades cause wands to slowly regenerate mana over time. When a wand with a condenser upgrade is in a player's inventory or in an arcane workbench, it will gain 1 mana per condenser upgrade every 1.5 seconds. Unlike siphon upgrades, _all_ wands with condenser upgrades will gain mana simultaneously, even if a player is carrying more than one.
+### 魔力收凝升级
+Condenser upgrades cause wands to slowly regenerate mana over time. When a wand with a condenser upgrade is in a player's inventory or in an arcane workbench, it will gain 1 mana per condenser upgrade every 1.5 seconds. Unlike siphon upgrades, _all_ wands with condenser upgrades will gain mana simultaneously, even if a player is carrying more than one. 
 
 ### Range Upgrade
 Range upgrades increase the range of spells cast by a wand. Projectiles will fly further and faster, constructs can be created from further away, and ray-type spells will have a longer reach. Each range upgrade increases a wand's range by 25%, so a maximum 3 range upgrades will give a 75% range increase. A few spells such as [[phase step]] have special behaviours with range upgrades; see individual spells' pages for details.
