@@ -1,14 +1,14 @@
-| Slime |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/slime.png)|
+| 史莱姆 |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/slime.png)|
 |---|---|
-| Tier | Advanced |
-| Element | Earth |
-| Type | Attack |
-| Mana Cost | 20 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| Cast by dispensers | Yes |
+| 等级 | 进阶 |
+| 元素 | 大地 |
+| 类型 | 攻击 |
+| 魔力值消耗 | 20 |
+| 是否为持续型 | 否|
+| 可被巫师发动 | 是 |
+| 可被施展 | 是 |
 | ID | `ebwizardry:slime` |
-| Metadata | 77 |
-| First appeared in | Wizardry 1.0 |
-## Description
-_Engulfs the target in slime which slows and continually damages it. The slime bursts after 10 seconds._
+| 子ID | 77 |
+| 首次出现 | Wizardry 1.0 |
+## 简介  
+_让史莱姆包裹住目标，使其移速减缓并持续受伤。史莱姆会在十秒后消失。_
