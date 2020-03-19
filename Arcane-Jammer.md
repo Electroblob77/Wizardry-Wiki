@@ -1,4 +1,4 @@
-| Arcane Jammer |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/arcane_jammer.png)|
+| 秘法干扰 |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/arcane_jammer.png)|
 |---|---|
 | Tier | Advanced |
 | Element | Healing |
@@ -10,5 +10,5 @@
 | ID | `ebwizardry:arcane_jammer` |
 | Metadata | 133 |
 | First appeared in | Wizardry 1.1 |
-## Description
-_Prevents the target from using magic for 15 seconds._
+## 说明
+_阻止目标使用魔法15秒。_
