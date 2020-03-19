@@ -8,7 +8,6 @@ _本页面是关于状态效果的。关于法术的页面请到[[Arcane Jammer]
 | 物品ID | `ebwizardry:arcane_jammer` |
 | 加入版本 | Wizardry 1.1 | 
 
- _**我就是那个不翻译表格的（因为不敢乱动**_ 
 ## 说明
 Arcane jammer is a negative potion effect which prevents players and mobs from using magic. A player or mob under the arcane jammer effect will not be able to cast [[spells]] through any means, whether using a wand, a scroll or commands. Players will also see the spell name greyed out in the spell HUD. 
 
