@@ -8,7 +8,7 @@
 
 Special wand upgrades are items that improve particular aspects of [[wands]]. There are currently eight types of special wand upgrades: storage, siphon, condenser, range, duration, cooldown, blast and attunement.
 
-魔杖特殊升级能够提升[[wands]]的某些属性。目前有八种不同的魔杖特殊升级：魔力储能, 魔力吸取, 魔力收凝, range, duration, cooldown, blast and attunement.（等会慢慢找）
+魔杖特殊升级能够提升[[wands]]的某些属性。目前有八种不同的魔杖特殊升级：魔力储能,、魔力吸取、魔力收凝、施法范围、施法时间、法术冷却, 法术爆炸和协调数量.（等会慢慢找）
 
 [[images/misc/wand_upgrades.png]]  
 _全部的九种魔杖特殊升级_
