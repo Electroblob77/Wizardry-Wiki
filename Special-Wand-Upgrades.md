@@ -77,7 +77,7 @@ Melee upgrades allow a wand to deal more melee damage at the cost of some mana. 
 
 近战法师升级可以让魔杖消耗更多的魔力值以产生更大的伤害。每一级近战法师升级可以增加 2 点魔杖的近战伤害(1 [[images/icons/heart.png]])，并在每次命中时额外消耗 4 点魔力值。效果如下：
 
-| Melee upgrades | Damage dealt | Mana consumed |
+| 近战法师升级 | 增加的伤害 | 消耗的魔力值 |
 | --- | --- | --- |
 | 0 | 1 (0.5 x [[images/icons/heart.png]]) | 0 |
 | 1 | 3 (1.5 x [[images/icons/heart.png]]) | 4 |
