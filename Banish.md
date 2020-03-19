@@ -10,5 +10,5 @@
 | ID | `ebwizardry:banish` |
 | Metadata | 116 |
 | First appeared in | Wizardry 1.1 |
-## Description
-_Teleports the target against its will to a random location within a certain range._
+## 说明
+_强行对目标在一定范围内进行随机传送_
