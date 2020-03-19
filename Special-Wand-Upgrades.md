@@ -54,11 +54,18 @@ Range upgrades increase the range of spells cast by a wand. Projectiles will fly
 ### 施法时间升级
 Duration upgrades increase the length of time spells cast by a wand last for. Summoned creatures will last for longer before vanishing, potion effects will last for longer, and conjured items and constructs will last for longer. Each duration upgrade increases the duration of spells by 25%, so a maximum 3 duration upgrades will give a 75% duration increase.
 
-### Cooldown Upgrade
+施法时间升级可以增加法术的持续时间。召唤类法术召唤的生物可以更久不消失，药水效果可以持续更久，生成的物品也可以持续更久。每一级施法时间升级都会增加 25% 的时间，所以最高的三级可以增加 75% 的时间。
+
+### 法术冷却升级
 Cooldown upgrades reduce the length of all spell cooldowns for a wand. Each cooldown upgrade reduces the cooldown time of spells by 15%, so a maximum 3 cooldown upgrades will decrease the cooldown time by 45%. This effect also stacks with the [[font of mana|Font-of-Mana-(Status-Effect)]] status effect.
 
-### Blast Upgrade
+法术冷却升级可以减少魔杖的法术冷却时间。每一级法术冷却升级都会减少 15% 的冷却时间，所以最高的三级可以减少 45% 的冷却时间。这个升级还可以与[[font of mana|Font-of-Mana-(Status-Effect)]]产生叠加效果。
+
+
+### 法术爆炸升级
 Blast upgrades increase the blast radius or area of effect of spells cast by a wand. Explosions will be bigger and spells with an area of effect will affect a larger area. Each blast upgrade will increase the radius of the area of effect by 25%, so a maximum 3 blast upgrades will give a 75% blast radius increase.
+
+法术爆炸升级可以
 
 ### Attunement Upgrade
 Attunement upgrades increase the number of spells that can be bound to a wand. Each attunement upgrade grants one additional spell slot, so a maximum 3 attunement upgrades will increase the number of spells a wand can hold from 5 to 8.
