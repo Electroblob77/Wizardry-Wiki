@@ -1,4 +1,4 @@
-| Blink |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/blink.png)|
+| 闪现 |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/blink.png)|
 |---|---|
 | Tier | Apprentice |
 | Element | Sorcery |
@@ -11,7 +11,7 @@
 | Metadata | 38 |
 | First appeared in | Wizardry 1.0 |
 ## Description
-_Teleports the caster over a short distance to where they are pointing._
+_将施法者向指针方向传送一小段距离。_
 
 Blink provides a fairly low-cost, low-cooldown short-range teleport, similar to that used by endermen.
 
