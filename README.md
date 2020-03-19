@@ -1,11 +1,11 @@
 # 巫术学Wiki（中文） 
 _翻译自巫术学英文wiki_  
 
-这个Wiki提供了巫术学Wiki的镜像，方便社区通过fork和PR为巫术学的Wiki做出贡献。  
+这个Wiki提供的是巫术学Wiki的镜像，方便社区通过fork和PR为巫术学的Wiki做出贡献。  
 
 如果你想要为这个wiki做贡献，你只需要fork这个项目，接着在Github上修改wiki的页面和图片（不需要下载，耶！），或者可以选择使用Markdown编辑器来编辑。如果你修缮完成了，提交一个PR,我会审查你的页面，并且将修改的部分加入主分支中，最后将修改后的页面放到Wiki主页面上。  
  
-不熟悉Markdown语法吗？[这里有一个Markdown的简易备忘单](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)。   
+不熟悉Markdown语法吗？[这里有一个Markdown的入门教程](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)。   
 
 ## 编辑风格指南
 
