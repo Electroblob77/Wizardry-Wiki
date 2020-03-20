@@ -1,14 +1,14 @@
-| Summon Skeleton |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/summon_skeleton.png)|
+| 召唤骷髅 |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/summon_skeleton.png)|
 |---|---|
-| Tier | Apprentice |
-| Element | Necromancy |
-| Type | Minion |
-| Mana Cost | 15 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| Cast by dispensers | Yes |
+| 等级 | 学徒 |
+| 元素 | 死灵 |
+| 类型 | 召唤 |
+| 魔力值消耗 | 15 |
+| 是否为持续型 | 否 |
+| 可被巫师发动 | 是 |
+| 可被施展 | 是 |
 | ID | `ebwizardry:summon_skeleton` |
-| Metadata | 29 |
-| First appeared in | Wizardry 1.0 |
-## Description
-_Summons a skeleton to fight for you. The skeleton will disappear after 30 seconds or if it is killed._
+| 子ID | 29 |
+|加入版本 | 版本 1.0 |
+## 简介
+_召唤一个骷髅，让它为你效劳。如果不被杀死，它将在30秒后消失。_
