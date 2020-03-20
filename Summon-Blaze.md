@@ -1,14 +1,14 @@
-| Summon Blaze |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/summon_blaze.png)|
+| 召唤烈焰人 |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/summon_blaze.png)|
 |---|---|
-| Tier | Advanced |
-| Element | Fire |
-| Type | Minion |
-| Mana Cost | 40 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| Cast by dispensers | Yes |
+| 等级 | 进阶 |
+| 元素 | 火 |
+| 类型 | 召唤 |
+| 魔力值消耗 | 40 |
+| 是否为持续型 | 否 |
+| 可被巫师发动 | 是 |
+| 可被施展 | 是 |
 | ID | `ebwizardry:summon_blaze` |
-| Metadata | 48 |
-| First appeared in | Wizardry 1.0 |
-## Description
-_Summons a blaze to fight for you. The blaze will disappear after 30 seconds or if it is killed._
+| 子ID | 48 |
+| 加入版本 | 版本 1.0 |
+## 简介
+_召唤一只烈焰人，让它为你效忠！如果不被杀死，它会在30秒后消失。_
