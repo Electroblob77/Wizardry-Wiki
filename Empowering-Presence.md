@@ -1,14 +1,14 @@
-| Empowering Presence |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/empowering_presence.png)|
+| 魔力增强 |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/empowering_presence.png)|
 |---|---|
-| Tier | Apprentice |
-| Element | Healing |
-| Type | Buff |
-| Mana Cost | 30 |
-| Continuous | No |
-| Cast by wizards | No |
-| Cast by dispensers | No |
+| 等级 | 学徒 |
+| 元素 | 治疗 |
+| 类型 | 加成 |
+| 魔力值消耗 | 30 |
+| 是否为持续型 | 否 |
+| 可被巫师发动 | 否 |
+| 可被施展 | 否 |
 | ID | `ebwizardry:empowering_presence` |
-| Metadata | 151 |
-| First appeared in | Wizardry 4.2 |
-## Description
-_Grants the caster and nearby allies increased magic damage for 30 seconds._
+| 子ID | 151 |
+| 加入版本 | 版本 4.2 |
+## 简介
+_在30秒内，可以让拥有者和周围盟友的魔法攻击增加。_
