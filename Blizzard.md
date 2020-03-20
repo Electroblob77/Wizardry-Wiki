@@ -1,14 +1,14 @@
-| Blizzard |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/blizzard.png)|
+| 暴雪 |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/blizzard.png)|
 |---|---|
-| Tier | Advanced |
-| Element | Ice |
-| Type | Construct |
-| Mana Cost | 40 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| Cast by dispensers | Yes |
+| 等级 | 进阶 |
+| 元素 | 冰霜 |
+| 类型 | 造物 |
+| 魔力值消耗 | 40 |
+| 是否为持续型 | 否 |
+| 可被巫师发动 | 是 |
+| 可被施展 | 是 |
 | ID | `ebwizardry:blizzard` |
-| Metadata | 54 |
-| First appeared in | Wizardry 1.0 |
-## Description
-_Creates a zone of swirling icy wind which slows and continually damages anything trapped inside. The caster is immune to the damage but is still slowed._
+| 子ID | 54 |
+| 加入版本 | 版本 1.0 |
+## 简介
+_释放一股强劲的寒冰流，能使碰到的生物减速并持续受到伤害。释放法术的玩家不会受到它的伤害，但是仍会减速。_
