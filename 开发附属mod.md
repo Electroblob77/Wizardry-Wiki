@@ -20,7 +20,7 @@
 
 - 配置 mod 环境。我用了好几年的 eclipse ，最近换成了 IntelliJ IDEA，你也可以用其他 IDE ——我将提到的东西并不是这两个IDE的特性。请确保你使用的是适用于Wizardry的 Minecraft Forge 版本，通常应该使用对应当前 Minecraft 版本的最新 Forge 版本。    
 
-- 一些关于添加法术的准备（mod 主类和 proxies ，还有 lang 文件）。  
+- 一些关于添加法术的准备（mod 主类和 proxies ，还有 lang 文件）。    
 
 ## 配置工作环境  
 
