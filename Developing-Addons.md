@@ -30,7 +30,7 @@ These pages explain how to program addon mods for _Electroblob's Wizardry_, part
 
 - A modding environment set up. I used eclipse for several years and recently switched to IntelliJ IDEA, but you can use any IDE - I won't be referring to anything specific to either of those IDEs. Make sure you have the correct version of Minecraft Forge for the version of wizardry you intend to use. Usually this will be the latest version of Forge for the version of Minecraft you are using.
 
-- 设置 mod 环境。我用了好几年的 eclipse ，最近换到了 IntelliJ IDEA，你也可以用其他 IDE ——我不会提及有关这两个 IDE 的任何特性。请确保你使用的是适用于 wizardry 的 Minecraft Forge 版本。通常这是你使用的 Minecraft 版本的最新 Forge 版本。
+- 配置 mod 环境。我用了好几年的 eclipse ，最近换到了 IntelliJ IDEA，你也可以用其他 IDE ——我不会提及有关这两个 IDE 的任何特性。请确保你使用的是适用于 wizardry 的 Minecraft Forge 版本。通常这是你使用的 Minecraft 版本的最新 Forge 版本。
 
 - A mod set up ready to add spells to (main mod class and proxies, plus a lang file).
 
