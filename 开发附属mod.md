@@ -1,21 +1,19 @@
 > These tutorials are for wizardry 4.2.x. For older 1.12 versions (and 1.10/1.11), check the page history. For 1.7.10 versions of wizardry, see the [legacy spell packs tutorial](https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry/pages/making-spell-packs).
 
-> 本教程用于wizardry 4.2.x. 对于较旧的 1.12 （和 1.10/1.11）版本请查看历史页面。1.7.10 版本的教程请见[legacy spell packs tutorial](https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry/pages/making-spell-packs).
+> 本教程用于wizardry 4.2.x。如果要找的教程关于1.12环境下旧版的模组，或是1.11/1.10版本的模组，请查看历史页面。1.7.10 版本的教程请见[历史版本法术包教程](https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry/pages/making-spell-packs).
 
 These pages explain how to program addon mods for _Electroblob's Wizardry_, particularly **spell packs**. This page covers setting up your workspace ready to work with wizardry's code. See the links to other pages for how to add spells and other content.
 
 
-本页面介绍如何添加 _Electroblob's Wizardry_ 的附属 mod, 尤其是 **spell packs**。本页面将介绍如何设置你的 workspace ready to work with wizardry's code.**看不懂:(** 关于如何添加法术和其他内容，请参阅其他页面。
+本页面将介绍如何开发 _巫术学_ 的附属 mod, 尤其是如何开发 **法术包**。本页面将介绍如何配置好巫术学开发工作环境。 关于如何添加法术和其他内容，请参阅其他页面。  
 
+## 关于此类的页面  
 
-## Pages in this category
-**看不懂:(** 
-
-[[Adding Spells]]  
+[[添加法术]]  
 [[Adding Wand Upgrades]]  
 [[Adding Entities]]  
 [[Miscellaneous Features]]  
-[[Compiling and Publishing]]
+[[Compiling and Publishing]]//等待其他页面翻译完毕
 
 ---
 # Getting Started
@@ -26,11 +24,11 @@ These pages explain how to program addon mods for _Electroblob's Wizardry_, part
 
 - A reasonable knowledge of the basics of modding with _Minecraft Forge_: an understanding of simple Java, how to make blocks, items and such like, and familiarity with the registry and event handling systems. That said, I have made every effort to explain things as clearly as I can along the way.
 
-- 了解一些关于 _Minecraft Forge_ 的基础知识: 一定的 Java 基础，例如如何添加方块、物品, and familiarity with the registry and event handling systems. 我已经尽量清楚地说明了。
+- 了解一些关于 _Minecraft Forge_ 的基础知识: 有一定的 Java 基础，并且了解如何添加方块、物品,熟悉Java中的注册表系统和事件处理系统。66666666
 
 - A modding environment set up. I used eclipse for several years and recently switched to IntelliJ IDEA, but you can use any IDE - I won't be referring to anything specific to either of those IDEs. Make sure you have the correct version of Minecraft Forge for the version of wizardry you intend to use. Usually this will be the latest version of Forge for the version of Minecraft you are using.
 
-- 配置 mod 环境。我用了好几年的 eclipse ，最近换到了 IntelliJ IDEA，你也可以用其他 IDE ——我不会提及有关这两个 IDE 的任何特性。请确保你使用的是适用于 wizardry 的 Minecraft Forge 版本。通常这是你使用的 Minecraft 版本的最新 Forge 版本。
+- 设置 mod 环境。我用了好几年的 eclipse ，最近换到了 IntelliJ IDEA，你也可以用其他 IDE ——我不会提及有关这两个 IDE 的任何特性。请确保你使用的是适用于 wizardry 的 Minecraft Forge 版本。通常这是你使用的 Minecraft 版本的最新 Forge 版本。
 
 - A mod set up ready to add spells to (main mod class and proxies, plus a lang file).
 
