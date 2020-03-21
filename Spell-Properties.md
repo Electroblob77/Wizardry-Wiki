@@ -9,6 +9,7 @@ The spell properties files can be viewed in the wizardry GitHub repository [here
 你可以在巫术学的 Github repository 中找到法术的属性文件：[此处](https://github.com/Electroblob77/Wizardry/tree/1.12.2/src/main/resources/assets/ebwizardry/spells)。
 
 ## Structure
+## 构成
 
 Spell properties files all contain the following tags:
 
@@ -43,19 +44,19 @@ Spell properties files all contain the following tags:
   - **dispensers（发射器）**: 将值设置为 true 以允许发射器发动该法术，将值设置为 false 以禁用。如果将其禁用，那么该法术的卷轴将会被发射器像物品一样扔出去而不是发动该法术。
   - **commands（命令）**: 将值设置为 true 以允许使用命令发动该法术，将值设置为 false 以禁用。如果将其禁用，那么在使用`/cast`命令发动该法术时会失败。
   - **treasure（宝藏）**: 将值设置为 true 以将此法术包含在战利品箱内，将值设置为 false 以禁用。如果将其禁用，那么在箱子的战利品表使用[[random_spell loot function|Loot Functions#random_spell]]时，这个法术将会被排除在外。
-  - **trades（交易）**: 将值设置为 true 以将此法术包含在巫师的交易项内，将值设置为 false 以禁用。如果将其禁用，新生成的巫师将不会在交易项内提供该法术的法术书，同时现有巫师新解锁的交易项中也将不会包含它。
+  - **trades（交易）**: 将值设置为 trupropertye 以将此法术包含在巫师的交易项内，将值设置为 false 以禁用。如果将其禁用，新生成的巫师将不会在交易项内提供该法术的法术书，同时现有巫师新解锁的交易项中也将不会包含它。
   - **looting（战利品）**:将值设置为 true 以将此法术的法术书包含在生物的稀有掉落物中内，将值设置为 false 以禁用。如果将其禁用，那么在实体的战利品表使用[[random_spell loot function|Loot Functions#random_spell]]时，这个法术将会被排除在外。
 - **tier（等级）**: 确定法术的 [[等级|tiers]]. 有效的等级为 `"novice"` （基础）, `"apprentice"` （学徒）, `"advanced"` （进阶）和 `"master"` （大师）。 
 - **element（属性）**: 确定法术的[[属性|elements]].有效的属性为`"magic"` （无属性）, `"fire"` （火焰）, `"ice"` （冰霜）, `"lightning"` （雷电）, `"necromancy"` （死灵）, `"earth"` （大地）, `"sorcery"` （秘法）和 `"healing"` （治疗）。
 - **type（类型）**: 确定法术的[[类型|spell types]].。 `"attack"` （攻击）, `"defence"` （防御）, `"utility"` （功能）, `"minion"` （召唤）, `"buff"` （加成）, `"construct"` （造物）, `"projectile"` （投掷物）和 `"alteration"` （改造）。
 - **cost（消耗）**: 确定法术的魔力值消耗。
 - **chargeup**: 目前未使用。
-- **cooldown**: 确定法术的冷却时间, 用刻（tick）来表示 (20 刻 = 1 秒) 。
-- **base_properties**: A list of _spell-specific_ properties. Different spells will have different properties depending on what they do, and a few will have none at all. Property names are normally fairly self-explanatory.
-  - **[property name]**: Determines the numeric value of a particular property.
+- **cooldown（冷却）**: 确定法术的冷却时间, 用刻（tick）来表示 (20 刻 = 1 秒) 。
+- **base_properties**: _法术特殊属性_ 列表。 不同的法术将会有不同的属性，这取决于它们的用途，有的法术没有。法术属性的名称通常都会很清楚地介绍该法术。
+  - **[property name]（属性名称）**: 确定特殊属性的数值。
   - ...
 
-As an example, here is the spell properties file for [[magic missile]]:
+例如，下面是[[magic missile]]的法术属性文件：
 
 ```json
 {
@@ -83,14 +84,22 @@ As an example, here is the spell properties file for [[magic missile]]:
 }
 ```
 
-Here, the `"damage"` tag specifies the damage dealt when a magic missile hits a player or mob, and the `"range"` tag determines how far it will fly before vanishing.
+这里的 `"damage"` 标签确定了击中玩家或生物时造成的伤害, `"range"` 标签确定了它的最大飞行距离。
 
 > The spell-specific properties listed in a spell's JSON file are the only ones available for that spell. Removing any of them will crash the game with a `JSONSyntaxException`, and adding others will do nothing. For example, adding a `"blast_radius"` tag to a spell that doesn't already have it will not make it cause explosions, as this would have to be implemented in-code first.
 
+>  每一个法术的属性都由它们自己独立的 JSON  文件指定。删除 `JSONSyntaxException` 中的任何一个属性会使游戏崩溃，增加多余的属性不会有任何效果。例如，在法术中添加 `"blast_radius"` 标签不会让该法术拥有爆炸属性，因为它要在代码中实现。
+
 ## Modifying spell properties
+## 修改法术属性
 
 Spell properties files can be modified to tweak how spells behave - this can be useful for balancing modpacks, making minigames, or just adjusting the gameplay to your liking.
 
+修改法术属性会改变法术的行为——你可以用它制作整合包，小游戏，或者按你的喜好修改游戏。
+
 For now, the only way to do this is to modify the mod jar directly. To do this, use an archive program such as 7zip to extract the JSON files for the spells you want to edit from the mod jar (or alternatively rename the mod jar to a `.zip` and unzip using your file explorer). The JSON files can then be modified to change various properties of the spell. When you're done editing, overwrite the original files in the mod jar (or zip the mod jar again and rename to a `.jar`) and run _Minecraft_, and you should see the altered properties in-game!
 
+目前唯一的改变法术属性的方法是修改 mod 的 jar 文件。你需要用一个解压缩软件（比如 7zip ）去提取 mod 的 jar 中的 JSON 文本（或者将 jar 文件的后缀名改为 .zip 并使用系统自带的解压缩软件进行解压）。然后你就可以通过修改该文件以改变法术的各种属性，当修改完成时，用这个 JSON 文件覆盖 mod 的 jar 中原来的文件（或者再次将解压后的 zip 文件压缩并将后缀名改为 .jar ），启动你的 _Minecraft_ ，你可以看到在游戏中你修改的法术属性！
+
 > In future, you'll be able to edit these files without modifying the mod jar.
+> 在将来，你将不需要通过修改 mod 的 jar 文件的方式去修改法术属性。
