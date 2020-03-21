@@ -56,10 +56,11 @@ However, if you look inside the wizardry jar and open up any of the classes you'
 单数，如果你打开 wizardry 的 jar 文件，你会发现里面的所有类都是不可读的。要获取可阅读的版本，你需要附加源代码。你可以在可以在 Github 下下载到 .zip 格式的源代码：
 
 1. Go to the [releases page](https://github.com/Electroblob77/Wizardry/releases) for wizardry's GitHub repository (you can also access this from the main page by clicking releases in the menu bar just above the file tree)
-1. 打开 wizardry 的 GitHub repository [releases page](https://github.com/Electroblob77/Wizardry/releases) （你也可以通过点击主页 file tree 上方的菜单栏中访问）。
 2. Find the release you're developing for in the list
-2. 找到你正在开发的发行版。
 3. Click the little `.zip` icon below the release version number to download a zip file of the entire repository at that release 
+
+1. 打开 wizardry 的 GitHub repository [releases page](https://github.com/Electroblob77/Wizardry/releases) （你也可以通过点击主页 file tree 上方的菜单栏中访问）。
+2. 找到你正在开发的发行版。
 3. 点击发行版本下方的 `.zip` 图标下载这个发行版的完整 repository 。
 
 Once you've downloaded the source code, rename the file extension from `.zip` to `.jar` and move the file somewhere sensible (don't put it in `libs` or Forge will think you have duplicate mods). Now use your IDE to attach the source jar to the compiled jar - again, if you don't know how, you'll need to look up how to do this for the IDE you're using.
@@ -74,22 +75,36 @@ Once you've downloaded the source code, rename the file extension from `.zip` to
 
 Next you'll need to specify Wizardry as a dependency for your mod, which is done in your `@Mod` annotation using the following syntax:
 
+接下来，你需要将 Wizardry 设置为你的 mod 的前置，下面的是完成后的 `@Mod` 中的 annotation 语法：
+
 `dependencies="required-after:ebwizardry"`
 
 > If you're using a Minecraft version prior to 1.12, replace `ebwizardry` with `wizardry`.
+> 如果你想要使用 1.12 以前的 wizardry 版本，请将 `ebwizardry`换成 `wizardry` 。
 
-This will do two things:
+这将执行两项操作:
 1. It ensures Forge will always load your addon after wizardry. This is important for registries (and a few other things) to work correctly.
 2. If a user tries to run the game with your addon installed, but without wizardry, Forge will display a message telling them that wizardry must be installed.
 
+1. 确保 Forge 始终在加载 wizardry 后加载你的附属 mod 。这对 registries （和一些其他的事情）正常运行非常重要。
+2. 如果用户没有安装 wizardry ，在其尝试在安装你的附属 mod 后打开游戏时，Forge 会告诉用户必须要先安装 wizardry 。
+
 You can also specify a version or range of versions your addon is for, by appending an `@` followed by the [maven version range syntax](https://maven.apache.org/enforcer/enforcer-rules/versionRanges.html). For example, the following syntax only allows an addon to run with 4.2.x versions of wizardry:
+
+你还可以按照 [maven version range syntax](https://maven.apache.org/enforcer/enforcer-rules/versionRanges.html) 指定你的附属 mod 的适用版本。比如，要让附属只能和 wizardry 4.2.x 版本一起运行：
 
 `dependencies="required-after:ebwizardry@[4.2.0,4.3)"`
 
 > The page on [structuring your mod](https://mcforge.readthedocs.io/en/latest/gettingstarted/structuring/) in the Forge documentation contains lots of useful information about the `@Mod` annotation and the `mcmod.info` file.
 
+> 在 Forge 文档中的 [structuring your mod](https://mcforge.readthedocs.io/en/latest/gettingstarted/structuring/) 页面内含有关于 `@Mod` 注释和 `mcmod.info` 文件的详细信息。
+
 ---
 
 Now you're ready to start adding content to your addon mod! Check out the page on [[adding spells]] for a tutorial on how to add spells. Alternatively, take a look at the other tutorial pages on this wiki, or have a read of wizardry's code - I endeavour to write useful Javadoc comments for all of the important classes and methods; you can learn a lot just by reading through the code itself.
 
+现在，你已经准备去制作你的附属 mod 了吗？点击 [[adding spells]] 页面去了解如何添加法术。你还可以查看这个 wiki 的其他教程页面，或者直接阅读 wizardry 的代码——我为 Javadoc 中的重要类和 method 添加了很多注释，你可以通过阅读代码了解到更多信息。
+
 If you have a question about writing an addon for wizardry, come and poke me on [Discord](https://discord.gg/MTmMzMv), [CurseForge](https://minecraft.curseforge.com/projects/electroblobs-wizardry) or the [Minecraft Forum thread](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2818029-electroblobs-wizardry-the-expandable-rpg-magic-mod) and I will answer it as well as I can! Consider also setting up a GitHub repository for your addon mod, it makes it a lot easier for me to help you.
+
+如果你对编写附属有什么问题，可以来 [Discord](https://discord.gg/MTmMzMv)，[CurseForge](https://minecraft.curseforge.com/projects/electroblobs-wizardry) 或者 [Minecraft Forum thread](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2818029-electroblobs-wizardry-the-expandable-rpg-magic-mod) 。我会尽量解答的！我还考虑为你的附属 mod 去开一个 GitHub repository，这样能更好地帮助你们。
