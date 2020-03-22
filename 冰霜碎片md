@@ -1,0 +1,14 @@
+| 冰霜碎片 |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/ice_shard.png)|
+|---|---|
+| 等级 | 学徒 |
+| 元素 | 冰霜 |
+| 类型 | 投掷物 |
+| 魔力值消耗 | 10 |
+| 是否为持续型 | 否 |
+| 可被巫师发动 | 是 |
+| 可被发射器施展 | 是 |
+| ID | `ebwizardry:ice_shard` |
+| 子ID | 20 |
+| 加入版本 | Wizardry 1.0 |
+## 说明
+_在你指向的方向发射一个冰碎片，在命中目标时会使目标受到伤害并减速。_
