@@ -75,51 +75,92 @@ Determines whether spells that a player has not yet cast will be unreadable unti
 #### 友军伤害
 Determines whether spells cast by a player can damage or otherwise negatively affect that player's allies. If set to false, a player's allies will be completely immune to all magic damage from them, both direct ([[ignite]], [[wither]], etc.) and indirect (summoned creatures, traps, [[chain lightning]], etc.) - this is in addition to the normal effects of designating a player as an ally. See [[Ally Designation System]] for more details on allies. The default value is true.
 
+设置你的魔法是否会对友好生物造成伤害；不管是否关闭此设定魔法都不会追踪你的召唤物和盟友，但若关闭此设定，友军将免疫你的伤害，无论是直接的（[ignite]], [[wither]]等）还是间接的（summoned creatures, traps, [[chain lightning]]等）——this is in addition to the normal effects of玩家指定的盟友。
+
 #### Telekinetic Disarmament
+#### 隔空取物解除装备
 Determines whether players can use [[telekinesis]] to disarm other players. It is recommended that this is set to false on non-whitelisted servers to prevent players from stealing each other's items. The default value is true.
 
+控制是否允许玩家使用[[telekinesis]]来解除其他玩家的装备。关闭以避免接触装备。建议在非白名单服务器关闭以避免玩家利用此方式偷窃他人的物品。默认值为 true 。
+
 #### Teleport Through Unbreakable Blocks
+#### 传送穿过无法破坏的方块
 Determines whether players can teleport through unbreakable blocks (e.g. bedrock, barrier blocks) using the [[phase step]] spell. This is set to false by default so that the phase step spell cannot be used to teleport into the void, cheat in mazes, and such like.
 
+控制是否允许玩家使用[[隧穿术]]来穿过不可破坏的方块（如基岩）。默认值为 false ，这是为了防止玩家使用[[隧穿术]]在迷宫中作弊，或者掉进虚空等。
+
 #### Firebomb is Craftable
+#### 燃烧弹合成
 Determines whether [[firebombs|Firebomb-(Item)]] have a [[crafting recipe|Crafting-Recipes]]. The default value is true.
+
+控制[[firebombs|Firebomb-(Item)]]是否可以合成。默认值为 true 。
 
 #### Poison Bomb is Craftable
 Determines whether [[poison bombs|Poison-Bomb-(Item)]] have a crafting recipe. The default value is true.
 
+控制[[poison bombs|Poison-Bomb-(Item)]]是否可以合成（[[合成配方|Crafting-Recipes]]）。默认值为 true 。
+
+
 #### Smoke Bomb is Craftable
 Determines whether [[smoke bombs|Smoke-Bomb-(Item)]] have a crafting recipe. The default value is true.
 
+控制[[smoke bombs|Smoke-Bomb-(Item)]]是否可以合成。默认值为 true 。
+
+
 #### Use Alternate Scroll Recipe
+#### 使用替代卷轴合成
 Determines whether a [[magic crystal]] is required in the crafting recipe for [[blank scrolls|Scrolls]]. This should be set to true if another mod adds a conflicting recipe. The default value is false.
 
+在[[空白卷轴]]的无序合成配方中是否需要[[魔法水晶]]，如果另一个 mod 添加配方冲突，则设置为 true 。
+
 #### Spell Book Drop Chance
+#### 法术书掉落几率
 Determines the chance out of 200 that mobs will drop spell books. Must be an integer between 0 and 200, with a value of 200 causing mobs to drop a spell book every time and a value of 0 causing spell book drops to be disabled entirely. The default value is 3.
 
+怪物死亡时掉落法术书的几率，数字越大，掉的越多。设置为0可以关闭法术书的掉落，设置200保证掉落。
+
 _N.B. This does not apply to [[evil wizards|Evil Wizard]]._
+_注：这不适用于[[evil wizards|Evil Wizard]]._
 
 #### Player Damage Scaling
+#### 玩家伤害比例因数
 Determines the global damage scaling factor applied to magic damage dealt by players. This includes indirect damage, e.g. from players' minions or constructs. Use this config option to alter the difficulty of the mod to your preference.
 
+设定玩家施放法术造成伤害的比例因数, 相对于 1 而言。这里还包括玩家通过召唤物和造物间接造成的伤害。你可以按照你的喜好用该选项定义 mod 的难度。
+
 _N.B. Some spells such as [[arrow rain]] use vanilla entities and will not be affected by this option._
+_注：有部分法术（如[[arrow rain]]）使用原版的实体，故不受此选项影响。_
 
 #### NPC Damage Scaling
+#### NPC 伤害比例因数
 Determines the global damage scaling factor applied to magic damage dealt by NPCs such as [[wizards]]. This includes indirect damage, e.g. from NPCs' minions or constructs. Use this config option to alter the difficulty of the mod to your preference.
 
+设定 NPC （如[[wizards]]）施放法术造成伤害的比例因数, 相对于 1 而言。这里还包括 NPC 通过召唤物和造物间接造成的伤害。你可以按照你的喜好用该选项定义 mod 的难度。
+
 _N.B. Some spells such as [[arrow rain]] use vanilla entities and will not be affected by this option._
+_注：有部分法术（如[[arrow rain]]）使用原版的实体，故不受此选项影响。_
 
 #### Summoned Creature Targets Whitelist
+#### 召唤生物的目标白名单
 Determines which mobs summoned creatures are specifically allowed to target, if this does not happen by default. Wizardry makes a best guess as to whether a mob is a suitable target for summoned creatures, but sometimes mobs from other mods work differently. Must be a list of entity IDs, with modid prefixes (for example, `wizardry:wizard`, `minecraft:shulker` or `twilightforest:skeleton_druid`). The default value is `[]` (an empty list).
+
+设定除了默认外，允许召唤生物和巫师攻击实体的名单。如果想让召唤的生物攻击它们。请把这个 mod 的生物添加到这个列表中。名称不区分大小写。不过有时候其他mod添加的怪物不一样。对于 mod 实体，以 mod ID 作为前缀（例如`wizardry:wizard`, `minecraft:shulker` or `twilightforest:skeleton_druid`）。
 
 #### Summoned Creature Targets Blacklist
 Determines which mobs summoned creatures are not allowed to target, overriding the default and the whitelist. Wizardry makes a best guess as to whether a mob is a suitable target for summoned creatures, but sometimes it is undesirable for them to target certain mobs from other mods. Must be a list of entity IDs, with modid prefixes (for example, `wizardry:wizard`, `minecraft:shulker` or `twilightforest:skeleton_druid`). The default value is `[creeper]`.
 
+设定除了默认外，禁止召唤生物和巫师攻击实体的名单。如果想让召唤的生物攻击它们。请把这个 mod 的生物添加到这个列表中。名称不区分大小写。不过有时候其他mod添加的怪物不一样。对于 mod 实体，以 mod ID 作为前缀（例如`wizardry:wizard`, `minecraft:shulker` or `twilightforest:skeleton_druid`）。默认为`[creeper]`。
+
 #### Minion Revenge Targeting
+#### 仆从仇恨反叛
 Determines whether summoned creatures can revenge-target their summoner if their summoner attacks them. Set this to false if you want your minions to behave themselves at all times, or if you often find yourself accidentally hitting your minions with magic. The default value is true.
+
+控制召唤物的主人是否能吸引到自身召唤物的仇恨。如果你希望你召唤的生物能够始终效忠于你，或者你经常误伤你用法术召唤的生物，你可以将值设置为 false 。默认值为 true 。
 
 ---
 ## Commands
 _Options which affect how wizardry's [[commands|Commands]] work._
+_wizardry的[[commands|Commands]]如何工作。_ （不能确定是否这么翻译
 
 #### Cast Command Multiplier Limit
 
@@ -134,6 +175,7 @@ _Options which affect how wizardry's [[commands|Commands]] work._
 ---
 ## Client Options
 _Options that are specific to each player; these have no effect in the config file on a server._
+_每个玩家的特定选项；这对服务器没有效果。_
 
 #### Spell HUD Position
 Determines the position of the spell HUD. Valid positions are 'Bottom left', 'Top left', 'Top right' and 'Bottom right' (without quotes). The default value is 'Top left'.
