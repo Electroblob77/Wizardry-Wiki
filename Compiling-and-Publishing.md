@@ -45,7 +45,7 @@ I do not place any restrictions on how or where you distribute your addon mod, p
 - You **credit me**, Electroblob, as the author of _Electroblob's Wizardry_, and **give a link** to the original mod (i.e. this page, the Minecraft Forum thread or the mods.curse.com page). After all, nobody can play your addon without downloading wizardry as well!
 - 将我，Electroblob，**标记为** _Electroblob's Wizardry_ 的作者，并且**给出**原 mod 的下载链接（该 mod 的 Minecraft Fourm 的主题或者 mods.curse.com 页面）。 毕竟没有人可以在不下载 wizadry 的情况下玩你的附属 mod ！
 - You do not make money off of your addon mod in any way. **This includes AdFly** and other URL shorteners. The **only** exception to this rule is the **Curse rewards program**. Making money from videos featuring your addon mod **is** allowed. (_The reason for this rule is as follows: I haven't put wizardry behind a URL shortener because I don't want my users to go through that just to download the mod, and as such I don't want users of addons to have to go through it either. If you want to discuss permissions, please don't hesitate to ask me._)
-> 你不能将附属 mod 用于商用。**这包括 AdFly** 和其他网址缩短服务。**唯一**的例外是 **Curse rewards program** 。当然你**可以**通过附属 mod 的视频或直播盈利。(_我制定这个协议的原因是：我没有在 wizedry 上使用 网址缩短服务，因为我不想让用户不得不使用这些进行下载，我也不想让附属 mod 这么做。如果你想要获得许可，请不要犹豫，可以问我。_)
+- 你不能将附属 mod 用于商用。**这包括 AdFly** 和其他网址缩短服务。**唯一**的例外是 **Curse rewards program** 。当然你**可以**通过附属 mod 的视频或直播盈利。(_我制定这个协议的原因是：我没有在 wizedry 上使用 网址缩短服务，因为我不想让用户不得不使用这些进行下载，我也不想让附属 mod 这么做。如果你想要获得许可，请不要犹豫，可以问我。_)
 > I recommend using CurseForge to distribute your addon mod, because it allows you to specify that it's an addon to Wizardry.
 > 我推荐使用 CurseForge 去发布你的附属 mod ，因为它允许你把它列为 Wizadry 的附属。
 
