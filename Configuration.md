@@ -1,8 +1,14 @@
 This page details all of the config options in wizardry and how to use them. Most of the information on this page can be found in-game using the mod options menu, accessed either from the 'mod options' button in the pause menu or the 'mods' button in the main menu.
 
+本页面将介绍 Wizadry 的所有配置选项与使用方法。本页面中的大部分内容都可以在游戏中的 mod options 菜单中找到，可以通过点击暂停菜单页面的 'mod options' 按钮或者主菜单的 'mods' 按钮进入。
+
 Wizardry may be configured either by using the in-game mod options menu (recommended), or by editing the config file manually with a text editor before launching the game.
 
+可以通过游戏中的 mod 菜单配置 Wizadry （推荐），或者在游戏启动之前编辑 config 文件中的文本进行配置。
+
 ## Jump to...
+**等待其他页面翻译中。。。**
+
 [[Worldgen|Configuration#worldgen]]  
 [[Gameplay|Configuration#gameplay]]  
 [[Commands|Configuration#commands]]  
@@ -12,35 +18,61 @@ Wizardry may be configured either by using the in-game mod options menu (recomme
 
 ---
 ## Worldgen
+## 世界生成设置
 _Options which affect how wizardry's world generation features work._
+_设定本模组的世界生成特征。_
 
 #### Ore Dimensions
+#### 水晶矿生成维度
 Determines the dimensions in which [[crystal ore]] will generate. Must be a list of integer dimension IDs. The default value is `[0]`, which is just the overworld.
 
+设定[[水晶矿石]] 的生成维度。维度 ID 必须为整数。默认值为 `[0]` ，指只在主世界生成。
+
 #### Flower Dimensions
+#### 水晶花生成维度
 Determines the dimensions in which [[crystal flowers|Crystal-Flower]] will generate. Must be a list of integer dimension IDs. The default value is `[0]`, which is just the overworld.
 
+设定[[crystal flowers|Crystal-Flower]]的生成维度。维度 ID 必须为整数。默认值为 `[0]` ，指只在主世界生成。
+
 #### Tower Dimensions
+#### 巫师塔生成维度
 Determines the dimensions in which [[wizard towers|Wizard-Tower]] will generate. Must be a list of integer dimension IDs. The default value is `[0]`, which is just the overworld.
 
+设定[[wizard towers|Wizard-Tower]]的生成维度。维度 ID 必须为整数。默认值为 `[0]` ，指只在主世界生成。
+
 #### Tower Rarity
+#### 巫师塔稀有程度
 Determines the rarity with which wizard towers will generate. Must be an integer between 0 and 50, with higher numbers meaning towers are rarer. The default value is 8.
+
+巫师塔的稀有度，代表每多少个区块内会生成一个巫师塔必须在 0 到 50 之间，数字越高生成概率就越少。默认值为 8 。
 
 _N.B. Since structure generation is somewhat random, it is always possible for two or more wizard towers to generate near to each other._
 
+_注：因为生成是随机的, 所以总是有可能会有两个或多个距离相近的巫师塔。_
+
 #### Generate Loot
+#### 生成战利品
 Determines whether wizardry loot will be generated in vanilla loot chests. Disabling this will prevent wizardry's loot (as specified in the loot table chests/dungeon_additions.json) from being injected into vanilla loot tables.
 
-_N.B. This does not affect wizardry's [[loot functions|Loot-Functions]]._
+是否在地牢箱子中生成战利品。禁用此选项将阻止 wizardry 的战利品（as specified in the loot table chests/dungeon_additions.json）添加到原版战利品表中。
+
+_N.B. This does not affect wizardry's [[loot functions|Loot-Functions]]._.
+
+_注：这不会影响 wizadry 的[[loot functions|Loot-Functions]]._
 
 ---
 ## Gameplay
-_Options which affect wizardry's general gameplay._
+## 游戏机制设定
+_影响游戏机制的全局设定。_
 
 #### Discovery Mode
+#### 探索模式
 Determines whether spells that a player has not yet cast will be unreadable until they are identified (either using a [[scroll of identification]] or by casting the spell). Setting this option to false effectively removes the spell discovery mechanic, though wizardry still keeps track of which spells each player has cast, so this option may be turned on and off at will without affecting existing saves. The default value is true.
 
+当此设置为打开时，你还没施放的法术 (包括 [[scroll of identification]] 或者施放法术)不可读，直到施放后（基于这个世界）。在创造模式下无效。如果这被关闭，生存模式下将无法获得待鉴定卷轴。将此选项设置为 false 可以删除法术探索机制，即使玩家依旧可以留下法术施放记录，所以这个选项不会影响现有的法术。默认值为 true 。
+
 #### Friendly Fire
+#### 友军伤害
 Determines whether spells cast by a player can damage or otherwise negatively affect that player's allies. If set to false, a player's allies will be completely immune to all magic damage from them, both direct ([[ignite]], [[wither]], etc.) and indirect (summoned creatures, traps, [[chain lightning]], etc.) - this is in addition to the normal effects of designating a player as an ally. See [[Ally Designation System]] for more details on allies. The default value is true.
 
 #### Telekinetic Disarmament
