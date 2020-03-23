@@ -5,11 +5,11 @@
 
 ## 相关页面  
 
-[[添加法术]]  
+[[编写你自己的法术]]  
 [[Adding Wand Upgrades]]  
-[[Adding Entities]]  
+[[添加生物]]  
 [[Miscellaneous Features]]  
-[[Compiling and Publishing]]//等待其他页面翻译完毕
+[[编译与发布附属mod]]
 
 ---
 # 开始  
