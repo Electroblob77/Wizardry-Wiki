@@ -12,7 +12,7 @@
 [[images/icons/commands.png]] [[命令|命令]]  
 [[images/icons/pointer.png]] [[盟友指定系统|盟友指定系统]]  
 [[images/icons/target_pointer.png]] [[召唤物选定系统|召唤物选定系统]]  
-[[images/icons/configuration.png]] [[Configuration|Configuration]]  
+[[images/icons/configuration.png]] [[配置文件|配置文件]]  
 [[images/icons/loot_functions.png]] [[Loot Functions|Loot-Functions]]  
 [[images/icons/spell_properties.png]] [[法术属性]]
 ### Development
