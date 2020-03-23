@@ -178,22 +178,36 @@ _Options that are specific to each player; these have no effect in the config fi
 _每个玩家的特定选项；这对服务器没有效果。_
 
 #### Spell HUD Position
+#### 法术HUD位置
 Determines the position of the spell HUD. Valid positions are 'Bottom left', 'Top left', 'Top right' and 'Bottom right' (without quotes). The default value is 'Top left'.
 
+设定法术 HUD 的位置。有效的位置参数有'Bottom left', 'Top left', 'Top right' and 'Bottom right' (无引号)
+
 #### Show Summoned Creature Names
+#### 显示召唤生物名称
 Determines whether summoned creatures show nameplates above their heads. If set to true, summoned creatures will show a nameplate with the name of the owner and the name of the creature, for example, 'Steve's Zombie'. The default value is true.
+是否将召唤的生物名字和所有者显示在头顶。如果设置为 true ，那么召唤的生物会在头顶显示主人的名字和自己的名字。例如'Steve's Zombie'（史蒂夫的僵尸）。默认值为 true 。
 
 #### Enable Shift-Scrolling
+#### 启用 Shift-滚轮
 Determines whether spells can be switched between by sneaking and scrolling with the mouse wheel. The default value is true.
+是否可以使用鼠标滚轮切换法杖上的法术。默认值为 true 。
 
 _N.B. This does not affect the keybindings for spell switching; those can be disabled in the controls menu if desired by setting them to NONE._
+_注：这不会影响法术切换键。如果需要关闭你需要打开控制菜单将其设置为 NONE 。_
 
 ---
 ## Resistances
+## 抗性设置
 _Options that affect how creatures interact with the different types of damage in wizardry._
+_设定某些怪物对不同属性魔法的抗性。_
 
 ---
 ## Spells
+## 法术设定
 All of the [[spells|Spells]] in wizardry (and those in addons, if present) have their own config option allowing them to be enabled or disabled individually. If a spell is causing problems, creates an unintended exploit, or you just don't like it, then you can turn it off here!
 
+wizardry 中的所有[[spells|Spells]]（包括附属法术，如果有添加附属的话）都有独立的配置，可以单独禁用或启用。如果一个法术引起麻烦，出现漏洞，或者你不喜欢它，都可以在这里关掉。
+
 _N.B. In order to preserve correct metadata values, the spell book and scroll (if it has one) will remain in-game and will be accessible in the creative menu. However, disabled spells may not be cast via any means, may not be bound to wands, will be excluded from any newly unlocked trades, and will not generate in chests or drop as loot. This ensures they are unobtainable in survival mode unless the spell book/scroll already exists in the world._
+_注：为了保存正确的 metadata 值。删除的法术的法术书和卷轴将会留在游戏中，你可以通过创造模式分类栏找到它。但是，禁用的法术将不能通过任何方式施放，不能和魔杖绑定，会在在新的交易项中出现，也不会出现在箱子里或者作为战利品掉落。这保证它们不能在生存模式下取得，除非法术书和卷轴已经存在了。_
