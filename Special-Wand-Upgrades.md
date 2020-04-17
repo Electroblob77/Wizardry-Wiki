@@ -6,7 +6,7 @@
 | Item ID | `ebwizardry:[type]_upgrade` |
 | First appeared in | Wizardry 1.0 |
 
-Special wand upgrades are items that improve particular aspects of [[wands]]. There are currently eight types of special wand upgrades: storage, siphon, condenser, range, duration, cooldown, blast and attunement.
+Special wand upgrades are items that improve particular aspects of [[wands]]. There are currently nine types of special wand upgrade: storage, siphon, condenser, range, duration, cooldown, blast, attunement and melee.
 
 [[images/misc/wand_upgrades.png]]  
 _All nine special wand upgrades in wizardry_
