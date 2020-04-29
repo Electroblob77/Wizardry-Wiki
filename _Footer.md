@@ -1,1 +1,1 @@
-© Electroblob 2019. Details of permissions can be found in the [license](https://github.com/Electroblob77/Wizardry/blob/1.12.2/LICENSE.md).
+© Electroblob 2020. Details of permissions can be found in the [license](https://github.com/Electroblob77/Wizardry/blob/1.12.2/LICENSE.md).
