@@ -9,6 +9,8 @@ This wiki explains everything there is to know about wizardry, including gamepla
 | [![](https://github.com/Electroblob77/Wizardry/wiki/en_gb/images/banners/menu_blocks.png)](https://github.com/Electroblob77/Wizardry/wiki/Blocks) | [![](https://github.com/Electroblob77/Wizardry/wiki/en_gb/images/banners/menu_items.png)](https://github.com/Electroblob77/Wizardry/wiki/Items) |
 | [![](https://github.com/Electroblob77/Wizardry/wiki/en_gb/images/banners/menu_mobs.png)](https://github.com/Electroblob77/Wizardry/wiki/Mobs) | [![](https://github.com/Electroblob77/Wizardry/wiki/en_gb/images/banners/menu_structures.png)](https://github.com/Electroblob77/Wizardry/wiki/Structures) |
 
+[[View this wiki in Chinese (simplified)|zh_cn/Home]]
+
 ### Contribute to this wiki!
 
 Want to help complete, translate or maintain the wiki? [Head to the mirror](https://github.com/Electroblob77/Wizardry-Wiki) for more information on how to contribute (it's easy!).
