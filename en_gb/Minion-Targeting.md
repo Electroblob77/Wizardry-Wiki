@@ -1,0 +1,3 @@
+_Since: Wizardry 1.1_
+
+Wizardry 1.1 and upwards allows players to select their minons' targets manually. To do this, the minion you wish to command must be selected by **sneak-right-clicking on it with any wand** (you must be within about 4 blocks for this to work). A coloured arrow will appear above its head, indicating that it is now selected. To select its target, **aim at any mob or player within 16 blocks while sneaking** and you will see a similar red arrow appear above its head. **Right-click** and the selected minion will immediately start pursuing this target. You can deselect a minion by sneak-right-clicking it again.

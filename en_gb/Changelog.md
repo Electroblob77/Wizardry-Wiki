@@ -17,6 +17,36 @@ This is a master changelog covering all released versions of wizardry. Individua
 
 ## 1.12.2 Versions
 
+### Version 4.2.5 - Hotfix
+
+\# Fixed issue #274, where spawning conditions for wizardry's hostile mobs were incorrectly applied to all hostile mobs
+
+### Version 4.2.4 - Bits and bobs, balancing and bugfixes
+
+\+ Unleashed the full potential of spell properties files!  
+    \> Spell properties files can now be overridden globally in config/ebwizardry/spells  
+    \> Spell properties files can now be overridden for specific worlds in [world save]/data/spells  
+    \> Moved the main config file to the new ebwizardry folder because it makes more sense for it to be there now  
+\+ API improvements to spell books:  
+    \> Allow spells to set which book/scroll items they can appear on  
+    \> Allow spell books to set custom GUI textures  
+    \> Tweaks to loot functions and wizards to accommodate the changes  
+\* Updated the crystal ore picture in The Wizard's Handbook  
+\* Rebalanced wand progression, it should be a lot less of a grind now, especially at lower tiers  
+\* Increased the health threshold for the amulet of transience, it should now trigger more often  
+\* Fast worldgen now performs a simple check for water instead of just ignoring ocean biomes, so it shouldn't generate structures underwater  
+\* Improved the descriptions of some of the structure generation settings to make it clearer how to disable them completely  
+\# The looting spell context now works properly  
+\# Fixed issue #186 (also #269), a crash during world generation with Dynamic Trees installed - fancy worldgen should now work again with Dynamic Trees  
+\# Converted wizardry's in-world sound files from stereo to mono, fixing issue #218  
+\# Fixed issue #244, where arcane jammer would sometimes not work properly on evokers  
+\# Fixed issue #245, where the client and server would sometimes select different forfeits  
+\# Fixed issue #248, where the game would crash during world generation if any of the config structure file lists did not contain any valid files - this now prints a warning instead, sincce that's not how you should disable structures  
+\# Fixed issue #256, where removing spells (either by updating from an older version or uninstalling a spell pack) would result in various spell book and scroll metadata mismatches  
+\# Fixed issue #257, where the ring of condensing and amulet of transience would only recharge wands/armour on the client side, meaning the charge would reset to its previous value when the item was moved around  
+\# Fixed issue #260, where lightning wraith spawners would only work during thunderstorms  
+\# Fixed issue #267, a block detection misalignment that caused block properties to be queried on the wrong block in various spells  
+
 ### Version 4.2.3 - Hotfix  
   
 \# Temporarily disabled the spells sound category to prevent issue #238, this will be reinstated later when a solution is found  
