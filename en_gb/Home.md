@@ -10,6 +10,7 @@ This wiki explains everything there is to know about wizardry, including gamepla
 | [![](https://github.com/Electroblob77/Wizardry/wiki/en_gb/images/banners/menu_mobs.png)](https://github.com/Electroblob77/Wizardry/wiki/Mobs) | [![](https://github.com/Electroblob77/Wizardry/wiki/en_gb/images/banners/menu_structures.png)](https://github.com/Electroblob77/Wizardry/wiki/Structures) |
 
 [[View this wiki in Chinese (simplified)|主页]]
+_Huge thanks to yuwanjun564, AssassinSEAL, GCVillager and GXHurry for translating this wiki into Chinese!_
 
 ### Contribute to this wiki!
 
