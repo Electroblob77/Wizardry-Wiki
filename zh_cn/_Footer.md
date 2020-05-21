@@ -1,1 +1,1 @@
-© Electroblob 2018. 详细的许可信息可以在[许可协议](https://github.com/Electroblob77/Wizardry/blob/1.12.2/LICENSE.md)中找到。
+© Electroblob 2020. 详细的许可信息可以在[许可协议](https://github.com/Electroblob77/Wizardry/blob/1.12.2/LICENSE.md)中找到。
