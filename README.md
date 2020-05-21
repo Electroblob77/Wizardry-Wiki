@@ -1,22 +1,24 @@
-# Wizardry Wiki
-Repository-based mirror for the wizardry wiki, provided so the community can contribute to the wiki via fork &amp; PR
+# 巫术学Wiki（中文） 
+_翻译自巫术学英文wiki_  
 
-To contribute to the wiki, simply fork this repository and edit the pages and images, on GitHub (no downloading necessary, yay!) or using your markdown editor of choice. When you're done, submit a PR and I'll review it, merge changes, and push them to the live copy of the wiki.
+这个Wiki提供的是巫术学Wiki的镜像，方便社区通过fork和PR为巫术学的Wiki做出贡献。  
 
-Not familiar with markdown? [Here's a handy cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+如果你想要为这个wiki做贡献，你只需要fork这个项目，接着在Github上修改wiki的页面和图片（不需要下载，耶！），或者可以选择使用Markdown编辑器来编辑。如果你修缮完成了，提交一个PR,我会审查你的页面，并且将修改的部分加入主分支中，最后将修改后的页面放到Wiki主页面上。  
+ 
+不熟悉Markdown语法吗？[这里有一个Markdown的入门教程](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)。   
 
-## Style Guide
+## 编辑风格指南
 
-Please follow these guidelines when adding and editing wiki content, it'll help your contribution fit seamlessly into the wiki!
+在编辑和新增wiki条目时，请遵循这里的指南。这可以让你贡献的与原有的内容无缝衔接！  
 
-- Wiki pages should be written in an informational style, and not include opinion or other bias. Unlike the in-game documentation, the wiki is no place for fancy, mysterious language! The aim is to convey information in an easy-to-understand format.
+- wiki的页面必须是以信息为内容，不能包含个人观点和其他有偏见的内容。有别于游戏内的文件，这个wiki不允许想象的内容或者阴阳怪气的话语！这个wiki的创建目的是以易于理解的方式来告诉玩家有关这个mod的信息。  
 
-- The wiki language is British English. You can write in other forms of English (US, Canadian, etc.), but it will probably be edited at some point to match the rest of the wiki.
+- 这个wiki的语言是简体中文。你可以用其他中文的语言形式来编辑（繁体中文，粤语），但是它们的某些部分很可能会被编辑，以和这个wiki的其他部分较好地融合。  
 
-- Screenshots are good! Please preferably use the default resource pack (or the new Jappa textures) without shaders, and try to keep them 'clean' i.e. free of inventory clutter, other mods' machinery and items, photobombing mobs...
+- 如果有屏幕截图，那就太棒了！请充分利用原版资源包（或者新的Jappa材质包），不要带光影，并且尽量保持截图的内容足够“干净”：不要在地图里到处乱放东西，不要有其他模组的结构和物品，也不要挤满图片的生物……  
 
-- When applicable, match existing pages' formatting and headings. For example, a new spell page should have the same format as all the other spell pages. A good way to do this is by copying an existing page and then editing the information.
+- 如果可以，尽可能保持和原有页面一样的格式和类似的标题。比如说，一个新法术的页面应该和其他法术的页面有着一样的格式。把一个存在的页面复制过去，并且修改里面的内容，是添加新条目的好方法。  
 
-- You can add captions to your images directly below them, _in italics_.
+- 你可以把标题直接写到图片的下面， _并且加上斜体_ 。
 
-- You can quote text from the mod as part of a page, use blockquotes (`>` at the start of the paragraph) to emphasise the quote. These can have captions to show where they are from.
+- 你可以引用mod中的一部分内容来作为这个页面的一部分，用右尖括号（`>`，要放在一段的开头）来强调这是引用的内容。你可以加一点说明来告诉我们这些文字的来源。
